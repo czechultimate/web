@@ -1,0 +1,33 @@
+<div class="navigation">
+
+    <div class="ui grid">
+        <div class="eight wide column">
+            <h1>Česká asociace ultimate</h1>
+        </div>
+        <div class="eight wide column" style="text-align: right; margin-top: 0.5em;">
+
+            <button class="ui facebook button">
+                <i class="facebook icon"></i>
+                Facebook
+            </button>
+            <button class="ui instagram button">
+                <i class="instagram icon"></i>
+                Instagram
+            </button>
+            <button class="ui youtube button">
+                <i class="youtube icon"></i>
+                YouTube
+            </button>
+
+        </div>
+    </div>
+
+    <div class="ui large inverted menu">
+
+        {% for item in site.data.navigation %}
+        <a href="{{ item[1].link }}" class="{% if page.permalink == item[0] %}active{% endif %} item">
+            {{ item[1].name }}
+        </a>
+        {% endfor %}
+    </div>
+</div>

@@ -1,0 +1,15 @@
+source: src
+
+destination: site
+
+collections:
+  authors:
+    output: true
+
+include: ['_pages']
+
+url: "https://czechultimate.com"
+
+plugins:
+   - jekyll-sitemap
+   - jekyll-seo-tag

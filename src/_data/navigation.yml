@@ -1,0 +1,65 @@
+index:            # group = important for active items in the navigation and subnavigations
+  name: Novinky   # name = visible in navigation
+  link: index     # permalink
+ultimate:
+  name: Ultimate
+  link: ultimate
+  menu:
+    - name: "Co je to ultimate?"
+      link: ultimate
+    - name: "Spirit of the Game"
+      link: sotg
+    - name: Historie
+      submenu:
+        - name: "Ve světě"
+          link: historie
+        - name: "U nás v ČR"
+          link: historie-v-cr
+reprezentace:
+  name: Reprezentace
+  link: reprezentace
+  menu:
+    - name: Reprezentace
+      link: reprezentace
+    - name: Junioři
+      link: juniori
+    - name: Výsledky
+      link: reprezentace-vysledky
+# pro-zajemce:
+#   name: "Pro zájemce"
+#   link: ssl
+# pro-oddily:
+#   name: "Pro oddíly"
+#   link: ssl
+#   menu:
+#     - name: Minigranty
+#       link: minigranty
+programy:
+  name: "Rozvojové programy"
+  link: ssl
+  menu:
+    - name: "Středoškolská liga"
+      link: ssl
+    - name: "Školení učitelů"
+      link: skoleni-ucitelu
+    - name: Minigranty
+      link: minigranty
+# asociace:
+#   name: Asociace
+#   link: asociace
+#   menu:
+#     - name: "Co je to ultimate?"
+#       link: ultimate
+#     - name: "Spirit of the Game"
+#       link: sotg
+#     - name: Historie
+#       submenu:
+#         - name: "Ve světě"
+#           link: historie
+#         - name: "U nás v ČR"
+#           link: historie-v-cr
+
+# - name: Soutěže
+#   link: souteze
+# - name: Asociace
+#   link: asociace

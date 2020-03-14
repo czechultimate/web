@@ -1,0 +1,20 @@
+---
+layout: default
+group: ultimate
+permalink: historie-v-cr
+title: Ultimate
+---
+
+<div class="ui stackable grid">
+    <div class="row">
+        <div class="four wide column">
+            {% include subnavigation.html %}
+        </div>
+        <div class="eight wide column content-wrapper">
+            {% capture my_include %}{% include content/{{ page.permalink }}.md %}{% endcapture %}
+            {{ my_include | markdownify }}
+        </div>
+        <div class="four wide column">
+        </div>
+    </div>
+</div>

@@ -1,0 +1,49 @@
+---
+layout: default
+group: programy
+permalink: ssl
+title: SŠL
+---
+
+<div class="ui stackable grid">
+    <div class="row">
+        <div class="four wide column">
+            {% include subnavigation.html %}
+        </div>
+        <div class="eight wide column content-wrapper">
+            {% capture my_include %}{% include content/{{ page.permalink }}.md %}{% endcapture %}
+            {{ my_include | markdownify }}
+        </div>
+        <div class="four wide column">
+            <div class="ui fluid card">
+                <div class="content">
+                    <div class="header">
+                        <i class="file outline icon"></i>
+                        Ke stažení
+                    </div>
+                    <div class="description">
+                        <div class="ui bulleted list">
+                            <a class="item">Úplná pravidla Ultimate Frisbee (CZ)</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="ui fluid card">
+                <div class="content">
+                    <div class="header">
+                        <i class="linkify icon"></i>
+                        Zajímavé odkazy
+                    </div>
+                    <div class="description">
+                        <div class="ui bulleted list">
+                            <a class="item">Wikipedie (CZ)</a>
+                            <a class="item">Wikipedie (EN)</a>
+                            <a class="item">Pravidla v angličtině (WFDF)</a>
+                            <a class="item">O ultimate na USA Ultimate</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
