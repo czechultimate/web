@@ -1,0 +1,70 @@
+email-domena: "&#64;&#99;&#122;&#101;&#99;&#104;&#117;&#108;&#116;&#105;&#109;&#97;&#116;&#101;&#46;&#99;&#122;"
+
+sin-slavy:
+  - year: 2019
+    name: "Jan „Papá“ Filandr"
+    img: assets/img/vr/marek_dostal.jpg
+    description:
+      - Založil první tým v České republice a dal tak vzniknout
+        české ultimate scéně.
+  - year: 2018
+    name: "Janička Vejmelková"
+    img: assets/img/vr/marek_dostal.jpg
+    description:
+      - Založil první tým v České republice a dal tak vzniknout
+        české ultimate scéně.
+
+asociace:
+  vr:
+    - name: "Míša Čakrtová"
+      img: assets/img/vr/marek_dostal.jpg
+      subtitle: "Předseda VR"
+      description: ""
+    - name: "Pavel Urban"
+      img: assets/img/vr/marek_dostal.jpg
+      subtitle: "Člen VR"
+      description: "Ekonomika, finance a účetnictví"
+    - name: "Kateřina Langová"
+      img: assets/img/vr/marek_dostal.jpg
+      subtitle: "Člen VR"
+      description: "Reprezentace"
+    - name: "Jan Novák"
+      img: assets/img/vr/marek_dostal.jpg
+      subtitle: "Člen VR | STK"
+      description: ""
+    - name: "Malvína Voclová"
+      img: assets/img/vr/marek_dostal.jpg
+      subtitle: "Člen VR | STK"
+      description: ""
+    - name: "Václav Pachta"
+      img: assets/img/vr/marek_dostal.jpg
+      subtitle: "Člen VR | STK"
+      description: ""
+    - name: "Matěj Štětka"
+      img: assets/img/vr/marek_dostal.jpg
+      subtitle: "Člen VR"
+      description: ""
+    - name: "Tomáš Toušek"
+      img: assets/img/vr/marek_dostal.jpg
+      subtitle: "Člen VR"
+      description: "Rozvoj"
+    - name: "Tadeáš Grym"
+      img: assets/img/vr/marek_dostal.jpg
+      subtitle: "Člen VR"
+      description: "Média"
+    - name: "Marek Dostál"
+      img: assets/img/vr/marek_dostal.jpg
+      subtitle: "Člen VR"
+      description: "IT"
+  stk:
+
+  kk:
+    - name: "František Fencl"
+      subtitle: "Předseda KK"
+      email: frantisek.fencl
+    - name: "Sarah Tošnerová"
+      subtitle: "Člen KK"
+      email: sarah.tosnerova
+    - name: "Jan Ondráček"
+      subtitle: "Člen KK"
+      email: jan.ondracek

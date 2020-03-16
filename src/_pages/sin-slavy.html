@@ -1,0 +1,35 @@
+---
+layout: default
+group: asociace
+permalink: sin-slavy
+title: Výkonná rada
+---
+
+<div class="ui stackable grid">
+    <div class="row">
+        <div class="four wide column">
+            {% include subnavigation.html %}
+        </div>
+        <div class="twelve wide column">
+            <h1>Síň slávy</h1>
+            <div class="ui three stackable cards">
+                {% for member in site.data.data.sin-slavy %}
+                <div class="ui card">
+                    <div class="image">
+                        <img src="assets/img/vr/marek_dostal.jpg">
+                    </div>
+                    <div class="content">
+                        <div class="header">{{ member.name }}</div>
+                        <div class="meta">
+                            <span class="date">{{ member.year }}</span>
+                        </div>
+                        <div class="description">
+                            {{ member.description }}
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>

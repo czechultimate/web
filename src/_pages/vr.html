@@ -1,0 +1,88 @@
+---
+layout: default
+group: asociace
+permalink: vr
+title: Výkonná rada
+---
+
+<div class="ui stackable grid">
+    <div class="row">
+        <div class="four wide column">
+            {% include subnavigation.html %}
+        </div>
+        <div class="eight wide column">
+
+            <h1>Výkonná rada</h1>
+
+            <div class="ui three stackable cards">
+
+                {% for member in site.data.data.asociace.vr %}
+
+                <div class="ui card">
+                    <div class="image">
+                        <img src="assets/img/vr/marek_dostal.jpg">
+                    </div>
+                    <div class="content" style="padding: 11px;">
+                        <div class="header">{{ member.name }}</div>
+                        <div class="meta">
+                            <span class="date">{{ member.subtitle }}</span>
+                        </div>
+                        <div class="description">
+                            {{ member.description }}
+                        </div>
+                    </div>
+                    <div class="extra content">
+                        <div>
+                            katerina.langova
+                            <br>{{ site.data.data.email-domena }}
+                        </div>
+                    </div>
+                </div>
+
+                {% endfor %}
+
+            </div>
+
+            <h1>Kontrolní komise</h1>
+
+            <div class="ui three stackable cards">
+
+                {% for member in site.data.data.asociace.kk %}
+
+                <div class="ui card">
+                    <div class="content">
+                        <div class="header">{{ member.name }}</div>
+                        <div class="meta">
+                            <span class="date">{{ member.subtitle }}</span>
+                        </div>
+                    </div>
+                    <div class="extra content">
+                        {{ member.email }}
+                        <br>{{ site.data.data.email-domena }}
+                    </div>
+                </div>
+
+                {% endfor %}
+            </div>
+
+
+        </div>
+
+        <div class="four wide column">
+            <div class="ui fluid card">
+                <div class="content">
+                    <div class="header">
+                        <i class="file outline icon"></i>
+                        Ke stažení
+                    </div>
+                    <div class="meta">Zápisy ze schůzí VR</div>
+                    <div class="description">
+                        <div class="ui bulleted list">
+                            <a class="item">2020</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

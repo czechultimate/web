@@ -25,15 +25,27 @@ reprezentace:
       link: juniori
     - name: Výsledky
       link: reprezentace-vysledky
-# pro-zajemce:
-#   name: "Pro zájemce"
-#   link: ssl
-# pro-oddily:
-#   name: "Pro oddíly"
-#   link: ssl
-#   menu:
-#     - name: Minigranty
-#       link: minigranty
+pro-zajemce:
+  name: "Pro zájemce"
+  link: ssl
+pro-oddily:
+  name: "Pro oddíly"
+  link: ssl
+  menu:
+    - name: Minigranty
+      link: minigranty
+souteze:
+  name: "Soutěže"
+  link: ligove-souteze
+  menu:
+    - name: "Ligové soutěže"
+      link: ligove-souteze
+    - name: "Soutěžní řád"
+      link: soutezni-rad
+    - name: "Pořádání turnaje"
+      link: poradani-turnaje
+    - name: "Výsledky"
+      link: vysledky
 programy:
   name: "Rozvojové programy"
   link: ssl
@@ -44,22 +56,17 @@ programy:
       link: skoleni-ucitelu
     - name: Minigranty
       link: minigranty
-# asociace:
-#   name: Asociace
-#   link: asociace
-#   menu:
-#     - name: "Co je to ultimate?"
-#       link: ultimate
-#     - name: "Spirit of the Game"
-#       link: sotg
-#     - name: Historie
-#       submenu:
-#         - name: "Ve světě"
-#           link: historie
-#         - name: "U nás v ČR"
-#           link: historie-v-cr
-
-# - name: Soutěže
-#   link: souteze
-# - name: Asociace
-#   link: asociace
+asociace:
+  name: Asociace
+  link: vize
+  menu:
+    - name: "Vize"
+      link: vize
+    - name: "Síň slávy"
+      link: sin-slavy
+    - name: "Výkonná rada"
+      link: vr
+    - name: "Ke stažení"
+      link: ke-stazeni
+    - name: "Kontakt"
+      link: kontakt

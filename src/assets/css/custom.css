@@ -33,6 +33,7 @@ body > .ui.container {
 .content-wrapper p,
 li {
     font-size: 1.17em;
+    line-height: 1.4285em;
 }
 .content-wrapper img {
     margin-top: 2em;
