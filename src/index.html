@@ -1,123 +1,17 @@
 ---
-layout: default
-group: index
+layout: homepage
+group: novinky
 title: Česká asociace ultimate
-
 ---
 
-<div class="ui stackable grid">
-    <div class="four wide column">
+<h2 class="ui header">Novinky</h2>
 
-        <div class="fb-page" height="700px" data-href="https://www.facebook.com/czechultimate/" data-tabs="timeline">
-        </div>
-
-
-    </div>
-
-    <div class="eight wide column">
-        <h2 class="ui header">Novinky</h2>
-
-        <div class="ui divided items article-list">
-
-            {% for article in site.posts limit:5 %}
-            <div class="item">
-                <div class="image">
-                    <img src="{{ article.img }}">
-                </div>
-                <div class="content">
-                    <a class="header">{{ article.title }}</a>
-                    <div class="meta">
-                        {{ article.date | date: "%d. %m. %Y" }} - {{ article.author }}
-                    </div>
-                    <div class="description">
-                        {{ article.excerpt | truncatewords: 33 | strip_html }}
-
-                    </div>
-                </div>
-            </div>
-            {% endfor %}
-        </div>
-
-        <button class="ui fluid button">
-            Starší zprávy
-        </button>
-
-    </div>
-    <div class="four wide column">
-
-        <div class="ui fluid card" style="background-color: lightyellow;">
-            <div class="content">
-                <div class="header">
-                    <i class="exclamation circle icon"></i>
-                    Asociace hledá
-                </div>
-                <div class="meta">
-                    Chceš pomáhat komunitě frisbee?
-                </div>
-                <div class="description">
-                    <div class="ui list">
-                        {% for item in site.data.offers %}
-                        <div class="item">
-                            {% if item.link %}
-                            <a class="header" href="{{ item.link }}" target="_blank">
-                                {{ item.title }}
-                            </a>
-                            {% else %}
-                            <div class="header">
-                                {{ item.title }}
-                            </div>
-                            {% endif %}
-                            {{ item.description }}
-                        </div>
-                        {% endfor %}
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <!-- EVIDENCE -->
-        <div class="ui fluid card">
-            <div class="content">
-                <button class="ui right floated green button">Přihlásit</button>
-                <div class="header">Evidence členů</div>
-                <div class="meta">
-                    <span class="date">Pro zástupce oddílů</span>
-                </div>
-            </div>
-        </div>
-
-        <!-- PARTNEŘI -->
-        <div class="ui fluid card">
-            <div class="content">
-                <div class="header">Partneři</div>
-
-                <div class="ui middle aligned grid" style="margin-top: 0.3em;">
-                    <div class="sixteen wide center aligned column">
-                        <a href="https://ultimo.cz" target="_blank">
-                            <img class="ui small image" src="assets/img/partneri/ultimo_logo.png">
-                        </a>
-                    </div>
-                    <div class="sixteen wide center aligned column">
-                        <a href="https://burik.cz" target="_blank">
-
-                            <img class="ui image" src="assets/img/partneri/burik_logo.png">
-                        </a>
-                    </div>
-                    <div class="sixteen wide center aligned column">
-                        <a href="http://www.techsoup.cz" target="_blank">
-                            <img class="ui small image"
-                                src="http://www.techsoup.cz/sites/default/files/TechSoup_248_60.png">
-                        </a>
-                    </div>
-                    <div class="sixteen wide center aligned column">
-                        <a href="https://olympic.cz" target="_blank">
-                            <img class="ui image" src="assets/img/partneri/olympic_logo.png">
-                        </a>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-
-    </div>
+<div class="ui divided items article-list">
+    {% for post in site.posts limit:5 %}
+        {% include homepage/post_item.html %}
+    {% endfor %}
 </div>
+
+<a class="ui fluid button" href="archiv">
+    Starší zprávy
+</a>

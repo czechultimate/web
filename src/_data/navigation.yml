@@ -1,4 +1,4 @@
-index:            # group = important for active items in the navigation and subnavigations
+novinky:            # group = important for active items in the navigation and subnavigations
   name: Novinky   # name = visible in navigation
   link: index     # permalink
 ultimate:

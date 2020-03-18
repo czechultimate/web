@@ -10,6 +10,10 @@ include: ['_pages']
 
 url: "https://czechultimate.com"
 
+paginate: 3
+paginate_path: "/archiv/page:num/"
+
 plugins:
    - jekyll-sitemap
    - jekyll-seo-tag
+   - jekyll-paginate

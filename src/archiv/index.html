@@ -1,0 +1,56 @@
+---
+layout: homepage
+group: novinky
+title: Archiv
+---
+
+<h2 class="ui header">Archiv</h2>
+
+<div class="ui divided items article-list">
+    <!-- This loops through the paginated posts -->
+    {% for post in paginator.posts %}
+    {% include homepage/post_item.html %}
+    {% endfor %}
+</div>
+
+<div class="ui grid" style="margin-top: 2.5em;">
+    <div class="center aligned column">
+
+        <!-- pagination -->
+        {% if paginator.total_pages > 1 %}
+
+          <div class="ui buttons">
+
+              {% if paginator.previous_page %}
+                  <a class="ui left labeled icon button" href="{{ paginator.previous_page_path }}">
+                      <i class="left chevron icon"></i>
+                      Previous
+                  </a>
+              {% endif %}
+
+              {% for page in (1..paginator.total_pages) %}
+                  {% if page == paginator.page %}
+                      <div class="ui black disabled button">{{ page }}</div>
+                  {% elsif page == 1 %}
+                      <a class="ui button" href="/">{{ page }}</a>
+                  {% else %}
+                      <a class="ui button"
+                          href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">
+                          {{ page }}
+                      </a>
+                  {% endif %}
+              {% endfor %}
+
+              {% if paginator.next_page_path %}
+                  <a class="ui right labeled icon button" href="{{ paginator.next_page_path }}">
+                      <i class="right chevron icon"></i>
+                      Next
+                  </a>
+              {% endif %}
+
+          </div>
+
+        {% endif %}
+
+    </div>
+</div>

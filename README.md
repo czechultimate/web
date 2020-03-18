@@ -21,6 +21,10 @@ Only if you need that. It's not necessary to run it.
 docker run --rm -it --volume="$PWD:/srv/jekyll" --env JEKYLL_ENV=production jekyll/jekyll jekyll build
 ```
 
+## How to add dependency
+
+Update Gemfile and run `docker-compose down && docker-compose up`.
+
 ## Semantic UI
 
 ### How to install
