@@ -3,7 +3,7 @@
         <img src="{{ post.img }}">
     </div>
     <div class="content">
-        <a class="header">{{ post.title }}</a>
+        <a class="header" href="{{ post.url }}">{{ post.title }}</a>
         <div class="meta">
             {{ post.date | date: "%d. %m. %Y" }} - {{ post.author }}
         </div>

@@ -1,1 +1,21 @@
-{{ content }}
+---
+layout: homepage
+---
+
+<div class="content-wrapper">
+
+    <h1 style="margin-bottom: 0px;">{{ page.title }}</h1>
+
+    <div class="ui horizontal list" style="margin-bottom: 20px;">
+        <div class="item">
+            <i class="calendar icon"></i>
+            {{ page.date | date: "%d. %m. %Y" }}
+        </div>
+        <div class="item">
+            <i class="user icon"></i>
+            {{ page.author }}
+        </div>
+    </div>
+
+    {{ content }}
+</div>

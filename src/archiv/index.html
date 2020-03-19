@@ -32,7 +32,7 @@ title: Archiv
                   {% if page == paginator.page %}
                       <div class="ui black disabled button">{{ page }}</div>
                   {% elsif page == 1 %}
-                      <a class="ui button" href="/">{{ page }}</a>
+                      <a class="ui button" href="/archiv">{{ page }}</a>
                   {% else %}
                       <a class="ui button"
                           href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">
