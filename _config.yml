@@ -1,7 +1,3 @@
-source: src
-
-destination: site
-
 collections:
   authors:
     output: true
