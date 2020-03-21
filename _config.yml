@@ -10,7 +10,7 @@ include: ['_pages']
 
 url: "https://czechultimate.com"
 
-paginate: 10
+paginate: 2
 paginate_path: "/archiv/page:num/"
 
 plugins:
