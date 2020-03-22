@@ -1,0 +1,11 @@
+---
+layout: homepage
+group: faq
+permalink: faq
+title: Často kladené dotazy
+---
+
+<div class="content-wrapper">
+{% capture my_include %}{% include content/faq/faq.md %}{% endcapture %}
+{{ my_include | markdownify }}
+</div>

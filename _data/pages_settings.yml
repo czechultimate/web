@@ -28,3 +28,21 @@ links:
   historie:
     - text: "Historie na stránkách WFDF"
       link: http://www.wfdf.org/history-stats/history-of-ultimate
+  reprezentace-vysledky:
+    - text: "Archiv výsledků národních týmů"
+      link: http://hartti.com/national_teams/index.php
+  ligove-souteze:
+    - text: European ultimate championships series (EUCS) na stránkach EUF
+      link: https://www.ultimatefederation.eu/club-champs.php
+
+contact:
+  ssl:
+    name: "Tomáš Toušek"
+    phone: "731 612 805"
+    email: tomas.tousek@czechultimate.com
+  minigranty:
+    email: rozvoj@czechultimate.cz
+  nabidka-asociace:
+    email: rozvoj@czechultimate.cz
+  skoleni-ucitelu:
+    email: rozvoj@czechultimate.cz

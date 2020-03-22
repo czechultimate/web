@@ -1,0 +1,51 @@
+{% if site.data.pages_settings.contact[page.permalink] %}
+<div class="ui fluid card">
+    <div class="content">
+        <div class="header">
+            Kontakt
+        </div>
+
+        <div class="description">
+            <div class="ui list">
+                {% if site.data.pages_settings.contact[page.permalink].name %}
+                <div class="item">
+                  <i class="user icon"></i>
+                  <div class="content">
+                    {{ site.data.pages_settings.contact[page.permalink].name }}
+                  </div>
+                </div>
+                {% endif %}
+                {% if site.data.pages_settings.contact[page.permalink].phone %}
+                <div class="item">
+                  <i class="phone icon"></i>
+                  <div class="content">
+                    {{ site.data.pages_settings.contact[page.permalink].phone }}
+                  </div>
+                </div>
+                {% endif %}
+                {% if site.data.pages_settings.contact[page.permalink].email %}
+                <div class="item">
+                  <i class="mail icon"></i>
+                  <div class="content">
+                    {{ site.data.pages_settings.contact[page.permalink].email }}
+                  </div>
+                </div>
+                {% endif %}
+              </div>
+        </div>
+
+
+        <div class="description">
+
+
+            <div class="ui bulleted list">
+                {% for link in site.data.pages_settings.links[page.permalink] %}
+                <a class="item" target="_blank" href="{{ link.link | relative_url }}">
+                    {{ link.text }}
+                </a>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+{% endif %}

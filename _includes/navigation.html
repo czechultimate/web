@@ -6,18 +6,19 @@
         </div>
         <div class="eight wide column" style="text-align: right; margin-top: 0.5em;">
 
-            <button class="ui facebook button">
+            <a class="ui facebook button" target="_blank" href="https://www.facebook.com/czechultimate/">
                 <i class="facebook icon"></i>
                 Facebook
-            </button>
-            <button class="ui instagram button">
+            </a>
+            <a class="ui instagram button" target="_blank" href="https://www.instagram.com/czechultimate">
                 <i class="instagram icon"></i>
                 Instagram
-            </button>
-            <button class="ui youtube button">
+            </a>
+            <a class="ui youtube button" target="_blank"
+                href="https://www.youtube.com/channel/UCWbynNxpF2mYA9orHPlkDiA">
                 <i class="youtube icon"></i>
                 YouTube
-            </button>
+            </a>
 
         </div>
     </div>
@@ -29,5 +30,11 @@
             {{ item[1].name }}
         </a>
         {% endfor %}
+
+        <div class="right menu">
+            <a href="{{ 'faq' | relative_url }}" class="{% if page.url == '/faq' %}active{% endif %} item">
+                FAQ
+            </a>
+        </div>
     </div>
 </div>

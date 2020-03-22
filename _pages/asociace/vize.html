@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: basic_page
 group: asociace
 permalink: vize
 title: Vize
@@ -11,7 +11,7 @@ title: Vize
             {% include subnavigation.html %}
         </div>
         <div class="eight wide column content-wrapper">
-            {% capture my_include %}{% include content/{{ page.permalink }}.md %}{% endcapture %}
+            {% capture my_include %}{% include content/{{ page.group }}/{{ page.permalink }}.md %}{% endcapture %}
             {{ my_include | markdownify }}
         </div>
         <div class="four wide column">

@@ -1,4 +1,4 @@
-novinky:            # group = important for active items in the navigation and subnavigations
+novinky:          # group = important for active items in the navigation and subnavigations
   name: Novinky   # name = visible in navigation
   link: index     # permalink
 ultimate:
@@ -9,31 +9,20 @@ ultimate:
       link: ultimate
     - name: "Spirit of the Game"
       link: sotg
-    - name: Historie
-      submenu:
-        - name: "Ve světě"
-          link: historie
-        - name: "U nás v ČR"
-          link: historie-v-cr
-reprezentace:
-  name: Reprezentace
-  link: reprezentace
+    - name: Počátky frisbee
+      link: historie
+    - name: Historie v ČR
+      link: historie-v-cr
+oddily:
+  name: "Oddíly"
+  link: oddily
   menu:
-    - name: Reprezentace
-      link: reprezentace
-    - name: Junioři
-      link: juniori
-    - name: Výsledky
-      link: reprezentace-vysledky
-pro-zajemce:
-  name: "Pro zájemce"
-  link: ssl
-pro-oddily:
-  name: "Pro oddíly"
-  link: ssl
-  menu:
-    - name: Minigranty
-      link: minigranty
+    - name: Oddíly v ČR
+      link: oddily
+    - name: Jak začít hrát?
+      link: jak-zacit
+    - name: Metodiky
+      link: metodiky
 souteze:
   name: "Soutěže"
   link: ligove-souteze
@@ -46,14 +35,28 @@ souteze:
       link: poradani-turnaje
     - name: "Výsledky"
       link: vysledky
-programy:
-  name: "Rozvojové programy"
-  link: ssl
+reprezentace:
+  name: Reprezentace
+  link: reprezentace
   menu:
+    - name: Reprezentace
+      link: reprezentace
+    - name: Junioři
+      link: juniori
+    - name: Výsledky
+      link: reprezentace-vysledky
+programy:
+  name: "Programy"
+  link: nabidka-asociace
+  menu:
+    - name: "Nabídka asociace"
+      link: nabidka-asociace
     - name: "Středoškolská liga"
       link: ssl
     - name: "Školení učitelů"
       link: skoleni-ucitelu
+    - name: "Trenérské licence"
+      link: trenerske-licence
     - name: Minigranty
       link: minigranty
 asociace:
@@ -62,11 +65,15 @@ asociace:
   menu:
     - name: "Vize"
       link: vize
+    - name: "Evidence"
+      link: evidence
+    - name: "Sklad"
+      link: sklad
     - name: "Síň slávy"
       link: sin-slavy
     - name: "Výkonná rada"
       link: vr
-    - name: "Ke stažení"
-      link: ke-stazeni
+    - name: "Média"
+      link: media
     - name: "Kontakt"
       link: kontakt
