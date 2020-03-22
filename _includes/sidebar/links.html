@@ -1,0 +1,19 @@
+{% if site.data.pages_settings.links[page.permalink] %}
+<div class="ui fluid card">
+    <div class="content">
+        <div class="header">
+            <i class="linkify icon"></i>
+            Odkazy
+        </div>
+        <div class="description">
+            <div class="ui bulleted list">
+                {% for link in site.data.pages_settings.links[page.permalink] %}
+                <a class="item" target="_blank" href="{{ link.link | relative_url }}">
+                    {{ link.text }}
+                </a>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+{% endif %}

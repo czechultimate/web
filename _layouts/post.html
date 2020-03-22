@@ -6,7 +6,9 @@ layout: homepage
 
     <h1 style="margin-bottom: 0px;">{{ page.title }}</h1>
 
-    <div class="ui horizontal list" style="margin-bottom: 20px;">
+    <!-- ![](images/articles/2020/web.jpg) -->
+
+    <div class="ui horizontal list">
         <div class="item">
             <i class="calendar icon"></i>
             {{ page.date | date: "%d. %m. %Y" }}
@@ -16,6 +18,8 @@ layout: homepage
             {{ page.author }}
         </div>
     </div>
+
+    <img src="{{ page.img | relative_url }}" style="margin-bottom: 20px; margin-top: 10px;">
 
     {{ content }}
 </div>

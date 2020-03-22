@@ -5,14 +5,14 @@
         {{ item.name }}
         <div class="menu">
             {% for subitem in item.submenu %}
-            <a href="{{ subitem.link }}" class="{% if page.permalink == subitem.link %}active{% endif %} item">
+            <a href="{{ subitem.link | relative_url }}" class="{% if page.permalink == subitem.link %}active{% endif %} item">
                 {{ subitem.name }}
             </a>
             {% endfor %}
         </div>
     </div>
     {% else %}
-    <a href="{{ item.link }}" class="{% if page.permalink == item.link %}active{% endif %} item">
+    <a href="{{ item.link | relative_url }}" class="{% if page.permalink == item.link %}active{% endif %} item">
         {{ item.name }}
     </a>
     {% endif %}

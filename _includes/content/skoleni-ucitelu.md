@@ -2,6 +2,8 @@
 
 Česká asociace létajícího disku (ČALD) ve spolupráci s AŠSK ČR pořádá pro zájemce školení se zaměřením na výuku základů hry ultimate frisbee.
 
+![](assets/img/pages/programy/2019_turnaj_skol_1.jpg)
+
 Během sedmihodinového školení získají účastníci základní dovednosti v házení a chytání disku, v bránění a útočení atd. Vyzkouší si metodické postupy výuky použitelné při hodinách tělocviku, jednoduchá průpravná a herní cvičení. Účastníci získají také základní přehled o pravidlech hry ultimate frisbee a jejich možných modifikacích pro školní tělesnou výchovu. Minimální počet učitelů pro jedno školení je 8. Mohou se samozřejmě účastnit i učitelé základních a dalších škol. Číslo akreditace: 39 428/2012-201-647
  
 ## Obsah školení

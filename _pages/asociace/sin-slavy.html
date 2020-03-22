@@ -16,7 +16,7 @@ title: Výkonná rada
                 {% for member in site.data.data.sin-slavy %}
                 <div class="ui card">
                     <div class="image">
-                        <img src="assets/img/vr/marek_dostal.jpg">
+                        <img src="{{ member.img | relative_url }}">
                     </div>
                     <div class="content">
                         <div class="header">{{ member.name }}</div>

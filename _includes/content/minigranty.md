@@ -5,6 +5,8 @@
 Minigranty jsou jako program ČALD vypisovány každoročně s ohledem na aktuální stav financování uvnitř asociace a slouží k podpoře naplňování vize ČALD. 
  
 O realizaci programu Minigranty se stará VR ČALD ve svém aktuálním složení, uvolnění prostředků pro účely minigrantu je součástí předběžného rozpočtu na následující rok schvalovaného každoročně Valnou hromadou. Vypsání a přidělení minigrantu není možné si jakýmkoliv způsobem vynucovat a VR ČALD si vyhrazuje právo kdykoliv pozastavit činnost tohoto programu pokud by se nadále neslučoval s prioritami a základní servisní činností ČALD a ty tímto ohrožoval.
+
+![](assets/img/pages/programy/2019_turnaj_skol_2.jpg)
  
 ## Jak získat prostředky a podporu v programu „Minigranty“?
 
@@ -29,6 +31,8 @@ Při vašem plánování nezapomínejte, že potřebujeme nějaký čas abychom 
 3) Projektové žádosti si přečte a zpracuje tříčlenná komise pro Minigranty, která je s anotacemi a hodnocením postupuje a představuje celé VR ČALD. Zde se hlasuje o jednotlivých projektových záměrech a výši celkové přidělené podpory v rámci programu Minigrantů k dané uzávěrce. Během jednoho měsíce by vám měly být známy výsledky, avšak VR ČALD si vyhrazuje 45 dní na zpracování a oznámení výsledků ode dne uzávěrky příjmu žádostí.
  
 4) Pokud byl váš projektový záměr kladně ohodnocen a vybrán k podpoře, budeme vás kontaktovat a také se tato informace objeví na webových stránkách asociace. Vyzveme vás aby jste vyslali alespoň jednoho zástupce z projektového týmu, aby se dostavil osobně a podepsal s ČALD smlouvu o čerpání této podpory, ve které se mimo jiné držitel podpory zavazuje k řádnému vyúčtování a závěrečné hodnotící zprávě, pravidelné komunikaci se zástupci VR ČALD a spolupráci při propagaci a psaní článků o probíhajících projektech. Následně vám budou převedeny prostředky na dohodnutý bankovní účet. Pokud by se jednalo o vyšší částky, které jste v rámci této podpory obdrželi, vyhrazuje si VR ČALD právo vám prostředky přeposlat postupně v průběhu projektu formou několika plateb.
+
+![](assets/img/pages/programy/2019_turnaj_skol_3.jpg)
  
 ## Na co je třeba dát pozor - hodnotící kritéria při výběru podpořených projektů v rámci programu Minigranty?
 

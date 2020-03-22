@@ -1,48 +1,6 @@
 ---
-layout: default
+layout: basic_page
 group: ultimate
 permalink: sotg
 title: Spirit of the Game
 ---
-
-<div class="ui stackable grid">
-    <div class="row">
-        <div class="four wide column">
-            {% include subnavigation.html %}
-        </div>
-        <div class="eight wide column content-wrapper">
-            {% capture my_include %}{% include content/{{ page.permalink }}.md %}{% endcapture %}
-            {{ my_include | markdownify }}
-        </div>
-        <div class="four wide column">
-            <div class="ui fluid card">
-                <div class="content">
-                    <div class="header">
-                        <i class="file outline icon"></i>
-                        Ke stažení
-                    </div>
-                    <div class="description">
-                        <div class="ui bulleted list">
-                            <a class="item">SOTG formulář</a>
-                            <a class="item">SOTG formulář (hodnocení vlastního týmu)</a>
-                            <a class="item">Návod k hodnocení</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="ui fluid card">
-                <div class="content">
-                    <div class="header">
-                        <i class="linkify icon"></i>
-                        Zajímavé odkazy
-                    </div>
-                    <div class="description">
-                        <div class="ui bulleted list">
-                            <a class="item">O SOTG na USA Ultimate</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>

@@ -2,14 +2,12 @@
 layout: post
 category: blog
 tags:
-img: /assets/img/articles/2020/web.jpg
+img: assets/img/articles/2020/web.jpg
 title: ČAU nově na czechultimate.cz
 author: Marek Dostál
 ---
 
 **S "novou" asociací přichází i nová doména, která se bude používat pro komunikaci s členy i veřejností.**
-
-![]({{ page.img }})
 
 Z praktických důvodů došlo před několika měsíci k vytvoření nové asociace zastřešující pouze Ultimate Frisbee – České asociace ultimate (ČAU). Stará asociace ČALD nezanikla, ale nadále existuje pro potřeby všech sportů s létajícím talířem. Pro hráče ultimate už ale nebude mít žádný praktický význam. Proto jsme nějakou dobu pracovali na novém webu a "odtrhnutí" se.
 

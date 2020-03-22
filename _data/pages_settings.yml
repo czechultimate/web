@@ -1,0 +1,30 @@
+downloads:
+  ultimate:
+    - text: "Úplná pravidla Ultimate Frisbee 2017 (cs)"
+      link: assets/files/pravidla_ultimate_2017.pdf
+  sotg:
+    - text: "SOTG formulář"
+      link: assets/files/sotg-scoring-sheet-2014.pdf
+    - text: "SOTG formulář (hodnocení vlastního týmu)"
+      link: assets/files/sotg-self-scoring-sheet-2014.pdf
+    - text: "Návod k hodnocení"
+      link: assets/files/sotg-scoring-system-2014-examples.pdf
+
+links:
+  ultimate:
+    - text: "Wikipedie (cs)"
+      link: https://cs.wikipedia.org/wiki/Ultimate_Frisbee
+    - text: "Wikipedie (en)"
+      link: https://en.wikipedia.org/wiki/Ultimate_(sport)
+    - text: "Pravidla na stránkách WFDF (en)"
+      link: http://www.wfdf.org/sports/rules-of-play
+    - text: "O ultimate na USA Ultimate (en)"
+      link: https://www.usaultimate.org/about/ultimate/
+  sotg:
+    - text: "O SOTG na stránkách WFDF"
+      link: http://www.wfdf.org/sotg/about-sotg
+    - text: "O SOTG na USA Ultimate"
+      link: https://www.usaultimate.org/about/ultimate/spirit_of_the_game.aspx
+  historie:
+    - text: "Historie na stránkách WFDF"
+      link: http://www.wfdf.org/history-stats/history-of-ultimate

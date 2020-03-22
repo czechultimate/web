@@ -3,7 +3,7 @@ layout: post
 category: blog
 tags:
 title: Vzdělávání trenérů v roce 2020
-img: /assets/img/articles/2020/repre_team.jpg
+img: assets/img//articles/2020/repre_team.jpg
 author: Ráchel Tošnerová
 ---
 

@@ -17,7 +17,7 @@ Ultimate je kolektivní bezkontaktní sport, v němž vítězí tým, který má
 bodů. Hraje se na hřišti o rozměrech cca 100x37 metrů (délka fotbalového hřiště, polovina jeho šířky).
 Na obou koncích hřiště jsou vyznačeny koncové zóny o hloubce cca 18 metrů.
 
-![](assets/img/ultimate_hriste_pravidla.png)
+![](assets/img/pages/ultimate/ultimate_hriste_pravidla.png)
 
 
 V ultimate proti sobě hrají dva sedmičlenné týmy. Smyslem hry je pomocí přihrávek dopravit disk do
@@ -39,7 +39,7 @@ prvky basketbalu, fotbalu a amerického fotbalu. Proto se v něm našlo už toli
 začínajících s jiným kolektivním sportem. Je jedno, jestli si chodíte zahrát s kamarády do parku nebo
 tvrdě trénujete třikrát týdně se svým týmem, hra ultimate frisbee vás vždy povzbudí a pobaví.
 
-![](assets/img/repre_team.jpg)
+![](assets/img/pages/ultimate/2019_euc_ultimate.jpg)
 
 I když je ultimate frisbee často považováno za zábavu do parku, jedná se o zcela legitimní a náročný
 sport, který má i své národní a mezinárodní asociace. Jedná se o plnohodnotný sport, který má svá
@@ -64,7 +64,7 @@ the Game.
 
 ## Jak házet frisbee?
 
-![](assets/img/hazeni.jpg)
+![](assets/img/pages/ultimate/2019_windmill_hazeni.jpg)
 
 Technika jednotlivých hodů je založena na koordinaci pohybu paže a prudkého švihu zápěstí. Tento pohyb
 udává disku rychlost, směr a rotaci kolem vlastní osy, ta je důležitá pro správný a klidný let. Švih

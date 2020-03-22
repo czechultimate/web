@@ -3,7 +3,7 @@
 Výsledky jsou ve formátu pořadí / počet účastníků.
 Označení hvězdičkou značí vítězství v kategorii Spirit of the Game.
 
-![](assets/img/juniorky_vitezstvi.jpg)
+![](assets/img/pages/repre/juniorky_vitezstvi.jpg)
 
 ## Seniorská reprezentace
 

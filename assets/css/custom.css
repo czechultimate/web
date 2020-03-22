@@ -32,12 +32,12 @@ body > .ui.container {
 }
 .content-wrapper p,
 li {
-    font-size: 1.17em;
+    font-size: 1.17rem;
     line-height: 1.4285em;
 }
 
 .ui.items.article-list>.item>.content>.description {
-    font-size: 1.1em;
+    font-size: 1.1rem;
     line-height: 1.4285em;
 }
 

@@ -6,6 +6,8 @@ TODO: doladit odkazy atd. napravo
 
 Středoškolská liga (SŠL) je organizovaná meziškolní soutěž v ultimatefrisbee, kterou hrají smíšené školní týmy, ve formátu 5 proti 5, a to formou několika jednodenních turnajů.
 
+![](assets/img/pages/programy/2012_ssl_hra.jpg)
+
 ## Co je cílem SŠL?
 
 Propagace a rozvoj ultimate frisbee do nových regionů a mezi mládší generace, rozvoj univerzálních sportovců i rekreačních hráčů s výrazným důrazem na fair play (Spirit of the game) a přátelství.
@@ -31,6 +33,8 @@ Nemusíte nic platit. Všechny náklady jsou hrazeny associací (ČALD)
 -   Příklad: Máme-li 8 účastících se týmů tak 1. místo získá 8 bodů a následně sestupně 2. místo 7 bodů a 3. místo 6 bodů.... a poslední 8. místo získá 1 bod.
 -   Školy mohou přihlásit i více týmů (body se pak započítají za umístění Ačkového týmu i Bčkového týmu).
 -   Po skončení jarního kvalifikačního kola se uskuteční finále kam je pozváno 16 nejuspěšnějších škol z celé republiky (na základě bodové tabulky).
+
+![](assets/img/pages/programy/2012_ssl_vitez.jpg)
 
 # Výsledky minulých ročníků
 
