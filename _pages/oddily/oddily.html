@@ -1,6 +1,47 @@
 ---
-layout: basic_page
+layout: page
 group: oddily
 permalink: oddily
 title: Oddíly v ČR
 ---
+
+<div class="ui two stackable cards">
+    {% for team in site.data.oddily.teams %}
+    <div class="card">
+        <div class="content">
+            <div class="header">{{ team.name }}</div>
+            <div class="meta">{{ team.city }}</div>
+            <div class="description">
+                <div class="ui list">
+                    {% if team.fb %}
+                    <div class="item">
+                        <i class="facebook icon"></i>
+                        <div class="content">
+                            {{ team.fb }}
+                        </div>
+                    </div>
+                    {% endif %}
+                    {% if team.web %}
+                    <div class="item">
+                        <i class="linkify icon"></i>
+                        <div class="content">
+                            {{ team.web }}
+                        </div>
+                    </div>
+                    {% endif %}
+                    {% if team.contact %}
+                    <div class="item">
+                        <i class="user icon"></i>
+                        <div class="content">
+                            {{ team.contact }}
+                        </div>
+                    </div>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+
+    <p style="margin-top: 10px;"><i>{{ site.data.oddily.additional_text }}</i></p>
+</div>

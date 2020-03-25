@@ -1,4 +1,4 @@
-# Co je to ultimate?
+# Co je to ultimate
 
 Ultimate Frisbee je relativně nový sport, který se hraje od roku 1968, avšak jeho popularita rok od roku
 stoupá. Výzvy, které tento unikátní sport přináší, jsou přitažlivé pro hráče všech věkových kategorií a

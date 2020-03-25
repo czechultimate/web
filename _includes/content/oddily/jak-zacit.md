@@ -1,8 +1,12 @@
-# Jak začít hrát?
+# Jak začít hrát
+
+TODO: ke stazeni oddilova prihlaska a individualni prihlaska
 
 ## Jednotlivci
 
-Pokud chcete začít hrát kolektivní sport ultimate frisbee, stačí napsat některému z oddílů (seznam ZDE) nebo přímo asociaci (rozvoj@cald.cz) a my vám poradíme, k jakému týmu se přidat, případně jaké akce byste se mohli jako jednotlivci zúčastnit (víkendový training camp pro začátečníky, turnaj, kam se dá přihlásit i jednotlivě, a podobně).
+Pokud chcete začít hrát kolektivní sport ultimate frisbee, stačí napsat některému z oddílů (seznam [zde]({{ 'oddily' | relative_url }})) nebo přímo asociaci (info@czechultimate.cz) a my vám poradíme, k jakému týmu se přidat, případně jaké akce byste se mohli jako jednotlivci zúčastnit (víkendový training camp pro začátečníky, turnaj, kam se dá přihlásit i jednotlivě, a podobně).
+
+![](assets/img/pages/jak_zacit_hrat_1.jpg)
 
 ## Skupiny
 
@@ -10,15 +14,15 @@ Chodíte si zahrát frisbee s kamarády a chtěli byste se posunout dál, pomě�
 
 ### Turnaje
 
-Po celý rok se hrají soutěžní i nesoutěžní turnaje, kam si můžete přijet zahrát. Od jara do podzimu se hraje venku na fotbalových hřištích, v zimě v tělocvičnách. Jejich termíny najdete v turnajovém kalendáři a v termínovce. Nejlíp napište opět na rozvoj@cald.cz a poradíme vám, která by pro vás byl pro začátek vhodný - některé jsou přímo zaměřené na nováčky, na některé se musíte kvalifikovat. Abyste mohli hrát oficiální soutěžní turnaje, musíte být registrováni v asociaci (viz níže), ale na spoustu se dá jen přihlásit a jet.
+Po celý rok se hrají soutěžní i nesoutěžní turnaje, kam si můžete přijet zahrát. Od jara do podzimu se hraje venku na fotbalových hřištích, v zimě v tělocvičnách. Jejich termíny najdete v [termínovce](http://bit.ly/terminovka_ultimate). Nejlíp napište opět na info@czechultimate.cz a poradíme vám, která by pro vás byl pro začátek vhodný - některé jsou přímo zaměřené na nováčky, na některé se musíte kvalifikovat. Abyste mohli hrát oficiální soutěžní turnaje, musíte být registrováni v asociaci (viz níže), ale na spoustu se dá jen přihlásit a jet.
 
 ### Členství v asociaci
 
-Pokud se budete chtít přihlasit do asociace, vyplňte Oddílovou přihlášku ČAU (v souborech ke stažení v pravém sloupci) a pošlete na vr@cald.cz nebo předejte osobně. Pokud časem do vašeho oddílu přijde nový hráč, tak ten vyplní Individuální příhlášku ČAU a bude k oddílu připsán. Členové asociace platí roční členský příspěvek ve výši 400 Kč a turnajové poplatky na oficiálních ČAU turnajích (turnaje ligových soutěží) ve výši 30 Kč za turnaj. Roční členské příspěvky se platí zpětně po odehrání dané ligové soutěže. Nové oddíly mohou požádat Výkonnou radu ČAU o odpuštění ročního členského příspěvku ve svém prvním roce působení v asociaci. Členství v asociaci se řídí dle stanov ČAU (též najdete v souborech ke stažení). Pokud budete mít jakýkoliv dotaz ohledně členství v ČAU, prosím pište na adresu frisbee@ultimatefrisbee.cz
+Pokud se budete chtít přihlasit do asociace, vyplňte Oddílovou přihlášku ČAU (v souborech ke stažení v pravém sloupci) a pošlete na vr@czechultimate.cz nebo předejte osobně. Pokud časem do vašeho oddílu přijde nový hráč, tak ten vyplní Individuální příhlášku ČAU a bude k oddílu připsán. Členové asociace platí roční členský příspěvek ve výši 400 Kč a turnajové poplatky na oficiálních ČAU turnajích (turnaje ligových soutěží) ve výši 30 Kč za turnaj. Roční členské příspěvky se platí zpětně po odehrání dané ligové soutěže. Nové oddíly mohou požádat Výkonnou radu ČAU o odpuštění ročního členského příspěvku ve svém prvním roce působení v asociaci. Členství v asociaci se řídí dle stanov ČAU (též najdete v souborech ke stažení). Pokud budete mít jakýkoliv dotaz ohledně členství v ČAU, prosím pište na adresu info@czechultimate.cz.
 
 ### Pravidla
 
-Jak se to vlastně hraje správně? Kompletní oficiální pravidla najdete na http://www.cald.cz/pravidla-ultimate. Pro začátek vám ale úplně stačí tahle stručnější: http://www.frisbee.cz/strucna-pravidla-frisbee.html.
+Jak se to vlastně hraje správně? Kompletní oficiální pravidla najdete [zde]({{ 'pravidla' | relative_url }}). Pro začátek vám ale úplně stačí [tahle](http://www.frisbee.cz/strucna-pravidla-frisbee.html) stručnější.
 
 ### Rady a zkušenosti
 
@@ -30,7 +34,7 @@ Do začátku kteréhokoliv sportu z rodiny frisbee potřebuje akorát létajíc�
 
 ### Disky
 
-Oficiálním hracím náčiním pro mezinárodní turnaje je 175 g disk s průměrem 27 cm (pokud se ovšem soupeřící týmy shodnou, mohou se domluvit na jakémkoliv jiném disku). Pokud nechcete za disk utratit moc peněz, lze do začátku také doporučit disk české výroby, který distribuuje ČAU ve spolupráci s Ultimo.cz.
+Oficiálním hracím náčiním pro mezinárodní turnaje je 175g disk s průměrem 27 cm (pokud se ovšem soupeřící týmy shodnou, mohou se domluvit na jakémkoliv jiném disku). Pokud nechcete za disk utratit moc peněz, lze do začátku také doporučit disk české výroby, který distribuuje ČAU ve spolupráci s Ultimo.cz.
 
 ### Další výbava
 

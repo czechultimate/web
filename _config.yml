@@ -8,7 +8,7 @@ baseurl: /web
 
 url: "https://czechultimate.com"
 
-paginate: 2
+paginate: 12
 paginate_path: "/archiv/page:num/"
 
 plugins:

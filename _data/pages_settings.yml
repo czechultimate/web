@@ -9,6 +9,9 @@ downloads:
       link: assets/files/sotg-self-scoring-sheet-2014.pdf
     - text: "Návod k hodnocení"
       link: assets/files/sotg-scoring-system-2014-examples.pdf
+  jak-zacit:
+    - text: "Oddílová přihláška do ČAU"
+      link: ""
 
 links:
   ultimate:
@@ -46,3 +49,5 @@ contact:
     email: rozvoj@czechultimate.cz
   skoleni-ucitelu:
     email: rozvoj@czechultimate.cz
+  jak-zacit:
+    email: info@czechultimate.cz

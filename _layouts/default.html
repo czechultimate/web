@@ -40,35 +40,7 @@
 
     </div>
 
-    <div class="ui inverted vertical footer segment">
-        <div class="ui container">
-            <div class="ui inverted stackable grid">
-
-                <div class="three column row">
-
-                    <div class="column">
-                        ČAU | Česká asociace ultimate
-                    </div>
-                    <div class="center aligned column">
-                        <div class="ui inverted horizontal divided link list">
-                            <a class="item">
-                                Pravidla a podmínky
-                            </a>
-                            <a class="item" href="{{ 'media' | relative_url }}">
-                                Média
-                            </a>
-                            <a class="item" href="{{ 'kontakt' | relative_url }}">
-                                Kontakt
-                            </a>
-                        </div>
-                    </div>
-                    <div class="right aligned column">
-                        info@czechultimate.cz
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    {% include footer.html %}
 
     <!-- Custom js -->
     <script src="{{ '/assets/js/custom.js' | relative_url }}"></script>
