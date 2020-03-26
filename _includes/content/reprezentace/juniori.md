@@ -8,4 +8,4 @@ TODO:
 - co maji delat zajemci
 
 
-![](assets/img/pages/repre/2019_juniori_team.jpg)
+<!-- ![](assets/img/pages/repre/2019_juniori_team.jpg) -->

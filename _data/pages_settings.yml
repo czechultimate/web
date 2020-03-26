@@ -9,9 +9,14 @@ downloads:
       link: assets/files/sotg-self-scoring-sheet-2014.pdf
     - text: "Návod k hodnocení"
       link: assets/files/sotg-scoring-system-2014-examples.pdf
+  pravidla:
+    - text: Pravidla 2017 (zip)
+      link: assets/files/pravidla_ultimate_2017.zip
+    - text: Doplněk pravidel pro hru v hale, 2017
+      link: assets/files/pravidla_haloveho_ultimate_2017.zip
   jak-zacit:
-    - text: "Oddílová přihláška do ČAU"
-      link: ""
+    - text: Oddílová přihláška do ČAU
+      link: assets/files/oddilova_prihlaska_cau.pdf
 
 links:
   ultimate:
@@ -37,6 +42,14 @@ links:
   ligove-souteze:
     - text: European ultimate championships series (EUCS) na stránkach EUF
       link: https://www.ultimatefederation.eu/club-champs.php
+  pravidla:
+    - text: Veškeré soubory k pravidlum od WFDF
+      link: http://www.wfdf.org/sports/rules-of-play
+    - text: Web WFDF věnovaný čistě jen pravidlům a jejich interpretacím
+      link: https://rules.wfdf.org/
+  jak-zacit:
+    - text: Frisbee e-shop Ultimo
+      link: https://www.ultimo.cz/
 
 contact:
   ssl:

@@ -5,7 +5,7 @@ permalink: oddily
 title: Oddíly v ČR
 ---
 
-<div class="ui two stackable cards">
+<div class="ui three stackable cards">
     {% for team in site.data.oddily.teams %}
     <div class="card">
         <div class="content">
@@ -17,7 +17,7 @@ title: Oddíly v ČR
                     <div class="item">
                         <i class="facebook icon"></i>
                         <div class="content">
-                            {{ team.fb }}
+                            <a href="https://facebook.com/{{ team.fb }}" target="_blank">{{ team.fb }}</a>
                         </div>
                     </div>
                     {% endif %}

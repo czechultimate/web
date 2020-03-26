@@ -34,9 +34,9 @@ Nemusíte nic platit. Všechny náklady jsou hrazeny associací (ČALD)
 -   Školy mohou přihlásit i více týmů (body se pak započítají za umístění Ačkového týmu i Bčkového týmu).
 -   Po skončení jarního kvalifikačního kola se uskuteční finále kam je pozváno 16 nejuspěšnějších škol z celé republiky (na základě bodové tabulky).
 
-![](assets/img/pages/programy/2012_ssl_vitez.jpg)
+<!-- ![](assets/img/pages/programy/2012_ssl_vitez.jpg) -->
 
-# Výsledky minulých ročníků
+## Výsledky
 
 | Ročník    | Počet škol | 1. místo                             | 2. místo        | 3. místo                 |
 | --------- | ---------- | ------------------------------------ | --------------- | ------------------------ |

@@ -1,7 +1,5 @@
 # Jak začít hrát
 
-TODO: ke stazeni oddilova prihlaska a individualni prihlaska
-
 ## Jednotlivci
 
 Pokud chcete začít hrát kolektivní sport ultimate frisbee, stačí napsat některému z oddílů (seznam [zde]({{ 'oddily' | relative_url }})) nebo přímo asociaci (info@czechultimate.cz) a my vám poradíme, k jakému týmu se přidat, případně jaké akce byste se mohli jako jednotlivci zúčastnit (víkendový training camp pro začátečníky, turnaj, kam se dá přihlásit i jednotlivě, a podobně).

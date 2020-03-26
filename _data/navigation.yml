@@ -31,8 +31,10 @@ souteze:
   name: "Soutěže"
   link: ligove-souteze
   menu:
-    - name: "Ligové soutěže"
+    - name: "České ligové soutěže"
       link: ligove-souteze
+    - name: Evropská liga
+      link: evropska-liga
     - name: "Soutěžní řád"
       link: soutezni-rad
     - name: "Pořádání turnaje"
