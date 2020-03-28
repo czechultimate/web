@@ -1,8 +1,4 @@
-# Jak uspořádat turnaj ČAU?
-
-TODO:
-- co vsechno bude ke stazeni (Score sheets, SOTG formulář, Smlouva o spolupráci, Instrukce k organizaci)
-- revize textu?
+# Jak uspořádat turnaj ČAU
 
 První krok k tomu, aby někdo mohl pořádat kvalifikační nebo finálový turnaj ligové soutěže je oznámit svůj úmysl s předstihem nějakému členu výkonné rady ČALD (dále jen VR). Často samotná VR vyhlašuje termíny turnajů a oslovuje týmy k pořádání.
 

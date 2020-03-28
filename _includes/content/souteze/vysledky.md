@@ -1,10 +1,5 @@
 # Výsledky
 
-TODO:
-
--   na cald.cz nefunguji linky na vysledky
--   doplnit vysledky
-
 ## Mistři republiky
 
 | Rok  | OPEN             | WOMEN         | MIXED         |

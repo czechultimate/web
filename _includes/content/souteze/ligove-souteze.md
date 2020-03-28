@@ -1,6 +1,6 @@
 # České ligové soutěže
 
-<!-- ![](assets/img/pages/ligove_souteze_1.jpg) -->
+![](assets/img/pages/ligove_souteze_1.jpg)
 
 ## Mistrovství republiky
 

@@ -33,19 +33,6 @@
                 {% endif %}
               </div>
         </div>
-
-
-        <div class="description">
-
-
-            <div class="ui bulleted list">
-                {% for link in site.data.pages_settings.links[page.permalink] %}
-                <a class="item" target="_blank" href="{{ link.link | relative_url }}">
-                    {{ link.text }}
-                </a>
-                {% endfor %}
-            </div>
-        </div>
     </div>
 </div>
 {% endif %}

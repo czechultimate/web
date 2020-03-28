@@ -17,6 +17,11 @@ downloads:
   jak-zacit:
     - text: Oddílová přihláška do ČAU
       link: assets/files/oddilova_prihlaska_cau.pdf
+  poradani-turnaje:
+    - text: "HOWTO: organize ČAU turnaje"
+    - text: Smlouva o spolupráci (organizátor a VR)
+    - text: Score sheets
+    - text: SOTG formuláře
 
 links:
   ultimate:
@@ -39,7 +44,7 @@ links:
   reprezentace-vysledky:
     - text: "Archiv výsledků národních týmů"
       link: http://hartti.com/national_teams/index.php
-  ligove-souteze:
+  evropska-liga:
     - text: European ultimate championships series (EUCS) na stránkach EUF
       link: https://www.ultimatefederation.eu/club-champs.php
   pravidla:
@@ -50,6 +55,15 @@ links:
   jak-zacit:
     - text: Frisbee e-shop Ultimo
       link: https://www.ultimo.cz/
+  worlds:
+    - text: Hot Beaches skončily na mistrovství světa v ultimate frisbee na vynikajícím 12. místě (sport.cz, 2010)
+      link: https://www.sport.cz/ostatni/frisbee/clanek/171983-hot-beaches-skoncily-na-mistrovstvi-sveta-v-ultimate-frisbee-na-vynikajicim-12-miste.html#section-artcl
+  plazove-turnaje:
+    - text: Čeští junioři ovládli prestižní turnaj v Rimini (sport.cz, 2011)
+      link: https://www.sport.cz/ostatni/frisbee/clanek/185621-cesti-juniori-ovladli-prestizni-turnaj-v-rimini.html
+  vysledky:
+    - text: Detailní výsledky turnajů (frisbee.cz)
+      link: http://www.frisbee.cz/online-vysledky.html
 
 contact:
   ssl:
