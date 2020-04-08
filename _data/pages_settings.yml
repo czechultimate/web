@@ -18,10 +18,28 @@ downloads:
     - text: Oddílová přihláška do ČAU
       link: assets/files/oddilova_prihlaska_cau.pdf
   poradani-turnaje:
-    - text: "HOWTO: organize ČAU turnaje"
+    - text: "Howto: organizace ČAU turnaje"
+      link: assets/files/howto-organizace-turnaje.pdf
     - text: Smlouva o spolupráci (organizátor a VR)
+      link: assets/files/smlouva-spoluprace-vr-organizator-turnaje.pdf
     - text: Score sheets
+      link: assets/files/score-sheet.pdf
     - text: SOTG formuláře
+      link: assets/files/sotg-scoring-sheet-2014.pdf
+  minigranty:
+    - text: Žádost o podporu formou minigrantu
+      link: assets/files/zadost-o-podporu-formou-minigrantu-cald-rev2015.doc
+  media:
+    - text: Dokument pro média
+      link: assets/files/cald_pro_media.pdf
+    - text: Fotky ultimate 1 (zip)
+      link: assets/files/fotky1.zip
+    - text: Fotky ultimate 2 (zip)
+      link: assets/files/fotky2.zip
+    - text: Fotky ultimate 3 (zip)
+      link: assets/files/fotky3.zip
+    - text: Fotky ultimate 4 (zip)
+      link: assets/files/fotky4.zip
 
 links:
   ultimate:
@@ -64,6 +82,15 @@ links:
   vysledky:
     - text: Detailní výsledky turnajů (frisbee.cz)
       link: http://www.frisbee.cz/online-vysledky.html
+  evidence:
+    - text: Evidence členů
+      link: http://evidence.czechultimate.cz
+  sklad:
+    - text: Rezervační systém
+      link: http://sklad.czechultimate.cz
+  vr:
+    - text: Zápisy ze schůzí (gdrive)
+      link: #
 
 contact:
   ssl:
@@ -78,3 +105,5 @@ contact:
     email: rozvoj@czechultimate.cz
   jak-zacit:
     email: info@czechultimate.cz
+  sklad:
+    email: sklad@czechultimate.cz

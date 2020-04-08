@@ -1,5 +1,3 @@
-# Minigranty
-
 <!-- TODO: doplnit aktualni zadost o minigranty -->
 
 České asociace létajícího disku vytvořila vlastní grantový program nazvaný „Minigranty“. Tento program je určen na podporu projektů zaměřených na rozvoj a propagaci ultimate frisbee v ČR v jednotlivých regionech a městech směrem k širší veřejnosti. Minigranty jsou určeny pro jakéhokoli řádného člena asociace (dle definice určené stanovami ČALD), který má smysluplný nápad realizovatelný formou časově ohraničeného projektového záměru a pro úspěšné naplnění projetkového záměru potřebuje buď finanční nebo materiální podporu.

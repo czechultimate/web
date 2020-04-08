@@ -1,13 +1,9 @@
-# Klubové mistrovství světa
-
-![](assets/img/pages/worlds_1.jpg)
-
 TODO:
 - napsat jak casto mistrvostvi byva
 - zminit se o praze
 - dotahnout vysledky
 
-## Výsledky českých klubů
+# Výsledky českých klubů
 
 | Rok  | Místo konání    | OPEN                  | WOMEN                 | MIXED        |
 | ---- | --------------- | --------------------- | --------------------- | ------------ |

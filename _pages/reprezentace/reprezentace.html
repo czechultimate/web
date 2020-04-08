@@ -3,6 +3,7 @@ layout: default
 group: reprezentace
 permalink: reprezentace
 title: Reprezentace
+image: assets/img/pages/reprezentace.jpg
 ---
 
 <div class="ui stackable grid">
@@ -11,6 +12,12 @@ title: Reprezentace
             {% include subnavigation.html %}
         </div>
         <div class="eight wide column content-wrapper">
+            <h1 style="font-size: 2.6em;">
+                {{ page.title }}
+            </h1>
+            {% if page.image %}
+                <img class="ui image" src="{{ page.image | relative_url }}">
+            {% endif %}
             {% capture my_include %}{% include content/{{ page.group }}/{{ page.permalink }}.md %}{% endcapture %}
             {{ my_include | markdownify }}
         </div>

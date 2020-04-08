@@ -1,5 +1,3 @@
-# Historie ultimate v ČR
-
 První veřejnou prezentací her s létajícím talířem na území České republiky byla spartakiádní skladba mladších žáků na Československé spartakiádě v roce 1975. Další oživení přineslo až otevření hranic o patnáct let později. Kromě zahraničních studentů a pracovníků přijíždějících s talířem do naší republiky se s létajícím talířem seznámili v roce 1991 i plavci z vysokoškolského sportovního klubu ČVUT - FEL. Jejich kolegové z Itálie přivezli do Prahy několik talířů a základní metodické materiály a na Strahově jim a několika dalším zájemcům předvedli hru ultimate frisbee.
 
 ![](assets/img/pages/ultimate/historie_cr_1.jpg)

@@ -1,6 +1,4 @@
-# Výsledky
-
-## Mistři republiky
+# Mistři republiky
 
 | Rok  | OPEN             | WOMEN         | MIXED         |
 | ---- | ---------------- | ------------- | ------------- |
@@ -28,7 +26,7 @@
 | 1995 | Prague Devils    |               |               |
 | 1994 | VSK ČVUT - FEL   |               |               |
 
-## Mistři republiky INDOOR
+# Mistři republiky INDOOR
 
 | Rok  | OPEN          | WOMEN         | MIXED             |
 | ---- | ------------- | ------------- | ----------------- |
@@ -50,14 +48,14 @@
 | 1996 | Prague Lions  |               |                   |
 | 1995 | North Kites   |               |                   |
 
-## Mistři republiky BEACH
+# Mistři republiky BEACH
 
 | Rok  | OPEN | WOMEN | MIXED       |
 | ---- | ---- | ----- | ----------- |
 | 2019 |      |       | Chupacabras |
 | 2018 |      |       | Chupacabras |
 
-## Juniorští mistři republiky
+# Juniorští mistři republiky
 
 | Rok  | MIXED | MIXED (INDOOR)    |
 | ---- | ----- | ----------------- |

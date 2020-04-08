@@ -1,18 +1,28 @@
-# Kontakt
+Databáze členů České asociace utimate je přístupná [zde](//evidence.czechultimate.cz). Přístup do databáze je vázán na přihlašovací údaje Zástupce týmu. Soupisky je možné vyplňovat také pomocí aplikace [Evidence ČALD](https://play.google.com/store/apps/details?id=cz.cald.evidence) pro Android.
 
-Email: **info{{ site.data.data.email-domena }}**
+# Návod na zadávání soupisek
 
-Členové VR: jmeno.prijmeni{{ site.data.data.email-domena }}
+## Pro týmy
 
-## Fakturační i poštovní adresa
+- Soupisky se odevzdávají pouze elektronicky vyplněním v Evidenci členů. Pokud neznáte přístup svého oddílu do Evidence členů (http://evidence.cald.cz), požádejte o něj na evidence@cald.cz.
+- Do zápasu mohou nastoupit pouze hráči, kteří jsou uvedeni v Týmové soupisce. Opačný postup vede ke kontumaci utkání ve prospěch soupeře.
+- Soupisku může upravovat pouze správce týmu, ne organizátor turnaje.
+- Pokud je soupiska již uzamčená (již jste zaplatili, ale nastala výjimečná situace, kdy chcete na soupisku někoho dopsat), požádejte pořadatele turnaje o odemčení pro provedení nutných úprav.
+- Neuzamčená soupiska po konci turnaje značí nepodepsání soupisky a má za důsledek diskvalifikaci daného týmu. Digitální uzamčení nahrazuje dosavadní podpis.
+- Zodpovědnost za soupisku označenou jako Uzamčenou náleží na každém týmu, nikoliv pořadateli turnaje.
+- Jmenné soupisky lze rozkliknout - zkontrolovat tak případně soupeře, zda má na soupisce všechny hráče. Pokud na soupisce nejsou uvedení všichni hráči, lze informovat pořadatele turnaje či turnajovou komisi ČAU a požádat o kontumaci utkání.
+- Všichni hráči, kteří nastoupí byť do jediného zápasu na soutěžním turnaji, se stávají členy České asociace ultimate a po skončení sezóny za ně tým bude platit roční členský poplatek.
 
-Česká asociace ultimate  
-Osadní 869/32  
-Praha 7, 170 00
+## Pro pořadatele
 
-Datová schránka: ujbjujf
+- Za pořadatelem přijde tým, který chce zaplatit.
+- V detailu soupisky každého Týmu (i svého) má účet, který patří k pořadatelskému týmu, nově tlačítko na uzamčení/odemčení soupisky
+- Pořadatel si v Evidenci členů otevře soupisku týmu a tlačítkem **Uzamknout soupisku** ukončí možnost editace soupisky od týmu
+- Soupisku je možné opět otevřít, pokud bude nutné na soupisku někoho doplnit
+- Neuzamčená soupiska po konci turnaje značí nepodepsání soupisky a má za důsledek diskvalifikaci daného týmu
+- Soupisky je možné uzamknout ještě den po ukončení turnaje
 
-IČO: 08057508  
-DIČ: CZ08057508  
-Nejsme plátci DPH.  
-Číslo účtu: 2201624636/2010
+### Přehled Uzamčených soupisek
+
+- V přehledu soupisek turnaje se u Uzamčených soupisek zobrazí ikonka zámečku
+- Po konci turnaje MUSÍ být všechny soupisky Uzamčené

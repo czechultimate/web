@@ -1,7 +1,3 @@
-# Výsledky
-
-<!-- ![](assets/img/pages/repre/juniorky_vitezstvi.jpg) -->
-
 Výsledky jsou ve formátu pořadí / počet účastníků.
 Označení hvězdičkou značí vítězství v kategorii Spirit of the Game.
 

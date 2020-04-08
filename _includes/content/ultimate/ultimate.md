@@ -1,5 +1,3 @@
-# Co je to ultimate
-
 Ultimate Frisbee je relativně nový sport, který se hraje od roku 1968, avšak jeho popularita rok od roku
 stoupá. Výzvy, které tento unikátní sport přináší, jsou přitažlivé pro hráče všech věkových kategorií a
 atletických úrovní. Jak s ultimate jednou začnete, už vás nepustí. Není s podivem, že ultimate přitahuje
@@ -31,7 +29,7 @@ Není povolen fyzický kontakt mezi hráči ani přetahování o disk. Hra je za
 samotnými hráči – hraje se bez rozhodčích. Všechny přestupky na čarách, při držení disku a fauly jsou
 hlášeny samotnými hráči přítomnými na hřišti.
             
-## Proč hrát ultimate?
+# Proč hrát ultimate?
          
 Ultimate je velmi atraktivní sport kombinující různé atletické dovednosti. Dobrý hráč musí umět rychle
 běhat, házet a chytat. Prostor vyniknout i v jiném směru tu pochopitelně je. Ultimate v sobě zahrnuje
@@ -64,7 +62,7 @@ the Game.
 
 ![](assets/img/pages/ultimate/2019_windmill_hazeni.jpg)
 
-## Jak házet frisbee?
+# Jak házet frisbee?
 
 Technika jednotlivých hodů je založena na koordinaci pohybu paže a prudkého švihu zápěstí. Tento pohyb
 udává disku rychlost, směr a rotaci kolem vlastní osy, ta je důležitá pro správný a klidný let. Švih

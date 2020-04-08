@@ -1,10 +1,8 @@
-# Počátky frisbee
-
 Každý objekt má svou historii a na pozadí této historie je nějaký vynálezce. Stejně tak je tomu i v případě frisbee, létajícího talíře, disku.
 
 ![](assets/img/pages/ultimate/historie_1.jpg)
 
-## Koláče, UFO a stavební inspektor
+# Koláče, UFO a stavební inspektor
 
 Vraťme se téměř o 140 let zpátky do roku 1871. V americkém státě Connecticut, ve městě Bridgeport tehdy sídlila pekařská firma Frisbie Baking Company. Ta zde vyráběla kromě jiného také koláče, které se prodávaly v mělkých kulatých formách. Studenti z místních škol velmi brzy zjistili, že prázdné formy od koláčů dobře létají, a začali si s nimi házet. Tento moment se proto dá považovat za úplný vznik dnes již známého létajícího disku.
 
@@ -16,7 +14,7 @@ Co není na papíře, jako by nebylo. I když si lidé házeli skoro celé stole
 
 ![](assets/img/pages/ultimate/historie_2.jpg)
 
-## Frisbie, Frisbee a ultimate frisbee
+# Frisbie, Frisbee a ultimate frisbee
 
 Richard Kerr ve snaze zvýšit prodej začal uvažovat o novém, chytlavějším názvu pro létající talíř. Nakonec jen pozměnil původní jméno a v roce 1959 si jeho firma Wham-O nechala patentovat název Frisbee. Změna jména, podpořena chytrou marketingovou strategií, která byla postavena na házení si s diskem jako hrou, pomohla raketovému vzrůstu prodeje frisbee. V roce 1964 dal Ed Headrick, vynálezce ve firmě Wham-O, létajícímu talíři současný tvar. Jeho typické drážky vystupující po obvodě disku na horní straně pomáhají letové stabilitě disku. Tento tvar je považován za první profesionální model létajícího talíře a byl Edu Headrickovi patentován v roce 1966.
 
@@ -26,13 +24,13 @@ V současné době se ultimate frisbee hraje na všech světadílech vyjma Antar
 
 ![](assets/img/pages/ultimate/historie_3.jpg)
 
-## 175gramová "hvězda" v hlavní roli
+# 175gramová "hvězda" v hlavní roli
 
 Dnes létající talíře vyrábí více než šedesát firem po celém světě. Pro oficiální soutěže v ultimate frisbee se používá létající talíř od americké firmy Discraft, který váží 175 gramů a nese název UltraStar. U nás je k sehnání především u firmy ultimo.cz.
 
 Walter Frederick Morrison zemřel 11. února 2010.
 
-## WFDF
+# WFDF
 
 Světová asociace létajícího disku (WFDF) je mezinárodním orgánem zaštiťujícím sporty s létajícím diskem. Založena byla roku 1984 ve Švédsku, ale později přesídlila už jako nezisková organizace do Colorada v USA. WFDF sdružuje kolem sta stálých i prozatímních členů ze šesti světadílů. Sportem, kterému věnuje WFDF největší pozornost, je ultimate frisbee. Ultimate se v současné době hraje ve více než 80 zemích po celém světě.
 

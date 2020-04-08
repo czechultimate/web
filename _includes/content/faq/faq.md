@@ -1,6 +1,6 @@
 # Často kladené dotazy
 
-TODO: doplnit spravne odkazy
+![](assets/img/pages/faq.jpg)
 
 ## Jak začít hrát ultimate frisbee?
 Najděte si kontakt na tým ve svém okolí nebo založte vlastní tým. Obecně jsou všechny týmy otevřené přijímání nováčků. Přečtěte si stručná pravidla frisbee a na videích se podívejte na základní techniku hodů.
@@ -12,21 +12,21 @@ Oficiálně se hraje s diskem, který váží 175 gramů. Vyrábí jej několik 
 Nejlepší a nejlevnější variantou je online obchod Ultimo.cz, oficiální partner asociace, který nabízí široký sortiment disků. Dají se tam koupit disky jak na ultimate, tak i na discgolf, dogfrisbee a freestyle. 
  
 ## Jak založit nový tým a začít s ním jezdit na turnaje?
-Do začátku nepotřebujete téměř nic, jen pár kamarádů, disky na házení a rovnou plochu na trénink. Chcete-li si vyzkoušet hru proti dalším týmům, zkuste si vybrat v kalendáři turnajů, nebo nám napište na vr@cald.cz, poradíme vám, jaký si vybrat. Každý měsíc probíhá několik turnajů, od těch pro začátečníky přes ligové turnaje a mistrovství republiky po reprezentační akce. V Praze, Brně a Českých Budějovicích například probíhá „amatérská“ liga vhodná pro nové týmy.
+Do začátku nepotřebujete téměř nic, jen pár kamarádů, disky na házení a rovnou plochu na trénink. Chcete-li si vyzkoušet hru proti dalším týmům, zkuste si vybrat v kalendáři turnajů, nebo nám napište na info@czechultimate.cz, poradíme vám, jaký si vybrat. Každý měsíc probíhá několik turnajů, od těch pro začátečníky přes ligové turnaje a mistrovství republiky po reprezentační akce. V Praze, Brně a Českých Budějovicích například probíhá „amatérská“ liga vhodná pro nové týmy.
  
-## Jak a proč se zaregistrovat do České asociace létajícího disku?
-Pokud byste s vaším týmem chtěli začít hrát pravidelně turnaje, je třeba se zaregistrovat v ČALDu. Roční příspěvky činí 350 Kč/hráč, postup k registraci najdete na stránce Jak začít hrát. Ligových turnajů a mistrovství republiky se mohou účastnit pouze registrovaní hráči.
+## Jak a proč se zaregistrovat do České asociace ultimate?
+Pokud byste s vaším týmem chtěli začít hrát pravidelně turnaje, je třeba se zaregistrovat v ČAU. Roční příspěvky činí 350 Kč/hráč, postup k registraci najdete na stránce Jak začít hrát. Ligových turnajů a mistrovství republiky se mohou účastnit pouze registrovaní hráči.
  
 ## Jaký je průběh přihlašování týmů na soutěžní turnaje?
-Oddíly registrované v ČALDu dostanou před plánovanými turnaji pozvánku. Závazné přihlášení na turnaj probíhá formou zaplacení týmové zálohy, termín zaplacení je obvykle 30 dní před konáním turnaje. Pokud tým zaplatí zálohu a po termínu zaplacení se odhlásí, záloha týmu propadá - je určena k pokrytí ztráty, která pořadateli odhlášením vznikla.
+Oddíly registrované v ČAU dostanou před plánovanými turnaji pozvánku. Závazné přihlášení na turnaj probíhá formou zaplacení týmové zálohy, termín zaplacení je obvykle 30 dní před konáním turnaje. Pokud tým zaplatí zálohu a po termínu zaplacení se odhlásí, záloha týmu propadá - je určena k pokrytí ztráty, která pořadateli odhlášením vznikla.
  
-## Půjčování věcí od ČALD zdarma a za úplatu
-Členové ČALD si mohou prostřednictvím online aplikace půjčovat vybavení v majetku ČALD. Základní věci potřebné k pořádání turnaje (kuželíky, barely na vodu, počítadla, várnice, lékárnička apod.) jsou zdarma, za reprobedny a discgolfové vybavení se platí:
-Reprobedny: 300 Kč za den, 500 Kč za víkend  
-Discgolfový koš a disky: 50 Kč za den
+## Půjčování věcí od ČAU zdarma a za úplatu
+Členové ČAU si mohou prostřednictvím online aplikace půjčovat vybavení v majetku ČAU. Základní věci potřebné k pořádání turnaje (kuželíky, barely na vodu, počítadla, várnice, lékárnička apod.) jsou zdarma, za reprobedny a discgolfové vybavení se platí:
+- Reprobedny: 300 Kč za den, 500 Kč za víkend
+- Discgolfový koš a disky: 50 Kč za den
  
 ## Jak se stát organizátorem ligového turnaje nebo mistrovství ČR v ultimate?
-VR ČALD minimálně dvakrát ročně posílá oddílům prostřednictvím týmových zástupců výzvu pro přihlašování organizátorů ligových (mistrovských) turnajů s uvedením základních požadavků na počet hřišť a alespoň přibližný termín konání turnaje. Organizátor může projevit zájem prostřednictvím nabídky ve formě emailu, který pošle na adresu vr@cald.cz. V nabídce uvede základní informace jako možný termín(y) konání, informace o místě, kde by se turnaj měl konat, počtu a kvalitě hřišť, zázemí (šatny, sprchy, WC), formě ubytování hráčů, odhadované výšce hráčských poplatků. Nabídku může doplnit o informace o plánované propagaci turnaje či o doprovodných aktivitách zaměřených na rozvoj sportu v regionu. V případě, že VR ČALD obdrží více nabídek, rozhodne o pořadateli na základě doručených nabídek na nejbližší schůzi VR.
+VR ČAU minimálně dvakrát ročně posílá oddílům prostřednictvím týmových zástupců výzvu pro přihlašování organizátorů ligových (mistrovských) turnajů s uvedením základních požadavků na počet hřišť a alespoň přibližný termín konání turnaje. Organizátor může projevit zájem prostřednictvím nabídky ve formě emailu, který pošle na adresu info@czechultimate.cz. V nabídce uvede základní informace jako možný termín(y) konání, informace o místě, kde by se turnaj měl konat, počtu a kvalitě hřišť, zázemí (šatny, sprchy, WC), formě ubytování hráčů, odhadované výšce hráčských poplatků. Nabídku může doplnit o informace o plánované propagaci turnaje či o doprovodných aktivitách zaměřených na rozvoj sportu v regionu. V případě, že VR ČAU obdrží více nabídek, rozhodne o pořadateli na základě doručených nabídek na nejbližší schůzi VR.
  
 ## Jaké jsou povinnosti organizátora turnaje?
-Organizátor zajišťuje pronájem hracích hřišť; poskytuje přihlášeným týmům potřebné informace (výše startovného, forma ubytování a stravování…); vybírá startovné, zajišťuje počítání skóre a sběr SOTG; ustavuje komisi pro účely kontroly dodržování zákazu konzumace omamných látek hráči mladšími 18 let. Určí kontaktní osobu, která při přípravě turnaje komunikuje s VR ČALD (zpravidla s určeným zástupcem). Snaží se zajistit hladký a regulérní průběh turnaje, zajistí dostupnost lékárničky na hřišti a zajistí osobu zodpovědnou za první pomoc hráčům. Organizátor turnaje v rámci startovného vybere turnajový poplatek 30 Kč za hráče, organizátor musí být schopen zajistit zúčastněnému týmu potvrzení o zaplacení turnajových poplatků. Po uskutečnění turnaje pokladníkovi ČALD předloží finanční vyúčtování a vyplatí poplatky za hráče.
+Organizátor zajišťuje pronájem hracích hřišť; poskytuje přihlášeným týmům potřebné informace (výše startovného, forma ubytování a stravování…); vybírá startovné, zajišťuje počítání skóre a sběr SOTG; ustavuje komisi pro účely kontroly dodržování zákazu konzumace omamných látek hráči mladšími 18 let. Určí kontaktní osobu, která při přípravě turnaje komunikuje s VR ČAU (zpravidla s určeným zástupcem). Snaží se zajistit hladký a regulérní průběh turnaje, zajistí dostupnost lékárničky na hřišti a zajistí osobu zodpovědnou za první pomoc hráčům. Organizátor turnaje v rámci startovného vybere turnajový poplatek 30 Kč za hráče, organizátor musí být schopen zajistit zúčastněnému týmu potvrzení o zaplacení turnajových poplatků. Po uskutečnění turnaje pokladníkovi ČAU předloží finanční vyúčtování a vyplatí poplatky za hráče.

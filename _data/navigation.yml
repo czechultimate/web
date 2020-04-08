@@ -5,7 +5,7 @@ ultimate:
   name: Ultimate
   link: ultimate
   menu:
-    - name: "Co je to ultimate"
+    - name: Co je ultimate
       link: ultimate
     - name: Pravidla
       link: pravidla
@@ -43,7 +43,7 @@ souteze:
           link: plazove-turnaje
     - name: "Soutěžní řád"
       link: soutezni-rad
-    - name: "Pořádání turnaje"
+    - name: Pořádání turnaje
       link: poradani-turnaje
     - name: "Výsledky"
       link: vysledky
@@ -67,8 +67,6 @@ programy:
       link: ssl
     - name: "Školení učitelů"
       link: skoleni-ucitelu
-    - name: "Trenérské licence"
-      link: trenerske-licence
     - name: Minigranty
       link: minigranty
 asociace:
@@ -77,15 +75,19 @@ asociace:
   menu:
     - name: "Vize"
       link: vize
-    - name: "Evidence"
-      link: evidence
-    - name: "Sklad"
-      link: sklad
-    - name: "Síň slávy"
-      link: sin-slavy
-    - name: "Výkonná rada"
-      link: vr
-    - name: "Média"
+    - name: Sponzoring
+      link: sponzoring
+    - name: Média
       link: media
+    - name: Síň slávy
+      link: sin-slavy
+    - name: Evidence členů
+      link: evidence
+    - name: Sklad
+      link: sklad
+    - name: Osobní údaje
+      link: osobni-udaje
+    - name: Výkonná rada
+      link: vr
     - name: "Kontakt"
       link: kontakt

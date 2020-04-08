@@ -1,7 +1,3 @@
-# Plážové turnaje
-
-![](assets/img/pages/plazove_turnaje_1.jpg)
-
 TODO:
 - jak to funguje (kdo se kvalifikuje)
 - EBUCC je kazdy druhy rok (mozna bude kazdy rok)
@@ -14,8 +10,7 @@ Mezi tradiční plážové turnaje patří:
 - Sabe a Mixta (Valencie, ESP)
 - Olgoj chorchoj (Plzeň, CZE)
 
-
-## Výsledky českých klubů (EBUCC)
+# Výsledky českých klubů (EBUCC)
 
 | Rok  | Místo          | OPEN                  | WOMEN                                | MIXED              |
 | ---- | -------------- | --------------------- | ------------------------------------ | ------------------ |

@@ -1,5 +1,3 @@
-# Vize ČAU
-
 Naše vize by se dala rozdělit zhruba do třech hlavních oblastí:
 
 ## Rozvoj a propagace
