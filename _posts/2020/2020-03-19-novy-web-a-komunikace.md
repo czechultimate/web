@@ -2,7 +2,7 @@
 layout: post
 category: blog
 tags:
-img: assets/img/articles/2020/web.jpg
+img: assets/img/posts/2020/web.jpg
 title: ČAU nově na czechultimate.cz
 author: Marek Dostál
 ---

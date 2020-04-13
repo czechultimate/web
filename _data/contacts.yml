@@ -1,0 +1,15 @@
+contacts:
+  ssl:
+    name: "Tomáš Toušek"
+    phone: "731 612 805"
+    email: tomas.tousek@czechultimate.com
+  minigranty:
+    email: rozvoj@czechultimate.cz
+  nabidka-asociace:
+    email: rozvoj@czechultimate.cz
+  skoleni-ucitelu:
+    email: rozvoj@czechultimate.cz
+  jak-zacit:
+    email: info@czechultimate.cz
+  sklad:
+    email: sklad@czechultimate.cz

@@ -18,45 +18,50 @@ asociace:
     - name: "Míša Čakrtová"
       img: assets/img/vr/misa_cakrtova.jpg
       subtitle: "Předseda VR"
-      description: ""
+      description:
+        -
     - name: "Pavel Urban"
       img: assets/img/vr/cat.jpg
-      subtitle: "Člen VR"
-      description: "Ekonomika, finance a účetnictví"
+      subtitle: "Ekonom"
+      description:
+        -
     - name: "Kateřina Langová"
       img: assets/img/vr/cat.jpg
-      subtitle: "Člen VR"
-      description: "Reprezentace"
+      subtitle: "Koordinátor reprezentací"
+      description:
+        -
+    - name: "Tomáš Toušek"
+      img: assets/img/vr/tomas_tousek.jpg
+      subtitle: "Rozvoj & vzdělávání"
+      description:
+        -
+    - name: Matěj Štětka
+      img: assets/img/vr/matej_stetka.jpg
+      subtitle: PR, propagace & média
+      description:
+        -
+    - name: "Tadeáš Grym"
+      img: assets/img/vr/tadeas_grym.jpg
+      subtitle: PR, propagace & média
+      description:
+        -
+    - name: "Marek Dostál"
+      img: assets/img/vr/marek_dostal.jpg
+      subtitle: IT support & komunikace
+      description:
+        -
+  stk:
     - name: "Jan Novák"
       img: assets/img/vr/jan_novak.jpg
-      subtitle: "Člen VR | STK"
-      description: ""
+      subtitle: "STK"
     - name: "Malvína Voclová"
       img: assets/img/vr/cat.jpg
-      subtitle: "Člen VR | STK"
+      subtitle: "STK"
       description: ""
     - name: "Václav Pachta"
       img: assets/img/vr/vaclav_pachta.jpg
-      subtitle: "Člen VR | STK"
+      subtitle: "STK"
       description: ""
-    - name: "Matěj Štětka"
-      img: assets/img/vr/matej_stetka.jpg
-      subtitle: "Člen VR"
-      description: ""
-    - name: "Tomáš Toušek"
-      img: assets/img/vr/cat.jpg
-      subtitle: "Člen VR"
-      description: "Rozvoj"
-    - name: "Tadeáš Grym"
-      img: assets/img/vr/tadeas_grym.jpg
-      subtitle: "Člen VR"
-      description: "Média"
-    - name: "Marek Dostál"
-      img: assets/img/vr/marek_dostal.jpg
-      subtitle: "Člen VR"
-      description: "IT"
-  stk:
-
   kk:
     - name: "František Fencl"
       subtitle: "Předseda KK"
@@ -67,3 +72,10 @@ asociace:
     - name: "Jan Ondráček"
       subtitle: "Člen KK"
       email: jan.ondracek
+  jobs:
+    - name: Zástupci v regionu pro Evropskou ligu (Míša Čakrtová)
+      description: Zastupují a hlasují za ČR v regionu střední a východní Evropy. Předávají informace asociaci.
+    - name: Skladník (Pavla Haflantová)
+      description: Kontroluje průběžně stav ve skladu, hlídá stav zásob v lékárničce, vozí medaile na ligu (upozorní někoho jiného, pokud nejede), obstará, pokud bude něčeho nedostatek a vyzvedává nové věci do skladu.
+    - name: Turnajová komise
+      description: Jmenována na každý soutěžní turnaj (skládá se z pověřeného člena VR + 2 zástupců organizátora turnaje. Řeší případné problémy (např. porušení zákazu alkoholu nezletilými).

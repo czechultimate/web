@@ -1,0 +1,53 @@
+documents:
+  - text: Stanovy ČAU
+    link:
+  - text: Výroční zprávy (gdrive)
+    link:
+  - text: Logo asociace
+    link:
+
+pages:
+  ultimate:
+    - text: "Úplná pravidla Ultimate Frisbee 2017 (cs)"
+      link: assets/files/pravidla_ultimate_2017.pdf
+  sotg:
+    - text: "SOTG formulář"
+      link: assets/files/sotg-scoring-sheet-2014.pdf
+    - text: "SOTG formulář (hodnocení vlastního týmu)"
+      link: assets/files/sotg-self-scoring-sheet-2014.pdf
+    - text: "Návod k hodnocení"
+      link: assets/files/sotg-scoring-system-2014-examples.pdf
+  pravidla:
+    - text: Pravidla 2017 (zip)
+      link: assets/files/pravidla_ultimate_2017.zip
+    - text: Doplněk pravidel pro hru v hale, 2017
+      link: assets/files/pravidla_haloveho_ultimate_2017.zip
+  jak-zacit:
+    - text: Oddílová přihláška do ČAU
+      link: assets/files/oddilova_prihlaska_cau.pdf
+  poradani-turnaje:
+    - text: "Howto: organizace ČAU turnaje"
+      link: assets/files/howto-organizace-turnaje.pdf
+    - text: Smlouva o spolupráci (organizátor a VR)
+      link: assets/files/smlouva-spoluprace-vr-organizator-turnaje.pdf
+    - text: Score sheets
+      link: assets/files/score-sheet.pdf
+    - text: SOTG formuláře
+      link: assets/files/sotg-scoring-sheet-2014.pdf
+  minigranty:
+    - text: Žádost o podporu formou minigrantu
+      link: assets/files/zadost-o-podporu-formou-minigrantu-cald-rev2015.doc
+  media:
+    - text: Dokument pro média
+      link: assets/files/cald_pro_media.pdf
+    - text: Fotky ultimate 1 (zip)
+      link: assets/files/fotky1.zip
+    - text: Fotky ultimate 2 (zip)
+      link: assets/files/fotky2.zip
+    - text: Fotky ultimate 3 (zip)
+      link: assets/files/fotky3.zip
+    - text: Fotky ultimate 4 (zip)
+      link: assets/files/fotky4.zip
+  vr:
+    - text: Zápisy ze schůzí (gdrive)
+      link:

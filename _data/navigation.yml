@@ -87,7 +87,9 @@ asociace:
       link: sklad
     - name: Osobní údaje
       link: osobni-udaje
-    - name: Výkonná rada
+    - name: VR a další pozice
       link: vr
+    - name: Dokumenty
+      link: dokumenty
     - name: "Kontakt"
       link: kontakt

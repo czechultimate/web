@@ -2,7 +2,7 @@
 layout: default
 group: asociace
 permalink: vr
-title: Výkonná rada
+title: Výkonná rada a další pozice
 ---
 
 <div class="ui stackable grid">
@@ -10,9 +10,22 @@ title: Výkonná rada
         <div class="four wide column">
             {% include subnavigation.html %}
         </div>
-        <div class="eight wide column">
+        <div class="eight wide column content-wrapper">
 
-            <h1>Výkonná rada</h1>
+            <h1 style="font-size: 2.6em;">
+                Výkonná rada
+            </h1>
+
+            <div class="vr-content">
+
+            {% capture my_include %}{% include content/{{ page.group }}/{{ page.permalink }}.md %}{% endcapture %}
+            {{ my_include | markdownify }}
+
+            </div>
+
+            <h1>
+                Členové VR
+            </h1>
 
             <div class="ui three stackable cards">
 
@@ -20,7 +33,7 @@ title: Výkonná rada
 
                 <div class="ui card">
                     <div class="image">
-                        <img src="{{ member.img | relative_url }}">
+                        <img style="margin: 0px;" src="{{ member.img | relative_url }}">
                     </div>
                     <div class="content" style="padding: 11px;">
                         <div class="header">{{ member.name }}</div>
@@ -28,15 +41,45 @@ title: Výkonná rada
                             <span class="date">{{ member.subtitle }}</span>
                         </div>
                         <div class="description">
-                            {{ member.description }}
+                            {% for paragraph in member.description %}
+                            <p>{{ paragraph }}</p>
+                            {% endfor %}
                         </div>
                     </div>
-                    <!-- <div class="extra content">
-                        <div>
-                            katerina.langova
-                            <br>{{ site.data.data.email-domena }}
+                </div>
+
+                {% endfor %}
+
+            </div>
+
+            <h2>Sportovně technická komise</h2>
+
+            <p>
+                STK definuje pravidla a soutěžní řád, tvoří rozpisy na turnaje
+                a zastřešuje Spirit of the Game. Dále spravuje databázi členů
+                (soupisky, podklady pro placení příspěvků a zástupce na valnou
+                hromadu). Členové STK jsou členy VR.
+            </p>
+
+            <div class="ui three stackable cards">
+
+                {% for member in site.data.data.asociace.stk %}
+
+                <div class="ui card">
+                    <div class="image">
+                        <img style="margin: 0px;" src="{{ member.img | relative_url }}">
+                    </div>
+                    <div class="content" style="padding: 11px;">
+                        <div class="header">{{ member.name }}</div>
+                        <div class="meta">
+                            <span class="date">{{ member.subtitle }}</span>
                         </div>
-                    </div> -->
+                        <div class="description">
+                            {% for paragraph in member.description %}
+                            <p>{{ paragraph }}</p>
+                            {% endfor %}
+                        </div>
+                    </div>
                 </div>
 
                 {% endfor %}
@@ -44,6 +87,12 @@ title: Výkonná rada
             </div>
 
             <h1>Kontrolní komise</h1>
+
+            <p>
+                Povinný orgán, který se skládá ze tří členů. Není součástí VR, ale
+                naopak její činnost kontroluje. Provádí kontroly a přezkoumává
+                ekonomické a právní operace realizované v rámci činnosti ČAU.
+            </p>
 
             <div class="ui three stackable cards">
 
@@ -56,10 +105,6 @@ title: Výkonná rada
                             <span class="date">{{ member.subtitle }}</span>
                         </div>
                     </div>
-                    <div class="extra content">
-                        {{ member.email }}
-                        <br>{{ site.data.data.email-domena }}
-                    </div>
                 </div>
 
                 {% endfor %}
@@ -70,6 +115,54 @@ title: Výkonná rada
 
         <div class="four wide column">
             {% include sidebar/links.html %}
+
+            <div class="ui fluid card">
+                <div class="content">
+                    <div class="header">
+                        <i class="bullhorn icon"></i>
+                        Dobrovolníci
+                    </div>
+                    <div class="description">
+                        <p>
+                            Všechny cíle, podpora a vize do budoucna mají jednoho
+                            společného jmenovatele, bez kterého nebude možné
+                            se posunout dál. <b>Dobrovolníci.</b> Resp. více dobrovolníků,
+                            lidí, kteří se zapojí a pomůžou některou oblast v rámci
+                            asociace posunout dál.
+                        </p>
+                        <p>
+                            V současné době je takových lidí bohužel málo. Nutit vás
+                            nikdo nemůže a nebude, ale věříme, že se přihlásí další
+                            lidé a budou chtít pomoct posunout ultimate u nás dál.
+                        </p>
+                        <p>
+                            Pomoct neznamená, že je nutně potřeba vstoupit do výkonné rady ČAU. V té je potřeba
+                            nějakých 8-10 lidí, další můžou s těmito lidmi spolupracovat, vést jednotlivé věci a
+                            projekty a s VR pouze komunikovat a koordinovat.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="ui fluid card">
+                <div class="content">
+                    <div class="header" style="margin-bottom: 20px;">
+                        <i class="users icon"></i>
+                        Další pozice
+                    </div>
+                    <div class="description">
+                        {% for job in site.data.data.asociace.jobs %}
+                        <h4 class="ui header" style="margin-bottom: 3px;">
+                            {{ job.name }}
+                        </h4>
+                        <p>
+                            {{ job.description }}
+                        </p>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+
         </div>
     </div>
 </div>

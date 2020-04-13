@@ -1,4 +1,4 @@
-{% if site.data.pages_settings.downloads[page.permalink] %}
+{% if site.data.documents.pages[page.permalink] %}
 <div class="ui fluid card">
     <div class="content">
         <div class="header">
@@ -7,7 +7,7 @@
         </div>
         <div class="description">
             <div class="ui bulleted list">
-                {% for link in site.data.pages_settings.downloads[page.permalink] %}
+                {% for link in site.data.documents.pages[page.permalink] %}
                 <a class="item" target="_blank" href="{{ link.link | relative_url }}">
                     {{ link.text }}
                 </a>

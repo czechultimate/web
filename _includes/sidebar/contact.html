@@ -1,4 +1,4 @@
-{% if site.data.pages_settings.contact[page.permalink] %}
+{% if site.data.contacts.contacts[page.permalink] %}
 <div class="ui fluid card">
     <div class="content">
         <div class="header">
@@ -7,27 +7,27 @@
 
         <div class="description">
             <div class="ui list">
-                {% if site.data.pages_settings.contact[page.permalink].name %}
+                {% if site.data.contacts.contacts[page.permalink].name %}
                 <div class="item">
                   <i class="user icon"></i>
                   <div class="content">
-                    {{ site.data.pages_settings.contact[page.permalink].name }}
+                    {{ site.data.contacts.contacts[page.permalink].name }}
                   </div>
                 </div>
                 {% endif %}
-                {% if site.data.pages_settings.contact[page.permalink].phone %}
+                {% if site.data.contacts.contacts[page.permalink].phone %}
                 <div class="item">
                   <i class="phone icon"></i>
                   <div class="content">
-                    {{ site.data.pages_settings.contact[page.permalink].phone }}
+                    {{ site.data.contacts.contacts[page.permalink].phone }}
                   </div>
                 </div>
                 {% endif %}
-                {% if site.data.pages_settings.contact[page.permalink].email %}
+                {% if site.data.contacts.contacts[page.permalink].email %}
                 <div class="item">
                   <i class="mail icon"></i>
                   <div class="content">
-                    {{ site.data.pages_settings.contact[page.permalink].email }}
+                    {{ site.data.contacts.contacts[page.permalink].email }}
                   </div>
                 </div>
                 {% endif %}

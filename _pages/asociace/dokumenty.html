@@ -1,0 +1,39 @@
+---
+layout: page
+group: asociace
+permalink: dokumenty
+title: Dokumenty
+image:
+---
+
+<h1 style="font-size: 2.6em;">
+    Dokumenty
+</h1>
+
+<div class="ui bulleted list">
+{% for link in site.data.documents.documents %}
+<div class="item">
+    <a target="_blank" href="{{ link.link | relative_url }}">{{ link.text }}</a>
+</div>
+{% endfor %}
+</div>
+
+
+
+<h2>
+    Seskupeno z webu
+</h2>
+
+<div class="ui bulleted list">
+
+    {% for page in site.data.documents.pages %}
+    {% for link in page[1] %}
+
+    <div class="item">
+        <a target="_blank" href="{{ link.link | relative_url }}">{{ link.text }}</a> [{{ page[0] }}]
+    </div>
+
+    {% endfor %}
+    {% endfor %}
+
+</div>
