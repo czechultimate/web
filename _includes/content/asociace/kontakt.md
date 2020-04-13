@@ -13,8 +13,8 @@ katerina.langova{{ site.data.data.email-domena }}
 ## Fakturační i poštovní adresa
 
 Česká asociace ultimate  
-Osadní 869/32  
-Praha 7, 170 00
+Jugoslávských partyzánů 952/30  
+Praha 6, 160 00
 
 Datová schránka: ujbjujf
 
