@@ -6,16 +6,16 @@ title: Dokumenty
 image:
 ---
 
-<h1 style="font-size: 2.6em;">
+<h1 class="page-title">
     Dokumenty
 </h1>
 
 <div class="ui bulleted list">
-{% for link in site.data.documents.documents %}
-<div class="item">
-    <a target="_blank" href="{{ link.link | relative_url }}">{{ link.text }}</a>
-</div>
-{% endfor %}
+    {% for link in site.data.documents.documents %}
+    <li class="item">
+        <a target="_blank" href="{{ link.link | relative_url }}">{{ link.text }}</a>
+    </li>
+    {% endfor %}
 </div>
 
 
@@ -29,9 +29,9 @@ image:
     {% for page in site.data.documents.pages %}
     {% for link in page[1] %}
 
-    <div class="item">
+    <li class="item">
         <a target="_blank" href="{{ link.link | relative_url }}">{{ link.text }}</a> [{{ page[0] }}]
-    </div>
+    </li>
 
     {% endfor %}
     {% endfor %}
