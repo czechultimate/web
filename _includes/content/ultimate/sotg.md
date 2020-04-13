@@ -2,7 +2,7 @@ Hlavním určujícím znakem Ultimate frisbee je Spirit of the Game. Protože se
 
 *"Ultimate frisbee klade velký důraz na sportovního ducha. Odpovědnost za dodržování pravidel je vložena do rukou samotných hráčů. Soutěživost má zelenou, ne však na úkor vzájemného respektu hráčů, dodržování pravidel nebo prosté radosti ze hry. Dodržování těchto pravidel pomáhá eliminovat nežádoucí chování na hřišti. Nesportovní chování, jako je posměch, agresivita či záměrné faulování, je v rozporu se zásadou Spirit of the Game a žádný z hráčů se ho nesmí dopouštět."*
 
-![](assets/img/pages/ultimate/2019_windmill_spirit.jpg)
+<!-- ![](assets/img/pages/sotg.jpg) -->
 
 Spirit of the Game odlišuje ultimate frisbee od jiných soutěživých kolektivních sportů. Během více než 30 let své existence se stal ultimate sportem, který se hraje na nejvyšší úrovni a to zcela bez rozhodčích. Princip fair play v ultimate funguje. Pravda, špatná stránka lidské povahy se občas projeví i zde, jak už to ve sportu a v životě bývá. Ale i ty nejsložitější situace se zpravidla řeší v klidu, což je na tomto sportu jedinečné a krásné. V ultimate mohou hráči předvést ty nejhezčí a nejúctyhodnější lidské vlastnosti.
 
