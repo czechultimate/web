@@ -1,0 +1,18 @@
+- name: Klára Lipertová
+  img: assets/img/pages/ligove_souteze.jpg
+  links:
+    web: https://klaralipertova.wixsite.com/photography
+    fb: https://www.facebook.com/klaralipertovaphotography
+    flickr: https://www.flickr.com/photos/135766973@N08/albums
+- name: Petr Kotěšovec
+  img: assets/img/pages/evropska_liga.jpg
+  links:
+    flickr: http://www.flickr.com/carluzo
+- name: David Průcha
+  img: assets/img/pages/worlds.jpg
+  links:
+    google: https://get.google.com/albumarchive/114845861052905956990
+- name: Czech Ultimate
+  img: assets/img/pages/reprezentace.jpg
+  links:
+    flickr: https://www.flickr.com/photos/134603906@N02/albums

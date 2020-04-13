@@ -1,0 +1,74 @@
+---
+layout: homepage
+permalink: foto
+title: Foto
+---
+
+<div class="content-wrapper">
+
+    <h1>Foto</h1>
+
+    <p>Následujícím autorům děkujeme, že můžeme jejich fotografie používat na&nbsp;našem webu.</p>
+
+    <div class="ui divided relaxed items">
+
+        {% for photograph in site.data.foto %}
+
+        <div class="item">
+            <div class="ui small image">
+                <img style="margin: 0px;" src="{{ photograph.img | relative_url }}">
+            </div>
+            <div class="content">
+                <div class="header">{{ photograph.name }}</div>
+                <div class="description">
+                    <div class="ui list">
+                        {% if photograph.links.web %}
+                        <div class="item">
+                            <i class="linkify icon"></i>
+                            <div class="content">
+                                <a target="_blank" href="{{ photograph.links.web | relative_url }}">
+                                    Website
+                                </a>
+                            </div>
+                        </div>
+                        {% endif %}
+                        {% if photograph.links.flickr %}
+                        <div class="item">
+                            <i class="flickr icon"></i>
+                            <div class="content">
+                                <a target="_blank" href="{{ photograph.links.flickr | relative_url }}">
+                                    Flickr
+                                </a>
+                            </div>
+                        </div>
+                        {% endif %}
+                        {% if photograph.links.google %}
+                        <div class="item">
+                            <i class="google icon"></i>
+                            <div class="content">
+                                <a target="_blank" href="{{ photograph.links.google | relative_url }}">
+                                    Google Photos
+                                </a>
+                            </div>
+                        </div>
+                        {% endif %}
+                        {% if photograph.links.fb %}
+                        <div class="item">
+                            <i class="facebook icon"></i>
+                            <div class="content">
+                                <a target="_blank" href="{{ photograph.links.fb | relative_url }}">
+                                    Facebook
+                                </a>
+                            </div>
+                        </div>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        {% endfor %}
+
+    </div>
+
+</div>
