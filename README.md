@@ -66,7 +66,7 @@ Odkazy a kontakty se podobně vkládají sem: `_data/links.yml`, resp. `_data/co
 
 ### Jak přidat/editovat seznam oddílů
 
-K tomu slouží soubor `_data/oddily.yml`. Web přidávejte bez http a www, pouze doménu. Facebook naopak pouze cestu za prvním lomítkem. Např. pro `https://www.facebook.com/chlupatazaba` uložíte pouze `chlupatazaba`.
+K tomu slouží soubor `_data/oddily.yml`. Web přidávejte bez http a www, pouze doménu. Facebook naopak pouze cestu za prvním lomítkem. Např. pro `https://www.facebook.com/chlupatazaba` uložíte pouze `chlupatazaba`. Příklad:
 
 ```yml
 web: frisbee.cz/chlupata-zaba
