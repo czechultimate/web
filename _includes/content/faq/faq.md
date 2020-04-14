@@ -3,7 +3,7 @@
 ![](assets/img/pages/faq.jpg)
 
 ## Jak začít hrát ultimate frisbee?
-Najděte si kontakt na tým ve svém okolí nebo založte vlastní tým. Obecně jsou všechny týmy otevřené přijímání nováčků. Přečtěte si stručná pravidla frisbee a na videích se podívejte na základní techniku hodů.
+Najděte si kontakt na tým ve svém okolí nebo založte vlastní tým (více informací viz [Jak začít hrát](https://czechultimate.github.io/web/jak-zacit)). Obecně jsou všechny týmy otevřené přijímání nováčků. Přečtěte si stručná pravidla frisbee a na videích se podívejte na základní techniku hodů. 
  
 ## S jakým diskem se hraje ultimate?
 Oficiálně se hraje s diskem, který váží 175 gramů. Vyrábí jej několik výrobců, přičemž pro soutěžní zápasy se používá ten od firmy Discraft.  
