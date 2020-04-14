@@ -1,14 +1,20 @@
 <!-- mobile and table sidebar menu -->
 <div class="ui big vertical sidebar accordion menu">
 
+    <div class="item">
+        <h3>České asociace ultimate</h3>
+      </div>
+
     {% for item in site.data.navigation %}
-    <div class="">
-        <a class="title item">
+    {% if item[1].menu %}
+
+    <div>
+        <a class="title item {% if page.group == item[0] %}active{% endif %}">
             <i class="dropdown icon"></i>
             {{ item[1].name }}
         </a>
-        <div class="content">
-            {% for subitem in item[1].menu%}
+        <div class="content {% if page.group == item[0] %}active{% endif %}">
+            {% for subitem in item[1].menu %}
             <a href="{{ subitem.link | relative_url }}"
                 class="{% if page.permalink == subitem.link %}active{% endif %} item">
                 <span style="color: grey;">{{ subitem.name }}</span>
@@ -16,13 +22,20 @@
             {% endfor %}
         </div>
     </div>
+    {% else %}
+    <a href="{{ item[1].link | relative_url }}" class="borderless {% if page.group == item[0] %}active{% endif %} item">
+        {{ item[1].name }}
+    </a>
+    {% endif %}
     {% endfor %}
 
     <a href="{{ 'faq' | relative_url }}" class="{% if page.url == '/faq' %}active{% endif %} item">
         FAQ
     </a>
 
-    <!-- <div class="item borderless" style="margin-top: 3em;">
+    <div class="item borderless" style="margin-top: 3em;">
+
+        <h4>Sociální síťě</h4>
 
         <a style="margin-bottom: 5px;" class="ui facebook fluid button" target="_blank"
             href="https://www.facebook.com/czechultimate/">
@@ -40,7 +53,7 @@
             YouTube
         </a>
 
-    </div> -->
+    </div>
 
 </div>
 
@@ -54,13 +67,13 @@
             {% if page.path == "index.html" %}
             <b>{{ page.title }}</b>
             {% elsif site.data.navigation[page.group].name %}
-            {% if page.title | len > 10 %}
-            ČAU > {{ site.data.navigation[page.group].name }} >&nbsp;<b>{{ page.title | truncate: 12 }}</b>
+            {% if page.title | len > 15 %}
+            {{ site.data.navigation[page.group].name }} >&nbsp;<b>{{ page.title | truncate: 20 }}</b>
             {% else %}
-            ČAU > {{ site.data.navigation[page.group].name }} >&nbsp;<b>{{ page.title }}</b>
+            {{ site.data.navigation[page.group].name }} >&nbsp;<b>{{ page.title }}</b>
             {% endif %}
             {% else %}
-            ČAU > {{ page.title }}
+            {{ page.title }}
             {% endif %}
         </div>
     </div>

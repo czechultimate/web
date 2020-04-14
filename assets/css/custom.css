@@ -12,21 +12,33 @@
     margin-top: 3em;
 }
 
+.ui.stackable.cards {
+    margin-top: 1.6em;
+}
+
+/* Odsazeni od navigace */
 .ui.container .page-wrapper {
     margin-top: 2em;
 }
 
+/* Hlavni titulek je vzdy vetsi */
 .page-title {
     font-size: 2.9em;
 }
 
+/* Pismo je prilis maly */
 .content-wrapper p,
 li {
     font-size: 1.15rem;
     line-height: 1.4285em;
 }
 
-.ui.items.article-list>.item>.content>.description {
+/* Vsechny seznamy byly prilis odsunuty od okraje */
+ul {
+    padding-left: 25px;
+}
+
+.ui.items.article-list > .item > .content > .description {
     font-size: 1.15rem;
     line-height: 1.4285em;
 }
@@ -44,7 +56,10 @@ li {
     margin-bottom: 1em;
 }
 
-html, body {
+
+/* sticky footer */
+html,
+body {
     height: 100%;
 }
 body {
@@ -58,6 +73,23 @@ body {
     flex-shrink: 0;
 }
 
+/* Aby v sidebaru byl neustal scrollbar, protoze pak se
+   lze pohybovat v menu i horizontalne a to na mobilu neches */
+.ui.sidebar {
+    max-height: 100vh;
+}
+
+/* Diky tomuhle polozky v sidebaru lip vypadaji */
 .title.item {
-    padding: .92857143em 1.14285714em !important;
-  }
+    padding: 0.92857143em 1.14285714em !important;
+}
+
+/* Doporuceny cssko z dokumentace kvuli sidebaru a ios zarizenim */
+html.ios {
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+}
+html.ios,
+html.ios body {
+    height: initial !important;
+}

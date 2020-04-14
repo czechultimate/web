@@ -48,12 +48,6 @@
 | 1996 | Prague Lions  |               |                   |
 | 1995 | North Kites   |               |                   |
 
-# Mistři republiky BEACH
-
-| Rok  | OPEN | WOMEN | MIXED       |
-| ---- | ---- | ----- | ----------- |
-| 2019 |      |       | Chupacabras |
-| 2018 |      |       | Chupacabras |
 
 # Juniorští mistři republiky
 

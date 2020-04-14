@@ -1,4 +1,4 @@
-novinky:          # group = important for active items in the navigation and subnavigations
+novinky:          # group = important for active items in the navigation and navigation/subnavigations
   name: Novinky   # name = visible in navigation
   link: index     # permalink
 ultimate:
@@ -33,14 +33,14 @@ souteze:
   menu:
     - name: "České ligové soutěže"
       link: ligove-souteze
-    - name: Zahraniční soutěže
-      submenu:
-        - name: Evropská liga
-          link: evropska-liga
-        - name: Klubové mistrovství světa
-          link: worlds
-        - name: Plážové turnaje
-          link: plazove-turnaje
+    # - name: Zahraniční soutěže
+      # submenu:
+    - name: Evropská liga
+      link: evropska-liga
+    - name: Klubové mistrovství světa
+      link: worlds
+    - name: Plážové turnaje
+      link: plazove-turnaje
     - name: "Soutěžní řád"
       link: soutezni-rad
     - name: Pořádání turnaje

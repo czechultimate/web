@@ -7,33 +7,11 @@ layout: default
 
 <div class="ui stackable grid">
     <div class="row">
-        <div class="four wide column">
-            <div class="ui fluid vertical huge menu">
-                {% for item in site.data.navigation[page.group].menu %}
-                {% if item.submenu %}
-                <div class="item">
-                    {{ item.name }}
-                    <div class="menu">
-                        {% for subitem in item.submenu %}
-                        <a href="{{ subitem.link | relative_url }}"
-                            class="{% if page.permalink == subitem.link %}active{% endif %} item">
-                            {{ subitem.name }}
-                        </a>
-                        {% endfor %}
-                    </div>
-                </div>
-                {% else %}
-                <a href="{{ item.link | relative_url }}" class="{% if page.permalink == item.link %}active{% endif %} item">
-                    {{ item.name }}
-                </a>
-                {% endif %}
-                {% endfor %}
-            </div>
+        <div class="four wide column tablet or lower hidden">
+            {% include navigation/subnavigation.html %}
         </div>
         <div class="twelve wide column content-wrapper">
-            <!-- <div class="ui twelve column grid"> -->
-                {{ content }}
-            <!-- </div> -->
+            {{ content }}
         </div>
     </div>
 </div>
