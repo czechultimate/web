@@ -12,7 +12,7 @@ Po celý rok se hrají soutěžní i nesoutěžní turnaje, kam si můžete při
 
 ## Členství v asociaci
 
-Pokud se budete chtít přihlasit do asociace, vyplňte a podepište Oddílovou přihlášku ČAU (v souborech ke stažení v pravém sloupci) a pošlete na vr@czechultimate.cz nebo předejte osobně. Členové asociace platí roční členský příspěvek ve výši 400 Kč a turnajové poplatky na oficiálních ČAU turnajích (turnaje ligových soutěží) ve výši 30 Kč za turnaj. Roční členské příspěvky se platí zpětně po odehrání dané ligové soutěže. Nové oddíly mohou požádat Výkonnou radu ČAU o odpuštění ročního členského příspěvku ve svém prvním roce působení v asociaci. Členství v asociaci se řídí dle stanov ČAU (též najdete v souborech ke stažení). Pokud budete mít jakýkoliv dotaz ohledně členství v ČAU, prosím pište na adresu info@czechultimate.cz.
+Pokud se budete chtít přihlasit do asociace, vyplňte a podepište Oddílovou přihlášku ČAU (v souborech ke stažení v pravém sloupci) a pošlete na vr@czechultimate.cz nebo předejte osobně. Přidáme vás do emailové konference, kudy proudí všechny klíčové informace, a pošleme přístupy do Evidence členů ČAU, kde si založíte oddílovou soupisku a budete vyplňovat soupisky na turnaje. Členové asociace platí roční členský příspěvek ve výši 400 Kč a turnajové poplatky na oficiálních ČAU turnajích (turnaje ligových soutěží) ve výši 30 Kč za turnaj. Roční členské příspěvky se platí zpětně po odehrání dané ligové soutěže. Nové oddíly mohou požádat Výkonnou radu ČAU o odpuštění ročního členského příspěvku ve svém prvním roce působení v asociaci. Členství v asociaci se řídí dle stanov ČAU (též najdete v souborech ke stažení). Pokud budete mít jakýkoliv dotaz ohledně členství v ČAU, prosím pište na adresu info@czechultimate.cz.
 
 ## Pravidla
 
@@ -20,11 +20,7 @@ Jak se to vlastně hraje správně? Kompletní oficiální pravidla najdete [zde
 
 ## Rady a zkušenosti
 
-Pokud se chcete ve hře zlepšovat, ale cítíte, napište a pokusíme se vám někoho domluvit, kdo by za vámi buď jednorázově nebo i opakovaně přijel a ukázal vám třeba správnou techniku hodů nebo základní frisbee taktiky - jak se domluvíme. Nebo vám doporučíme nejbližší akci typu training camp pro začátečníky, které se dá zúčastnit.
-
-## Výbava
-
-Do začátku kteréhokoliv sportu z rodiny frisbee potřebuje akorát létající talíř neboli disk. Disky lze dnes sehnat již ve zmíněném online obchodu Ultimo.cz a také v mnoha specializovaných obchodech (sk8 shopy, obchody s žonglovacími a podobnými potřebami atd.). Kromě barvy a designu, což je čistě záležitost Vašeho vkusu, je rozhodující pro koupi disku sport, který s ním chcete provozovat.
+Pokud se chcete ve hře zlepšovat a ocenili byste pomoc někoho zkušenějšího, napište a pokusíme se vám někoho domluvit, kdo by za vámi buď jednorázově nebo i opakovaně přijel a ukázal vám třeba správnou techniku hodů nebo základní frisbee taktiky - jak se domluvíme. Nebo vám doporučíme nejbližší akci typu training camp pro začátečníky, které se dá zúčastnit.
 
 ## Disky
 
