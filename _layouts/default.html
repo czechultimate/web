@@ -10,13 +10,21 @@
     <meta name="author" content="Marek Dostal" />
     <meta name="description" content="Česká asociace ultimate" />
     <title>Czech Ultimate | {{ page.title }}</title>
-    <link rel="shortcut icon" href="{{ '/favicon.ico' | relative_url }}" type="image/x-icon" />
-    <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" type="image/x-icon" />
+    <link rel="shortcut icon" href="{{ 'favicon.ico' | relative_url }}" type="image/x-icon" />
+    <link rel="icon" href="{{ 'favicon.ico' | relative_url }}" type="image/x-icon" />
 
     <link rel="stylesheet" type="text/css" href="{{ '/semantic/dist/semantic.min.css' | relative_url }}" />
     <script src="https://code.jquery.com/jquery-3.1.1.min.js"
         integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
     <script src="{{ '/semantic/dist/semantic.min.js' | relative_url }}"></script>
+
+    <!-- Sidebar -->
+    <link rel="stylesheet" href="{{ '/semantic/dist/components/sidebar.css' | relative_url }}" />
+    <script src="{{ '/semantic/dist/components/sidebar.min.js' | relative_url }}"></script>
+
+
+
+    <link rel="stylesheet" href="{{ '/assets/css/responsive-semantic-ui.css' | relative_url }}" />
 
     <!-- Custom css -->
     <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}" />
@@ -26,24 +34,24 @@
 </head>
 
 <body>
-    <div class="ui container site-wrapper">
 
-        <div id="fb-root"></div>
-        <script async defer crossorigin="anonymous"
-            src="https://connect.facebook.net/cs_CZ/sdk.js#xfbml=1&version=v6.0"></script>
+    {% include navigation.html %}
 
-        {% include navigation.html %}
-
-        <div class="page-wrapper">
-            {{ content }}
+    <div class="pusher site-wrapper">
+        <div class="ui container">
+            <div id="fb-root"></div>
+            <div class="page-wrapper">
+                {{ content }}
+            </div>
         </div>
-
     </div>
 
     {% include footer.html %}
 
     <!-- Custom js -->
     <script src="{{ '/assets/js/custom.js' | relative_url }}"></script>
+    <script async defer crossorigin="anonymous"
+        src="https://connect.facebook.net/cs_CZ/sdk.js#xfbml=1&version=v6.0"></script>
 
 </body>
 

@@ -1,7 +1,11 @@
-body > .ui.container {
+/* .navigation-desktop {
     margin-top: 3em;
-    margin-bottom: 5em;
-}
+} */
+
+/* .site-wrapper {
+    margin-top: 3em;
+    padding-bottom: 5em;
+} */
 
 /* iframe {
     border: none;
@@ -10,13 +14,13 @@ body > .ui.container {
     height: 300px;
 } */
 
-.navigation h1 {
+.navigation-desktop h1 {
     font-size: 3em;
     /* text-align: center; */
     font-weight: normal;
 }
 
-.navigation .menu {
+.navigation-desktop .menu {
     margin-top: 3em;
 }
 
@@ -70,4 +74,9 @@ body {
 }
 .footer {
     flex-shrink: 0;
+}
+
+/* Aby nebyla hlavni obrazovka seda */
+body.pushable {
+    background: #ffffff !important;
 }

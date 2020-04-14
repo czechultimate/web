@@ -1,40 +1,65 @@
-<div class="navigation">
+<div class="navigation-desktop">
+    <div class="ui container tablet or lower hidden">
+        <div class="ui grid">
+            <div class="eight wide column">
+                <h1>Česká asociace ultimate</h1>
+            </div>
+            <div class="eight wide column" style="text-align: right; margin-top: 0.5em;">
 
-    <div class="ui grid">
-        <div class="eight wide column">
-            <h1>Česká asociace ultimate</h1>
+                <a class="ui facebook button" target="_blank" href="https://www.facebook.com/czechultimate/">
+                    <i class="facebook icon"></i>
+                    Facebook
+                </a>
+                <a class="ui instagram button" target="_blank" href="https://www.instagram.com/czechultimate">
+                    <i class="instagram icon"></i>
+                    Instagram
+                </a>
+                <a class="ui youtube button" target="_blank"
+                    href="https://www.youtube.com/channel/UCWbynNxpF2mYA9orHPlkDiA">
+                    <i class="youtube icon"></i>
+                    YouTube
+                </a>
+
+            </div>
         </div>
-        <div class="eight wide column" style="text-align: right; margin-top: 0.5em;">
 
-            <a class="ui facebook button" target="_blank" href="https://www.facebook.com/czechultimate/">
-                <i class="facebook icon"></i>
-                Facebook
-            </a>
-            <a class="ui instagram button" target="_blank" href="https://www.instagram.com/czechultimate">
-                <i class="instagram icon"></i>
-                Instagram
-            </a>
-            <a class="ui youtube button" target="_blank"
-                href="https://www.youtube.com/channel/UCWbynNxpF2mYA9orHPlkDiA">
-                <i class="youtube icon"></i>
-                YouTube
-            </a>
+        <div class="ui large inverted menu">
 
+            {% for item in site.data.navigation %}
+            <a href="{{ item[1].link | relative_url }}" class="{% if page.group == item[0] %}active{% endif %} item">
+                {{ item[1].name }}
+            </a>
+            {% endfor %}
+
+            <div class="right menu">
+                <a href="{{ 'faq' | relative_url }}" class="{% if page.url == '/faq' %}active{% endif %} item">
+                    FAQ
+                </a>
+            </div>
         </div>
     </div>
+</div>
 
-    <div class="ui large inverted menu">
 
-        {% for item in site.data.navigation %}
-        <a href="{{ item[1].link | relative_url }}" class="{% if page.group == item[0] %}active{% endif %} item">
-            {{ item[1].name }}
+<!-- mobile and table sidebar menu -->
+<div class="ui big vertical sidebar menu">
+    {% for item in site.data.navigation %}
+    <a href="{{ item[1].link | relative_url }}" class="{% if page.group == item[0] %}active{% endif %} item">
+        {{ item[1].name }}
+    </a>
+    {% endfor %}
+</div>
+
+<!-- mobile and table fixed navbar -->
+<div class="ui massive fixed menu mobile only tablet only borderless">
+    <div class="ui container">
+        <a class="toc item">
+            <i class="sidebar icon"></i>
         </a>
-        {% endfor %}
-
         <div class="right menu">
-            <a href="{{ 'faq' | relative_url }}" class="{% if page.url == '/faq' %}active{% endif %} item">
-                FAQ
-            </a>
+            <div class="item" id="mobile_title">
+                <i class="horizontally flipped comment outline red icon"></i> 4AU
+            </div>
         </div>
     </div>
 </div>
