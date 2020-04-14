@@ -5,7 +5,11 @@ permalink: oddily
 title: Oddíly v ČR
 ---
 
-<div class="ui three stackable cards">
+<h1 class="page-title">
+    {{ page.title }}
+</h1>
+
+<div class="ui three stackable cards" style="margin-top: 1.6em;">
     {% for team in site.data.oddily.teams %}
     <div class="card">
         <div class="content">
@@ -42,6 +46,6 @@ title: Oddíly v ČR
         </div>
     </div>
     {% endfor %}
-
-    <p style="margin-top: 10px;"><i>{{ site.data.oddily.additional_text }}</i></p>
 </div>
+
+<p style="margin-top: 2em;"><i>{{ site.data.oddily.additional_text }}</i></p>

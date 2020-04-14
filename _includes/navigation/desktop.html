@@ -1,5 +1,5 @@
 <div class="navigation-desktop">
-    <div class="ui container tablet or lower hidden">
+    <div class="tablet or lower hidden">
         <div class="ui grid">
             <div class="eight wide column">
                 <h1>Česká asociace ultimate</h1>
@@ -35,30 +35,6 @@
                 <a href="{{ 'faq' | relative_url }}" class="{% if page.url == '/faq' %}active{% endif %} item">
                     FAQ
                 </a>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-<!-- mobile and table sidebar menu -->
-<div class="ui big vertical sidebar menu">
-    {% for item in site.data.navigation %}
-    <a href="{{ item[1].link | relative_url }}" class="{% if page.group == item[0] %}active{% endif %} item">
-        {{ item[1].name }}
-    </a>
-    {% endfor %}
-</div>
-
-<!-- mobile and table fixed navbar -->
-<div class="ui massive fixed menu mobile only tablet only borderless">
-    <div class="ui container">
-        <a class="toc item">
-            <i class="sidebar icon"></i>
-        </a>
-        <div class="right menu">
-            <div class="item" id="mobile_title">
-                <i class="horizontally flipped comment outline red icon"></i> 4AU
             </div>
         </div>
     </div>

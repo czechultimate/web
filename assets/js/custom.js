@@ -1,36 +1,24 @@
-// Markdownify
+$(document).ready(function () {
 
-$("table").addClass("ui striped celled table");
+    // Markdownify
+    $("table").addClass("ui striped celled table");
 
-// Semantic UI
-
-$(".ui.dropdown").dropdown();
-
-$(".navigation .menu .browse").popup({
-    inline: true,
-    on: "click",
-    hoverable: false,
-    position: "bottom left",
-    delay: {
-        show: 200,
-        hide: 800
-    }
-});
-
-$(document)
-    .ready(function () {
-        // fix menu when passed
-        $('.masthead')
-            .visibility({
-                once: false,
-                onBottomPassed: function () {
-                    $('.fixed.menu').transition('fade in');
-                },
-                onBottomPassedReverse: function () {
-                    $('.fixed.menu').transition('fade out');
-                }
-            });
-
-        // create sidebar and attach to menu open
-        $('.ui.sidebar').sidebar('attach events', '.toc.item');
+    // Semantic UI
+    $(".ui.dropdown").dropdown();
+    $("#open-sidebar").click(function () {
+        $(".ui.sidebar").sidebar("toggle");
     });
+
+    // $(".ui.dropdown").dropdown({
+    //     allowCategorySelection: true,
+    //     transition: "fade up",
+    //     context: 'sidebar',
+    //     on: "hover"
+    //   });
+
+    // $('.ui.accordion').accordion('behavior', 'duration', 0);
+
+      $('.ui.accordion').accordion();
+
+
+});

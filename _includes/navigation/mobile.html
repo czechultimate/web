@@ -1,0 +1,67 @@
+<!-- mobile and table sidebar menu -->
+<div class="ui big vertical sidebar accordion menu">
+
+    {% for item in site.data.navigation %}
+    <div class="">
+        <a class="title item">
+            <i class="dropdown icon"></i>
+            {{ item[1].name }}
+        </a>
+        <div class="content">
+            {% for subitem in item[1].menu%}
+            <a href="{{ subitem.link | relative_url }}"
+                class="{% if page.permalink == subitem.link %}active{% endif %} item">
+                <span style="color: grey;">{{ subitem.name }}</span>
+            </a>
+            {% endfor %}
+        </div>
+    </div>
+    {% endfor %}
+
+    <a href="{{ 'faq' | relative_url }}" class="{% if page.url == '/faq' %}active{% endif %} item">
+        FAQ
+    </a>
+
+    <div class="item borderless" style="margin-top: 3em;">
+
+        <a style="margin-bottom: 5px;" class="ui facebook fluid button" target="_blank"
+            href="https://www.facebook.com/czechultimate/">
+            <i class="facebook icon"></i>
+            Facebook
+        </a>
+        <a style="margin-bottom: 5px;" class="ui instagram fluid button" target="_blank"
+            href="https://www.instagram.com/czechultimate">
+            <i class="instagram icon"></i>
+            Instagram
+        </a>
+        <a class="ui youtube fluid button" target="_blank"
+            href="https://www.youtube.com/channel/UCWbynNxpF2mYA9orHPlkDiA">
+            <i class="youtube icon"></i>
+            YouTube
+        </a>
+
+    </div>
+
+</div>
+
+<!-- mobile and table fixed navbar -->
+<div class="ui massive fixed menu mobile only tablet only borderless">
+    <a id="open-sidebar" class="toc item">
+        <i class="sidebar icon"></i>
+    </a>
+    <div class="right menu">
+        <div class="item" id="mobile_title">
+            {% if page.path == "index.html" %}
+            <b>{{ page.title }}</b>
+            {% elsif site.data.navigation[page.group].name %}
+            {% if page.title | len > 10 %}
+            ČAU > {{ site.data.navigation[page.group].name }} >&nbsp;<b>{{ page.title | truncate: 12 }}</b>
+            {% else %}
+            ČAU > {{ site.data.navigation[page.group].name }} >&nbsp;<b>{{ page.title }}</b>
+            {% endif %}
+            {% else %}
+            ČAU > {{ page.title }}
+            {% endif %}
+        </div>
+    </div>
+</div>

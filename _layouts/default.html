@@ -21,9 +21,6 @@
     <!-- Sidebar -->
     <link rel="stylesheet" href="{{ '/semantic/dist/components/sidebar.css' | relative_url }}" />
     <script src="{{ '/semantic/dist/components/sidebar.min.js' | relative_url }}"></script>
-
-
-
     <link rel="stylesheet" href="{{ '/assets/css/responsive-semantic-ui.css' | relative_url }}" />
 
     <!-- Custom css -->
@@ -35,10 +32,11 @@
 
 <body>
 
-    {% include navigation.html %}
+    {% include navigation/mobile.html %}
 
     <div class="pusher site-wrapper">
         <div class="ui container">
+            {% include navigation/desktop.html %}
             <div id="fb-root"></div>
             <div class="page-wrapper">
                 {{ content }}

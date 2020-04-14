@@ -1,22 +1,10 @@
-/* .navigation-desktop {
-    margin-top: 3em;
-} */
-
-/* .site-wrapper {
+.site-wrapper {
     margin-top: 3em;
     padding-bottom: 5em;
-} */
-
-/* iframe {
-    border: none;
-    width: calc(100% + 2em);
-    margin: 0em -1em;
-    height: 300px;
-} */
+}
 
 .navigation-desktop h1 {
     font-size: 3em;
-    /* text-align: center; */
     font-weight: normal;
 }
 
@@ -30,10 +18,7 @@
 
 .page-title {
     font-size: 2.9em;
-    /* font-weight: normal; */
 }
-
-/* *** content-wrapper *** */
 
 .content-wrapper p,
 li {
@@ -59,10 +44,7 @@ li {
     margin-bottom: 1em;
 }
 
-/* *** footer *** */
-
-html,
-body {
+html, body {
     height: 100%;
 }
 body {
@@ -76,7 +58,6 @@ body {
     flex-shrink: 0;
 }
 
-/* Aby nebyla hlavni obrazovka seda */
-body.pushable {
-    background: #ffffff !important;
-}
+.title.item {
+    padding: .92857143em 1.14285714em !important;
+  }
