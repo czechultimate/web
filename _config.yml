@@ -4,10 +4,6 @@ collections:
 
 include: ['_pages']
 
-baseurl: /web
-
-url: "https://czechultimate.com"
-
 paginate: 12
 paginate_path: "/archiv/page:num/"
 
