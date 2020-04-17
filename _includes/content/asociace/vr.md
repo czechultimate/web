@@ -1,4 +1,4 @@
-Výkonná rada je výkonný orgán asociace volený valnou hromadou. Má na starosti běžné fungování asociace i tvoření strategií a rozvoje. Tady jsou popsány pozice, které je dobré mít pro dobré fungování obsazené. Ne všechny musí vykonávat přímo členové výkonné rady.
+Výkonná rada je výkonný orgán asociace volený valnou hromadou. Má na starosti běžné fungování asociace i tvoření strategií a rozvoje. Tady jsou popsány pozice, které je vhodné mít pro dobré fungování obsazené. Ne všechny musí vykonávat přímo členové výkonné rady.
 
 
 | Oblast        | Popis           |
