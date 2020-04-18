@@ -29,6 +29,7 @@ Organizátor zajistí přípravu hřišť a jejich označení v souladu s pravid
 ### Halová soutěž
 - Velikost hřiště pro halovou soutěž je 34 x 25 m pro vlastního hřiště plus 7 m pro každou koncovou zónu (tj. 48 x 25 m), brick není.
 - Povrch hřiště musí být rovný a nesmí do něj zasahovat vybavení tělocvičny. Protože není jednoduché tyto parametry dodržet, STK povoluje odchýlení od rozměrů až na 80 % jejich délky. Pokud by to bylo nezbytně nutné může STK VR povolit výjimku z výše uvedených pravidel. Opět je nutné znát před udělením pořadatelství.
+
 ## Cena turnaje
 VR si vyhrazuje právo na předložení dokladů, které umožní kontrolovat cenu turnaje. Cena turnaje by se měla pohybovat na dostupných částkách pro studenty.
 
