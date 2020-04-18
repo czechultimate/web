@@ -26,8 +26,6 @@ pages:
     - text: Oddílová přihláška do ČAU
       link: assets/files/oddilova_prihlaska_cau.pdf
   poradani-turnaje:
-    - text: "Howto: organizace ČAU turnaje"
-      link: assets/files/howto-organizace-turnaje.pdf
     - text: Smlouva o spolupráci (organizátor a VR)
       link: assets/files/smlouva-spoluprace-vr-organizator-turnaje.pdf
     - text: Score sheets
