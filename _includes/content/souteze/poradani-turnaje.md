@@ -33,4 +33,4 @@ Organizátor zajistí přípravu hřišť a jejich označení v souladu s pravid
 ## Cena turnaje
 VR si vyhrazuje právo na předložení dokladů, které umožní kontrolovat cenu turnaje. Cena turnaje by se měla pohybovat na dostupných částkách pro studenty.
 
-Emaily na zmiňované členy výkonné rady jsou vždy ve formátu jmeno.prijmeni@cald.cz. 
+Emaily na zmiňované členy výkonné rady jsou vždy ve formátu jmeno.prijmeni@czechultimate.cz. 
