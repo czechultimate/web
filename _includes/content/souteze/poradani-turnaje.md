@@ -26,6 +26,7 @@ Organizátor zajistí přípravu hřišť a jejich označení v souladu s pravid
 - Velikost hřiště je dána pravidly a je 64 x 37 m pro vlastní hřiště plus 18 m pro každou koncovou zónu (tj. 37 x 100m). Pro odehrání turnaje o 8 a více týmech je nutné rozdělit např. fotbalové hřiště na dvě pro ultimate. Mezi hřišti je doporučen rozestup alespoň 5 metrů.
 - Protože není jednoduché tyto parametry dodržet, STK VR povoluje odchýlení od rozměrů až na 80 % jejich délky. Pokud by to bylo nezbytně nutné, může se některý z rozměrů po předchozí dohodě s STK VR zmenšit. Je potřeba oznámit VR ČALD dopředu, ještě před udělením pořadatelství.
 - Ve vzdálenosti 9 m od prostředku základní čáry směrem do středu hřiště bude vyznačen "brick". Vzdálenost bricku se bude měnit úměrně s délkou hřiště. Hřiště musí mít travnatý rovný povrch bez překážek.
+
 ### Halová soutěž
 - Velikost hřiště pro halovou soutěž je 34 x 25 m pro vlastního hřiště plus 7 m pro každou koncovou zónu (tj. 48 x 25 m), brick není.
 - Povrch hřiště musí být rovný a nesmí do něj zasahovat vybavení tělocvičny. Protože není jednoduché tyto parametry dodržet, STK povoluje odchýlení od rozměrů až na 80 % jejich délky. Pokud by to bylo nezbytně nutné může STK VR povolit výjimku z výše uvedených pravidel. Opět je nutné znát před udělením pořadatelství.
