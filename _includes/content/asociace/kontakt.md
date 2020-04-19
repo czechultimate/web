@@ -12,7 +12,7 @@ katerina.langova{{ site.data.data.email-domena }}
 
 ## Fakturační i poštovní adresa
 
-Česká asociace ultimate  
+Česká asociace ultimate, z.s.  
 Jugoslávských partyzánů 952/30  
 Praha 6, 160 00
 
