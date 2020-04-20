@@ -3,7 +3,7 @@ layout: post
 category: 
 tags: 
 title: Hledáme pořadatele turnajů pro halu a beach
-img: assets/img/posts/2020/prvni_hala_novinka.jpg
+img: assets/img/posts/2020/prvni_hala_novinka.JPG
 author: Míša Čakrtová
 ---
 
