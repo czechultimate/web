@@ -31,10 +31,10 @@ HMČR mixed 3. liga: 9.-10.1.2021, Left Overs
 kvalifikace o 1. ligu open: 6.-7.2.2021  
 kvalifikace o 2. ligu open: 6.-7.2.2021  
 kvalifikace o 1. ligu women: 6.-7.2.2021  
-1. liga open: 27.-28.2.2021  
-2. liga open: 27.-28.2.2021  
-1. liga women: 27.-28.2.2021  
-2. liga women: 27.-28.2.2021  
+1\. liga open: 27.-28.2.2021  
+2\. liga open: 27.-28.2.2021  
+1\. liga women: 27.-28.2.2021  
+2\. liga women: 27.-28.2.2021  
 
 Juniorská hala mění systém - Loni soutěž hrálo již 20 týmů, což je pro systém Jednoho turnaje strop i pro dvouhalový Bohumín. Nově se budou hrát dvě kvalifikace - Západ a Východ.
 Vícestupňový systém neaplikujeme z důvodu velkých meziročních výkonnostních výkyvů v juniorské kategorii. Půjde i nadále o mix. Z každého regionu postoupí první čtyři týmy do 1. ligy a další čtyři týmy do 2. ligy. 
