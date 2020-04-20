@@ -7,6 +7,8 @@ img: assets/img/posts/2020/prvni_hala_novinka.JPG
 author: Míša Čakrtová
 ---
 
+**Výkonná rada České asociace ultimate hledá pořadatele turnajů na následující měsíce.**
+
 ## BEACH
 Přece jen bychom rádi uspořádali plážové mistrovství republiky i tento rok. Jarní turnaje jsou stále v ohrožení (a do letních prázdnin je posouvat nechceme), mistrovství světa jsou pro letošek zrušena, ale doufáme, že v půlce prázdnin už snad bude možné se na hřišti s domácími týmy potkat. MČR beach zní jako příjemná příležitost.
 
