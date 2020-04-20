@@ -14,7 +14,7 @@ Hlavním manažerem a pokladníkem juniorské reprezentace je Jan Ondráček.
 
 Máte-li jakýkoliv dotaz, obraťte se na něj, případně oslovte rovnou trenéry příslušné kategorie.
 
-Kontakt
+**Kontakt:**
 
 Jan Ondráček; email: [ondracekjan@gmail.com](mailto:ondracekjan@gmail.com), tel: [+420731477512](tel:%20+420731477512)
 
