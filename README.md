@@ -4,7 +4,7 @@ Nejprve je nutné se zaregistrovat na https://github.com/ a požádát Máru o p
 
 Je dobré vědět, že všechny změny jsou archivované. Takže pokud se něco nepovede, je vždycky cesta zpátky :)
 
-Většina stránek je buď přímo v HTML nebo v [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) formátu.
+Většina stránek je buď přímo v HTML nebo v [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) formátu (ten si můžete zkoušet [zde](https://stackedit.io)).
 
 Kdo umí aspoň trochu s gitem, může si jednoduše repozitář stáhnout k sobě do počítače a tam soubory upravovat trochu jednodušeji než tady na webu. Na Windows, Mac i Linux existuje dostatek tůlů pro práci s gitem.
 
@@ -28,7 +28,7 @@ Kdo umí aspoň trochu s gitem, může si jednoduše repozitář stáhnout k sob
 
 Všechny obrázky ke článkům se nahrávají do `assets/img/posts/year`. Ve složce `assets/img/posts/uzitecne` jsou obrázky, které se můžou občas hodit k nekterým článkům, pokud nebudeme mít k dispozici lepší foto.Dokumenty se nahrávají do `assets/files`.
 
-Nahrávejte obrázky s minimální šířkou 550px!
+**Nahrávejte obrázky s minimální šířkou 550px!**
 
 ## Prakticky
 
