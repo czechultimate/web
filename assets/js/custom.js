@@ -15,7 +15,7 @@ $(document).ready(function () {
     $(".ui.accordion").accordion();
 
     // kazdymu linku pridat target, aby se oteviral v novem okne
-    // $("a").each(function () {
-    //     $(this).attr("target", "_blank");
-    // });
+    $(".content-wrapper a").each(function () {
+        $(this).attr("target", "_blank");
+    });
 });
