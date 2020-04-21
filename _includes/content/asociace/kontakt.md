@@ -1,13 +1,13 @@
-[info@czechultimate.cz](info@czechultimate.cz)
+[info@czechultimate.cz](mailto:info@czechultimate.cz)
 
-Výkonná rada: [vr@czechultimate.cz](vr@czechultimate.cz)  
+Výkonná rada: [vr@czechultimate.cz](mailto:vr@czechultimate.cz)  
 Členové VR: jmeno.prijmeni{{ site.data.data.email-domena }}
 
 ## Kontakt pro média
 
 Kateřina Langová  
 775 086 824  
-[katerina.langova@czechultimate.cz](katerina.langova@czechultimate.cz)
+[katerina.langova@czechultimate.cz](mailto:katerina.langova@czechultimate.cz)
 
 
 ## Fakturační i poštovní adresa
