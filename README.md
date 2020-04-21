@@ -30,6 +30,22 @@ Všechny obrázky ke článkům se nahrávají do `assets/img/posts/year`. Ve sl
 
 **Nahrávejte obrázky s minimální šířkou 550px!**
 
+### Jak odkazovat na jiné stránky webu
+
+Vždycky můžete použít celou adresu, kterou zkopírujete z prohlížeče, ale lepší je použít pouze část adresy. Link pak bude fungovat i když web změní doménu nebo se různě bude v budoucnu měnit.
+
+Takhle NE:
+```
+[Jak začít hrát](https://czechultimate.github.io/web/jak-zacit)
+```
+
+Takhle ANO:
+```
+[Jak začít hrát](jak-zacit)
+```
+
+Linky mimo web samozřejmě musíte uvádět celé, včetně https na začátku.
+
 ## Prakticky
 
 ### Jak přidat článek

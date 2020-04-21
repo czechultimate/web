@@ -1,29 +1,21 @@
 $(document).ready(function () {
-    // Markdownify
+
+    // striped tabulky kvuli markdown strankam
     $("table").addClass("ui striped celled table");
 
-    // Semantic UI
+    // inicializace dropdownu
     $(".ui.dropdown").dropdown();
 
-    // $(".ui.sidebar").sidebar({
-        // closable: true,
-        // scrollLock: true,
-        // returnScroll: true,
-        // delaySetup: true
-    // });
-
+    // otevirani sidebaru ma mobilu
     $("#open-sidebar").click(function () {
         $(".ui.sidebar").sidebar("toggle");
     });
 
-    // $(".ui.dropdown").dropdown({
-    //     allowCategorySelection: true,
-    //     transition: "fade up",
-    //     context: 'sidebar',
-    //     on: "hover"
-    //   });
-
-    // $('.ui.accordion').accordion('behavior', 'duration', 0);
-
+    // inicializace accordions
     $(".ui.accordion").accordion();
+
+    // kazdymu linku pridat target, aby se oteviral v novem okne
+    $("a").each(function () {
+        $(this).attr("target", "_blank");
+    });
 });
