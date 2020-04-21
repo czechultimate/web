@@ -10,6 +10,8 @@ Kdo umí aspoň trochu s gitem, může si jednoduše repozitář stáhnout k sob
 
 ## Obecně
 
+**Předem předpokládám, že budete psát bez pravopisných a stylistických chyb! I sebelepší web/design/foto to pak už nezachrání.**
+
 ### Jak vytvořit nový soubor
 
 ![](tutorial/new_file.png)
