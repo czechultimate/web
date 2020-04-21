@@ -1,10 +1,8 @@
 # Mistrovství republiky
 
-TODO: upravit
+Během venkovní sezóny mezi dubnem a říjnem se největší pozornost věnuje kategoriím open a women. Týmy se účastní dvou kvalifikačních turnajů, na kterých mají možnost získat body udělené za konečné pořadí. Na základě součtu získaných bodů jsou pak týmy rozděleny na finálový turnaj do první a&nbsp;druhé ligy.
 
-Sezóna v ultimate frisbee v České republice je rozdělena na venkovní, od dubna do října, a halovou, od listopadu do března. Každá sezóna má svoje mistrovství republiky, které se navíc rozděluje podle kategorií - na open, ženskou a mixovou.
-
-Ligová sezóna venkovní pro kategorii Open a Women začíná 1. kalifikačním turnajem na začátku května, pokračuje v srpnu 2. kvalifikačním turnajem a končí v září finálovým turnajem o mistra republiky v těchto kategoríích. Mixová kategorie má své venkovní mistrovství v říjnu. Kvalifikační turnaj o možnost hrát na finále se koná na koni září.
+Ve zbytku venkovní sezóny je možné hrát ještě kategorii mixed. Podmínkou pro účast na mistrovství je úspěšné absolvování kvalifikačního turnaje. Neúspěšné týmy mají možnost hrát druhou, případně třetí ligu.
 
 # Mistři republiky
 

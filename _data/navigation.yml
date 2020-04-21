@@ -49,8 +49,6 @@ souteze:
       link: soutezni-rad
     - name: Pořádání turnaje
       link: poradani-turnaje
-    - name: "Výsledky"
-      link: vysledky
 reprezentace:
   name: Reprezentace
   link: reprezentace
