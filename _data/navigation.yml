@@ -29,18 +29,22 @@ oddily:
       link: jak-ziskat-penize
 souteze:
   name: "Soutěže"
-  link: ligove-souteze
+  link: mistrovstvi-republiky
   menu:
-    - name: "České ligové soutěže"
-      link: ligove-souteze
+    - name: "Mistrovství republiky"
+      link: mistrovstvi-republiky
+    - name: "Halové soutěže"
+      link: halove-souteze
+    - name: "Juniorské soutěže"
+      link: juniorske-souteze
     # - name: Zahraniční soutěže
       # submenu:
+    - name: Plážové turnaje
+      link: plazove-turnaje
     - name: Evropská liga
       link: evropska-liga
     - name: Klubové mistrovství světa
       link: worlds
-    - name: Plážové turnaje
-      link: plazove-turnaje
     - name: "Soutěžní řád"
       link: soutezni-rad
     - name: Pořádání turnaje

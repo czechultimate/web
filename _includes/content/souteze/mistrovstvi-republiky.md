@@ -1,7 +1,18 @@
+# Mistrovství republiky
+
+TODO: upravit
+
+Sezóna v ultimate frisbee v České republice je rozdělena na venkovní, od dubna do října, a halovou, od listopadu do března. Každá sezóna má svoje mistrovství republiky, které se navíc rozděluje podle kategorií - na open, ženskou a mixovou.
+
+Ligová sezóna venkovní pro kategorii Open a Women začíná 1. kalifikačním turnajem na začátku května, pokračuje v srpnu 2. kvalifikačním turnajem a končí v září finálovým turnajem o mistra republiky v těchto kategoríích. Mixová kategorie má své venkovní mistrovství v říjnu. Kvalifikační turnaj o možnost hrát na finále se koná na koni září.
+
 # Mistři republiky
 
 | Rok  | OPEN             | WOMEN         | MIXED         |
 | ---- | ---------------- | ------------- | ------------- |
+| 2019 |                  |               |               |
+| 2018 |                  | Velká Morava  |               |
+| 2017 |                  | 3SB           | Žlutá zimnice |
 | 2016 | Yellow Block     | 3SB           | Žlutá zimnice |
 | 2015 | Figurky Slonů    | Yellow Block  | 3SB           |
 | 2014 | Terrible Monkeys | Yellow Block  | Žlutá Zimnice |
