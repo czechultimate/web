@@ -73,7 +73,7 @@
             {{ site.data.navigation[page.group].name }} >&nbsp;<b>{{ page.title }}</b>
             {% endif %}
             {% else %}
-            {{ page.title }}
+            {{ page.title | truncate: 30 }}
             {% endif %}
         </div>
     </div>
