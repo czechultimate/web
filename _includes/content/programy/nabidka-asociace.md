@@ -1,6 +1,6 @@
 ## Ukázkové hodiny pro školy, kroužky, oddíly
 
-Chcete seznámit se sportem ultimate frisbee? Napište nám na rozvoj@czechultimate.cz, domluvíme vám zkušené hráče, kteří k vám přijedou a naučí vás základy.
+Chcete seznámit se sportem ultimate frisbee? Napište nám na [rozvoj@czechultimate.cz](mailto:rozvoj@czechultimate.cz), domluvíme vám zkušené hráče, kteří k vám přijedou a naučí vás základy.
 
 ## Disky pro školy
 

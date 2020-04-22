@@ -8,9 +8,9 @@ Ve zbytku venkovní sezóny je možné hrát ještě kategorii mixed. Podmínkou
 
 | Rok  | OPEN             | WOMEN         | MIXED         |
 | ---- | ---------------- | ------------- | ------------- |
-| 2019 |                  |               |               |
-| 2018 |                  | Velká Morava  |               |
-| 2017 |                  | 3SB           | Žlutá zimnice |
+| 2019 | 3SB              | 3SB           | 3SB           |
+| 2018 | Yellow Block     | Velká Morava  | Žlutá Zimnice |
+| 2017 | FUJ              | 3SB           | Žlutá zimnice |
 | 2016 | Yellow Block     | 3SB           | Žlutá zimnice |
 | 2015 | Figurky Slonů    | Yellow Block  | 3SB           |
 | 2014 | Terrible Monkeys | Yellow Block  | Žlutá Zimnice |
