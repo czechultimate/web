@@ -3,9 +3,16 @@ layout: homepage
 group: faq
 permalink: faq
 title: Často kladené dotazy
+image: assets/img/pages/faq.jpg
 ---
 
 <div class="content-wrapper">
-{% capture my_include %}{% include content/faq/faq.md %}{% endcapture %}
-{{ my_include | markdownify }}
+    <h1 class="page-title">
+        {{ page.title }}
+    </h1>
+    {% if page.image %}
+    <img class="ui image" src="{{ page.image | relative_url }}">
+    {% endif %}
+    {% capture my_include %}{% include content/faq/faq.md %}{% endcapture %}
+    {{ my_include | markdownify }}
 </div>
