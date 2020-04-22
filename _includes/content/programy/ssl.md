@@ -20,7 +20,7 @@ Zapojit se může jakákoli střední škola v ČR i vyšší stupně škol zák
 
 Přihlášení na jednotlivé kvalifikační turnaje probíhá formou zaslání registračního emailu na tomas.tousek@czechultimate.cz. Registrace je spuštěna vždy zhruba měsíc před konáním konkrétního kvalifikačního turnaje. Registrační email by měl obsahovat: název školy, email a telefon na kontaktní osobu, konkrétní turnaj, na který se škola hlásí a počet přihlašovaných týmů.
 
-Nemusíte nic platit. Všechny náklady jsou hrazeny associací (ČALD)
+Nemusíte nic platit. Všechny náklady jsou hrazeny associací ČAU.
 
 ## Jak celá liga funguje?
 

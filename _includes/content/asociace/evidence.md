@@ -4,7 +4,7 @@ Databáze členů České asociace utimate je přístupná [zde](//evidence.czec
 
 ## Pro týmy
 
-- Soupisky se odevzdávají pouze elektronicky vyplněním v Evidenci členů. Pokud neznáte přístup svého oddílu do Evidence členů (http://evidence.cald.cz), požádejte o něj na evidence@cald.cz.
+- Soupisky se odevzdávají pouze elektronicky vyplněním v Evidenci členů. Pokud neznáte přístup svého oddílu do Evidence členů (http://evidence.czechultimate.cz), požádejte o něj na info@czechultimate.cz.
 - Do zápasu mohou nastoupit pouze hráči, kteří jsou uvedeni v Týmové soupisce. Opačný postup vede ke kontumaci utkání ve prospěch soupeře.
 - Soupisku může upravovat pouze správce týmu, ne organizátor turnaje.
 - Pokud je soupiska již uzamčená (již jste zaplatili, ale nastala výjimečná situace, kdy chcete na soupisku někoho dopsat), požádejte pořadatele turnaje o odemčení pro provedení nutných úprav.

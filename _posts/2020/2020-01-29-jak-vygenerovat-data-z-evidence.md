@@ -22,7 +22,7 @@ Pokud byste potřebovali poradit nebo získat data zpětně za minulou sezónu, 
 
 Poznámka: export obsahuje citlivé osobní údaje vašich spoluhráčů, neposílejte ho lidem, kteří ho nutně nepotřebují, nedávejte ho nikam ke stažení.
 
-Data shromažďujeme za účelem naplnění §3a odst. 3 zákona 115/2001 o podpoře sportu. Poučení o osobních údajích najdete zde: https://www.cald.cz/osobniudaje.
+Data shromažďujeme za účelem naplnění §3a odst. 3 zákona 115/2001 o podpoře sportu. Poučení o osobních údajích najdete zde: https://www.czechultimate.cz/osobni-udaje.
 
 
 Děkujeme Jirkovi Kačerovi Vosečkovi, Martinovi Řezníkovi a Honzovi Kačerrovi Novákovi za neúnavný vývoj Evidence členů. Kromě exportu týmových dat byla nyní také evidence opět propojena s Catcherem; na frisbee.cz se zobrazují soupisky týmů a v zápasech je možné evidovat, kdo dával body a kdo na ně nahrával.

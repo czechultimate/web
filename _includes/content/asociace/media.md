@@ -10,4 +10,4 @@ Pokud máte zájem pomoct propagovat tento sport a jeho myšlenku, na našich st
 
 Kateřina Langová  
 775 086 824  
-katerina.langova@cald.cz
+katerina.langova@czechultimate.cz

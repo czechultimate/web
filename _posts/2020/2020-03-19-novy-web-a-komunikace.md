@@ -18,7 +18,6 @@ Změna domény se týká také emailové komunikace, kterou nyní povedete na **
 - info@czechultimate.cz - pro všeobecné dotazy
 - stk@czechultimate.cz - věci týkající se rozpisů a soutěžního řádu
 - rozvoj@czechultimate.cz - rozvoj (SŠL, školení učitelů, minigranty)
-- sklad@czechultimate.cz - žádosti o přístup do skladu
 
 Pro komunikaci s členy VR používejte jmeno.prijmeni@czechultimate.cz. Na [této](/vr) stránce se dozvíte, jaký člen má jakou agendu v rámci VR, proto se nebojte kontaktovat přímo jeho. Pro komunikaci se všemi členy VR použijte vr@czechultimate.cz.
 

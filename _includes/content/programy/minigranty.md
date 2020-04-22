@@ -1,8 +1,6 @@
 <!-- TODO: doplnit aktualni zadost o minigranty -->
 
 České asociace létajícího disku vytvořila vlastní grantový program nazvaný „Minigranty“. Tento program je určen na podporu projektů zaměřených na rozvoj a propagaci ultimate frisbee v ČR v jednotlivých regionech a městech směrem k širší veřejnosti. Minigranty jsou určeny pro jakéhokoli řádného člena asociace (dle definice určené stanovami ČALD), který má smysluplný nápad realizovatelný formou časově ohraničeného projektového záměru a pro úspěšné naplnění projetkového záměru potřebuje buď finanční nebo materiální podporu.
-
-![](assets/img/pages/programy/2019_turnaj_skol_2.jpg)
  
 Minigranty jsou jako program ČALD vypisovány každoročně s ohledem na aktuální stav financování uvnitř asociace a slouží k podpoře naplňování vize ČALD. 
  
@@ -10,7 +8,7 @@ O realizaci programu Minigranty se stará VR ČALD ve svém aktuálním složen�
  
 ## Jak získat prostředky a podporu v programu „Minigranty“?
 
-Pro účast v grantovém řízení Minigranty stačí vypracovat projektový záměr a zaslat vyplněný formulář „Žádost o podporu formou Minigrantu ČALD“  na e-mail minigranty@cald.cz.
+Pro účast v grantovém řízení Minigranty stačí vypracovat projektový záměr a zaslat vyplněný formulář „Žádost o podporu formou Minigrantu ČALD“ na e-mail rozvoj@czechultimate.cz.
  
 Veškeré informace, formulář žádosti o podporu formou Minigrantu, propozice pro žadatele a informace o proběhlé podpoře a příklady již realizovaných aktivit členů ČALD v rámci podpory udělené skrze Minigranty najde zájemce na této webové stránce.
  
@@ -45,10 +43,10 @@ O podpoře projektu rozhoduje Výkonná rada ČALD na základě podkladů a dopo
 
 ## Služby ČALD
 
-- jednorázová konzultace před podáním projektu s minigrantovou komisí (Petrem Kotěšovcem nebo Míšou Čarktovou) na e-mailu minigranty@cald.cz
+- jednorázová konzultace před podáním projektu s minigrantovou komisí (Petrem Kotěšovcem nebo Míšou Čarktovou) na e-mailu rozvoj@czechultimate.cz
 - možnost využít průběžné konzultace při obdržení podpory od ČALD, tuto možnost doporučujeme využít zvlášť v případě, že váš projekt je dlouhodobějšího charakteru
-- propagace vašeho projektu skrze kanály ČALD a portál frisbee.cz v případě dodaní podkladů z vaší strany (web, mailing list, facebook stránka ČALD)
+- propagace vašeho projektu skrze kanály ČAU a portál frisbee.cz v případě dodaní podkladů z vaší strany (web, mailing list, facebook stránka ČAU)
 - na základě definované potřeby také další nefinanční materiální podporu s ohledem na dostupné materiály v době žádosti – zapůjčení disků, vybavení na hřiště apod. a tiskové propagační a metodické materiály
 
 ## Vyúčtování příspěvku
-Nejpozději do 3 měíců po skončení projektu musí žadatel poskytnout podklady pro vyúčtování (faktury, účtenky, doklady). Přesné vymezení podkladů pro vyúčtování a typ smlouvy mezi ČALD a příjemcem Minigrantu bude upřesněno.
+Nejpozději do 3 měsíců po skončení projektu musí žadatel poskytnout podklady pro vyúčtování (faktury, účtenky, doklady). Přesné vymezení podkladů pro vyúčtování a typ smlouvy mezi ČALD a příjemcem Minigrantu bude upřesněno.

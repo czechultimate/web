@@ -9,7 +9,7 @@ Spirity a výsledky zápasů se zadávají do aplikace [Catcher](https://play.go
 ## Soupisky 
 Každý oddíl musí mít do svého prvního zápasu na turnaji vyplněnou soupisku na evidence.cald.cz všech týmů, které na turnaj vysílá. Organizátor má k soupiskám přístup skrze mobilní aplikaci, každý tým je musí zkontrolovat a potvrdit. Více viz https://www.czechultimate.cz/evidence. 
 ## Materiál 
-ČAU má v Praze [sklad](https://www.czechultimate.cz/sklad), kde si organizátor může zdarma půjčit materiál potřebný pro organizaci turnaje (kuželíky, počítadla, várnice, lékárničky…). Materiál je před zapůjčením nutné rezervovat v aplikaci sklad.cald.cz a vrátit neprodleně po akci v původním stavu na původní místo. Do skladu nepatří nic navíc (zbytky z turnaje, lost&found…) a je potřeba v něm udržovat pořádek. 
+ČAU má v Praze [sklad](https://www.czechultimate.cz/sklad), kde si organizátor může zdarma půjčit materiál potřebný pro organizaci turnaje (kuželíky, počítadla, várnice, lékárničky…). Materiál je před zapůjčením nutné rezervovat v aplikaci sklad.czechultimate.cz a vrátit neprodleně po akci v původním stavu na původní místo. Do skladu nepatří nic navíc (zbytky z turnaje, lost&found…) a je potřeba v něm udržovat pořádek. 
 ## Medaile, trofeje (pouze mistrovství) 
 Medaile pro první tři místa zajišťuje výkonná rada. Jsou k vyzvednutí v ČAU skladu. Poháry pro turnaje pět na pět zajišťuje pořadatel, ČAU proplácí (tj. do haly, na venkovní juniory a beach). Vítěz venkovního mistrovství získává malou trofej a je mu propůjčen velký putovní pohár, který se v průběhu roku vrací ČAU pro dalšího vítěze.  
 ## Turnajová komise 
@@ -24,7 +24,7 @@ Povinností organizátora je mít na všech místech, kde turnaj probíhá, lék
 Organizátor zajistí přípravu hřišť a jejich označení v souladu s pravidly. Hřiště musí být pro hráče zcela bezpečné - žádné díry, nebezpečný povrch nebo předměty ohrožující bezpečnost. 
 ### Venkovní soutěž
 - Velikost hřiště je dána pravidly a je 64 x 37 m pro vlastní hřiště plus 18 m pro každou koncovou zónu (tj. 37 x 100m). Pro odehrání turnaje o 8 a více týmech je nutné rozdělit např. fotbalové hřiště na dvě pro ultimate. Mezi hřišti je doporučen rozestup alespoň 5 metrů.
-- Protože není jednoduché tyto parametry dodržet, STK VR povoluje odchýlení od rozměrů až na 80 % jejich délky. Pokud by to bylo nezbytně nutné, může se některý z rozměrů po předchozí dohodě s STK VR zmenšit. Je potřeba oznámit VR ČALD dopředu, ještě před udělením pořadatelství.
+- Protože není jednoduché tyto parametry dodržet, STK VR povoluje odchýlení od rozměrů až na 80 % jejich délky. Pokud by to bylo nezbytně nutné, může se některý z rozměrů po předchozí dohodě s STK VR zmenšit. Je potřeba oznámit VR ČAU dopředu, ještě před udělením pořadatelství.
 - Ve vzdálenosti 9 m od prostředku základní čáry směrem do středu hřiště bude vyznačen "brick". Vzdálenost bricku se bude měnit úměrně s délkou hřiště. Hřiště musí mít travnatý rovný povrch bez překážek.
 
 ### Halová soutěž
