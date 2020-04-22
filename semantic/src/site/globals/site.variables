@@ -2,5 +2,6 @@
      User Global Variables
 *******************************/
 
-@fontName : 'PT Sans';
+@fontName : 'Lato';
+@fontFamily: 'sans-serif';
 @importGoogleFonts : true;
