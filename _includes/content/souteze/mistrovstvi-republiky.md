@@ -1,5 +1,3 @@
-# Mistrovství republiky
-
 Během venkovní sezóny mezi dubnem a říjnem se největší pozornost věnuje kategoriím open a women. Týmy se účastní dvou kvalifikačních turnajů, na kterých mají možnost získat body udělené za konečné pořadí. Na základě součtu získaných bodů jsou pak týmy rozděleny na finálový turnaj do první a&nbsp;druhé ligy.
 
 Ve zbytku venkovní sezóny je možné hrát ještě kategorii mixed. Podmínkou pro účast na mistrovství je úspěšné absolvování kvalifikačního turnaje. Neúspěšné týmy mají možnost hrát druhou, případně třetí ligu.
