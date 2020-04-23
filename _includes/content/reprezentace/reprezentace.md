@@ -1,3 +1,13 @@
+# Neco o repre
+
+blabla
+
+# Kdo jsou treneri?
+
+bla bla
+
+
+
 TODO:
 - kdo vede jednotlivy repre
 - jak casto repre probiha (mistrovstvi sveta kazdy 4 roky atd.)
