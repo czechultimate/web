@@ -19,14 +19,14 @@ Nejdříve si ujasněte vlastní myšlenku, zjistěte si, zda na to budete sami,
 1) Promyslete si dobře, co skutečně chcete dělat, kolik času si můžete do aktivity dovolit investovat a s čím potřebujete pomoci ze strany ČAU:
 - finančně – kolik to vlastně stojí?
 - materiálně – spoustu věcí si můžete od nás půjčit a nemusíte je kupovat
-lidsky – může to zahrnovat konzultaci s někým z VR ČAU, pomoc s propagací aktivity, rady jak na tiskovou zprávu a média v regionu apod.
+- lidsky – může to zahrnovat konzultaci s někým z VR ČAU, pomoc s propagací aktivity, rady jak na tiskovou zprávu a média v regionu apod.
 
 2) Stáhněte si aktuálně platný formulář Žádosti o podporu formou Minigrantu ČAU v souborech ke stažení. Ten pečlivě vyplňte a odešlete na výše uvedený e-mail.
-Při vašem plánování nezapomínejte, že potřebujeme nějaký čas, abychom se na vaše nápady podívali a vybrali ty, které budou ze strany ČAU podpořeny. Neplánujte proto aktivity s příliš blízkým datem k uzávěrce. I tímto bychom vás chtěli motivovat k včasnému plánování.
+Při vašem plánování nezapomínejte, že potřebujeme nějaký čas, abychom se na vaše nápady podívali, takže žádosti posílejte s dostatečným časovým předstihem.
  
-3) Projektové žádosti si přečte a zpracuje VR ČAU. Zde se hlasuje o jednotlivých projektových záměrech a výši celkové přidělené podpory v rámci programu Minigrantů k dané uzávěrce. Během jednoho měsíce by vám měly být známy výsledky, avšak VR ČAU si vyhrazuje 45 dní na zpracování a oznámení výsledků ode dne uzávěrky příjmu žádostí.
+3) Projektové žádosti si přečte a zpracuje VR ČAU, která následně hlasuje o projektovém záměru a výši celkové přidělené podpory. Během jednoho měsíce by vám měly být známy výsledky.
  
-4) Pokud byl váš projektový záměr kladně ohodnocen a vybrán k podpoře, budeme vás kontaktovat a také se tato informace objeví na webových stránkách asociace. Vyzveme vás aby jste vyslali alespoň jednoho zástupce z projektového týmu, aby se dostavil osobně a podepsal s ČAU smlouvu o čerpání této podpory, ve které se mimo jiné držitel podpory zavazuje k řádnému vyúčtování a závěrečné hodnotící zprávě, pravidelné komunikaci se zástupci VR ČALD a spolupráci při propagaci a psaní článků o probíhajících projektech. Následně vám budou převedeny prostředky na dohodnutý bankovní účet. Pokud by se jednalo o vyšší částky, které jste v rámci této podpory obdrželi, vyhrazuje si VR ČAU právo vám prostředky přeposlat postupně v průběhu projektu formou několika plateb.
+4) Pokud byl váš projektový záměr kladně ohodnocen a vybrán k podpoře, budeme vás kontaktovat, a také se tato informace objeví na webových stránkách asociace. Zástupce projektového týmu podepíše s ČAU smlouvu o čerpání této podpory, ve které se mimo jiné držitel podpory zavazuje k řádnému vyúčtování a závěrečné hodnotící zprávě, pravidelné komunikaci se zástupci VR ČAU a spolupráci při propagaci a psaní článků o probíhajících projektech. Následně vám budou převedeny prostředky na dohodnutý bankovní účet. Pokud by se jednalo o vyšší částky, které jste v rámci této podpory obdrželi, vyhrazuje si VR ČAU právo vám prostředky přeposlat postupně v průběhu projektu formou několika plateb.
  
 ### Na co je třeba dát pozor - hodnotící kritéria při výběru podpořených projektů v rámci programu Minigranty?
 O podpoře projektu rozhoduje Výkonná rada ČAU.
@@ -44,4 +44,4 @@ O podpoře projektu rozhoduje Výkonná rada ČAU.
 - na základě definované potřeby také další nefinanční materiální podporu s ohledem na dostupné materiály v době žádosti – zapůjčení disků, vybavení na hřiště apod. a tiskové propagační a metodické materiály
 
 ### Vyúčtování příspěvku
-Nejpozději do 3 měsíců po skončení projektu musí žadatel poskytnout podklady pro vyúčtování (kopie faktur, účtenek, dokladů).
+Nejpozději do 3 měsíců po skončení projektu musí žadatel poskytnout podklady pro vyúčtování (kopie faktur, účtenek, dokladů) a závěrečnou zprávu projektu.
