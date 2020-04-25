@@ -1,36 +1,22 @@
-TODO: doladit, nektere odkazy z puvodni stranky protridit, zaktualizovat
+Středoškolská liga (SŠL) je organizovaná meziškolní soutěž v ultimate frisbee, kterou hrají smíšené školní týmy, ve formátu 5 proti 5, a to formou několika jednodenních turnajů. Zapojit se může jakákoli střední škola v ČR i vyšší stupně škol základních.
+ 
+## Co je cílem
 
-# Často kladené dotazy
+Především rozvoj a propagace ultimate frisbee na středních školách. Dále rozvoj v nových regionech a zapojení mladších hráčů –⁠ univerzálních sportovců i rekreačních hráčů s výrazným důrazem na fair play a přátelství.
+ 
+## Jak se mohu přihlásit
 
-## Co je Středoškolská liga Ultimate fribee?
+Přihlášení na jednotlivé kvalifikační turnaje probíhá formou vyplnění formuláře, který je zaslán mailem všem již dříve zúčastněným školám. Zároveň je vyvěšeno oznámení na webu kde najdete odkaz. Pro zařazení do mailingu se obraťte na hlavního organizátora, viz kontakt.
 
-Středoškolská liga (SŠL) je organizovaná meziškolní soutěž v ultimatefrisbee, kterou hrají smíšené školní týmy, ve formátu 5 proti 5, a to formou několika jednodenních turnajů.
+**Nemusíte nic platit**. Všechny náklady jsou hrazeny asociací (ČAU). Více informací ve FAQ dokumentu ke stažení.
+ 
+## Jak celá liga funguje
 
-## Co je cílem SŠL?
+Liga se skládá z dvou hlavních kvalifikačních kol: podzimní a jarní. Týmy se mohou zúčastnit jakékoliv kvalifikace konající se v daných lokalitách. Započítávají se jim vždy dva nejlepší výsledky na podzim a dva nejlepší na jaře.
 
-Propagace a rozvoj ultimate frisbee do nových regionů a mezi mládší generace, rozvoj univerzálních sportovců i rekreačních hráčů s výrazným důrazem na fair play (Spirit of the game) a přátelství.
+Bodové hodnocení je určeno podle množství přihlášených týmů na dané kvalifikaci. Příklad: Máme-li 8 účastníků, tak první tým získá 8 bodů, druhý tým 7 bodů, třetí 6 bodů a tak dále. Školy mohou přihlásit i více týmů (body se pak započítají za umístění A-týmu i B-týmu).
 
-Dále pak uspořádání pravidelných soutěží (kvalifikací a finále) středoškolské ligy, sestavení nových týmů složených ze středoškoláků a rozvoj ultimate frisbee na středních školách
-
-## Kdo se může zapojit?
-
-Zapojit se může jakákoli střední škola v ČR i vyšší stupně škol základních.
-
-## Jak se mohu přihlásit?
-
-Přihlášení na jednotlivé kvalifikační turnaje probíhá formou zaslání registračního emailu na tomas.tousek@czechultimate.cz. Registrace je spuštěna vždy zhruba měsíc před konáním konkrétního kvalifikačního turnaje. Registrační email by měl obsahovat: název školy, email a telefon na kontaktní osobu, konkrétní turnaj, na který se škola hlásí a počet přihlašovaných týmů.
-
-Nemusíte nic platit. Všechny náklady jsou hrazeny associací ČAU.
-
-## Jak celá liga funguje?
-
--   Liga se skládá z dvou hlavních kvalifikačních kol: podzimní a jarní.
--   Týmy se mohou zůčastnit jakékoli kvalifikace konajicí se v daných lokalitách.
--   Započítavají se jim vždy 2 nejlepší výsledky na podzim a 2 nejlepší výsledky na jaře.
--   Bodové hodnocení je určeno podle množství přihlášených týmů na dané kvalifikace.
--   Příklad: Máme-li 8 účastících se týmů tak 1. místo získá 8 bodů a následně sestupně 2. místo 7 bodů a 3. místo 6 bodů.... a poslední 8. místo získá 1 bod.
--   Školy mohou přihlásit i více týmů (body se pak započítají za umístění Ačkového týmu i Bčkového týmu).
--   Po skončení jarního kvalifikačního kola se uskuteční finále kam je pozváno 16 nejuspěšnějších škol z celé republiky (na základě bodové tabulky).
+Po skončení jarního kvalifikačního kola se uskuteční finále, kam je pozváno 16 nejúspěšnějších škol z celé republiky (na základě bodové zisku).
 
 # Výsledky
 
@@ -38,3 +24,5 @@ Nemusíte nic platit. Všechny náklady jsou hrazeny associací ČAU.
 | --------- | ---------- | ------------------------------------ | --------------- | ------------------------ |
 | 2019/2020 |            |                                      |                 |                          |
 | 2018/2019 | 48         | Biskupské gymnázium České Budějovice | Gymnázium Písek | Biskupské gymnázium Brno |
+
+Podrobné výsledky zde: tbd
