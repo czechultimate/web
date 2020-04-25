@@ -26,8 +26,8 @@ bude buď na přelomu července/srpna, nebo nebude vůbec (popřípadě teoretic
 ### FINÁLE STŘEDOŠKOLSKÉ LIGY
 se přesouvá na konec září (upřesníme).
 
-
-Mimochodem, na halové turnaje se nám zatím příliš organizátorů nepřihlásilo. ;-( Stále jsou bezprizorní tyto turnaje. Myslím, že jsme všichni už po turnajích pěkně hladoví, ale bez organizátorů žádné nebudou...  
+### HALA
+Na halové turnaje se nám zatím příliš organizátorů nepřihlásilo. ;-( Stále jsou bezprizorní tyto turnaje. Myslím, že jsme všichni už po turnajích pěkně hladoví, ale bez organizátorů žádné nebudou...  
 - kvalifikace na juniorské HMČR - západ: 13.-14.11.2020  
 - regionální kvalifikace na HMČR mixed: 12.-13.12.2020  
 - kvalifikace o 1. ligu open: 6.-7.2.2021  
