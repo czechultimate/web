@@ -28,13 +28,13 @@ se přesouvá na konec září (upřesníme).
 
 
 Mimochodem, na halové turnaje se nám zatím příliš organizátorů nepřihlásilo. ;-( Stále jsou bezprizorní tyto turnaje. Myslím, že jsme všichni už po turnajích pěkně hladoví, ale bez organizátorů žádné nebudou...  
-kvalifikace na juniorské HMČR - západ: 13.-14.11.2020  
-regionální kvalifikace na HMČR mixed: 12.-13.12.2020  
-kvalifikace o 1. ligu open: 6.-7.2.2021  
-kvalifikace o 2. ligu open: 6.-7.2.2021  
-kvalifikace o 1. ligu women: 6.-7.2.2021  
-2\. liga open: 27.-28.2.2021  
-2\. liga women: 27.-28.2.2021  
+- kvalifikace na juniorské HMČR - západ: 13.-14.11.2020  
+- regionální kvalifikace na HMČR mixed: 12.-13.12.2020  
+- kvalifikace o 1. ligu open: 6.-7.2.2021  
+- kvalifikace o 2. ligu open: 6.-7.2.2021  
+- kvalifikace o 1. ligu women: 6.-7.2.2021  
+- 2\. liga open: 27.-28.2.2021  
+- 2\. liga women: 27.-28.2.2021  
 
 A pokud vás dosud minul ČAU facebook, pojďte mu naproti sem: [https://www.facebook.com/czechultimate](https://www.facebook.com/czechultimate). (logo je dočasné:)) 
 
