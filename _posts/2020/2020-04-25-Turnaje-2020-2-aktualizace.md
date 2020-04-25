@@ -20,11 +20,11 @@ Pokud by se nemohlo hrát ani v srpnu, zrušily by se obě kvalifikace a hrála 
 Varianty jsou znázorněny v [termínovce](http://bit.ly/terminovka_ultimate) ve sloupcích C a D.
 
 ### BEACH MČR
-bude buď na přelomu července/srpna, nebo nebude vůbec (popřípadě teoreticky v zimě v hale)
+Bude buď na přelomu července/srpna, nebo nebude vůbec (popřípadě teoreticky v zimě v hale)
 
 
 ### FINÁLE STŘEDOŠKOLSKÉ LIGY
-se přesouvá na konec září (upřesníme).
+Přesouvá se na konec září (upřesníme).
 
 ### HALA
 Na halové turnaje se nám zatím příliš organizátorů nepřihlásilo. ;-( Stále jsou bezprizorní tyto turnaje. Myslím, že jsme všichni už po turnajích pěkně hladoví, ale bez organizátorů žádné nebudou...  
