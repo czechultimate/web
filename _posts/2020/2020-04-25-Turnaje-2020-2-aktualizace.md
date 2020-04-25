@@ -10,7 +10,7 @@ Nyní víme, že turnaje nebudou moct být ani v květnu a červnu.
 
 Čtvrteční urychlení uvolňování opatření ale dává naději, že v létě už se budou moct turnaje rozběhnout. Chceme být optimisty a doufat, že toho ještě půjde odehrát maximum.
 
-###JUNIOŘI, MIX A OPEN+WOMEN
+### JUNIOŘI, MIX A OPEN+WOMEN
 
 Jak na sezónu nahlížíme: chceme raději zachovat všechny soutěže, než jednu zrušit kompletně. I za cenu zběsilejšího systému a kratšího času na sehrání mezi soutěžemi.
 
