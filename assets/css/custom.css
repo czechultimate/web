@@ -79,6 +79,10 @@ body {
     max-height: 100vh;
 }
 
+#mobile-title {
+    padding-left: 2px;
+}
+
 /* Diky tomuhle polozky v sidebaru lip vypadaji */
 .title.item {
     padding: 0.92857143em 1.14285714em !important;
