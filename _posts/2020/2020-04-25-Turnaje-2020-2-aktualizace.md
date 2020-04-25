@@ -2,10 +2,11 @@
 layout: post
 category: blog
 tags: terminovka
-title: Turnaje 2020, 2. aktualizace
-img: assets/img/post/2020/turnaje2020_2aktualizace.jpg
+title: Turnaje odsunuty minimálně do druhé poloviny léta
+img: assets/img/posts/2020/turnaje2020_2aktualizace.jpg
 author: Míša Čakrtová
 ---
+
 Nyní víme, že turnaje nebudou moct být ani v květnu a červnu.
 
 Čtvrteční urychlení uvolňování opatření ale dává naději, že v létě už se budou moct turnaje rozběhnout. Chceme být optimisty a doufat, že toho ještě půjde odehrát maximum.
@@ -36,5 +37,5 @@ Na halové turnaje se nám zatím příliš organizátorů nepřihlásilo. ;-( S
 
 A pokud vás dosud minul ČAU facebook, pojďte mu naproti sem: [https://www.facebook.com/czechultimate](https://www.facebook.com/czechultimate). (logo je dočasné:)) 
 
-za VR ČAU
+za VR ČAU  
 Míša

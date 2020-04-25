@@ -10,7 +10,11 @@ Kdo umí aspoň trochu s gitem, může si jednoduše repozitář stáhnout k sob
 
 ## Obecně
 
-**Předem předpokládám, že budete psát bez pravopisných a stylistických chyb! I sebelepší web/design/foto to pak už nezachrání.**
+### Jak tvořit obsah
+
+- **Předem předpokládám, že budete psát bez pravopisných a stylistických chyb! I sebelepší web/design/foto to pak už nezachrání.**
+- Nadpisy článků pište zajímavě. Tak aby uživatel měl důvod kliknout a číst dál. Saša dával na školení s médii příklad, že když proběhne valná hromada, tak nemáte psát titulek typu "Proběhla valná hromada 2020", ale spíš vypíchnout nějakou zajímavou informaci. Například "Končí dlouholetý předseda".
+- Když to není nutné, nepiště do titulků rok. Stačí přece datum zveřejnění článku, aby každý pochopil kontext.
 
 ### Jak vytvořit nový soubor
 
@@ -28,7 +32,7 @@ Kdo umí aspoň trochu s gitem, může si jednoduše repozitář stáhnout k sob
 
 ### Kam nahrávat obrázky/soubory
 
-Všechny obrázky ke článkům se nahrávají do `assets/img/posts/year`. Ve složce `assets/img/posts/uzitecne` jsou obrázky, které se můžou občas hodit k nekterým článkům, pokud nebudeme mít k dispozici lepší foto.Dokumenty se nahrávají do `assets/files`.
+Všechny obrázky ke článkům se nahrávají do `assets/img/posts/year`. Ve složce `assets/img/posts/uzitecne` jsou obrázky, které se můžou občas hodit k nekterým článkům, pokud nebudeme mít k dispozici lepší foto. Dokumenty se nahrávají do `assets/files`.
 
 **Nahrávejte obrázky s minimální šířkou 550px!**
 
@@ -69,6 +73,8 @@ author: Jan Novák
 
 Obsah článku...
 ```
+
+
 
 ### Jak upravit konkrétní stránku na webu
 
