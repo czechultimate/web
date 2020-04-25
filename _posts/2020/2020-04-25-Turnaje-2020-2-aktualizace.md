@@ -19,10 +19,12 @@ Pokud by turnaje mohly probíhat už v srpnu, konala by se open a women soutěž
 Pokud by se nemohlo hrát ani v srpnu, zrušily by se obě kvalifikace a hrála by se pouze finále. Pokud by byly větší akce povoleny ještě od pozdějšího data, budou se turnaje postupně odsekávat bez náhrady, jak jdou za sebou.
 Varianty jsou znázorněny v [termínovce](http://bit.ly/terminovka_ultimate) ve sloupcích C a D.
 
-### BEACH MČR bude buď na přelomu července/srpna, nebo nebude vůbec (popřípadě teoreticky v zimě v hale)
+### BEACH MČR
+bude buď na přelomu července/srpna, nebo nebude vůbec (popřípadě teoreticky v zimě v hale)
 
 
-### FINÁLE STŘEDOŠKOLSKÉ LIGY se přesouvá na konec září (upřesníme).
+### FINÁLE STŘEDOŠKOLSKÉ LIGY
+se přesouvá na konec září (upřesníme).
 
 
 Mimochodem, na halové turnaje se nám zatím příliš organizátorů nepřihlásilo. ;-( Stále jsou bezprizorní tyto turnaje. Myslím, že jsme všichni už po turnajích pěkně hladoví, ale bez organizátorů žádné nebudou...  
