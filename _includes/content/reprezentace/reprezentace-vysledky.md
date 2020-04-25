@@ -15,20 +15,21 @@ Označení hvězdičkou značí vítězství v kategorii Spirit of the Game.
 
 ## Beach
 
-| Rok  | Akce | Místo         | OPEN | WOMEN | MIXED |
-| ---- | ---- | ------------- | ---- | ----- | ----- |
-| 2019 | ME   | Portimão, PRT |      |       | 8/18  |
-| 2017 | MS   | Royan, FRA    |      | 13/26 | 14/32 |
-| 2015 | MS   | Dubaj, UAE    |      |       | 11/18 |
+| Rok  | Akce | Místo             | OPEN | WOMEN | MIXED |
+| ---- | ---- | ----------------- | ---- | ----- | ----- |
+| 2019 | ME   | Portimão, PRT     |      |       | 8/18  |
+| 2017 | MS   | Royan, FRA        |      | 13/26 | 14/32 |
+| 2015 | MS   | Dubaj, UAE        |      |       | 11/18 |
+| 2008 | ME   | Le Pouliguen, FRA | 3/?  |       | ?/?   |
 
 ## Masters
 
-| Rok  | Akce      | Místo                   | OPEN | WOMEN | MIXED |
-| ---- | --------- | ----------------------- | ---- | ----- | ----- |
-| 2019 |  ME       | Madrid, ESP             | 8*/9 |       |       |
-| 2019 | Beach ME  | Portimão, PRT           | 4/14 |       |       |
-| 2017 | Beach MS  | Royan, FRA              | 6/12 |       |       |
-| 2011 | Beach MS  | Lignano Sabbiadoro, ITA | 7/11 |       |       |
+| Rok  | Akce     | Místo                   | OPEN  | WOMEN | MIXED |
+| ---- | -------- | ----------------------- | ----- | ----- | ----- |
+| 2019 | ME       | Madrid, ESP             | 8\*/9 |       |       |
+| 2019 | Beach ME | Portimão, PRT           | 4/14  |       |       |
+| 2017 | Beach MS | Royan, FRA              | 6/12  |       |       |
+| 2011 | Beach MS | Lignano Sabbiadoro, ITA | 7/11  |       |       |
 
 ## U24
 
@@ -38,7 +39,7 @@ Označení hvězdičkou značí vítězství v kategorii Spirit of the Game.
 
 ## U20
 
-| Rok  | Akce | Místo                |  OPEN | WOMEN | MIXED |
+| Rok  | Akce | Místo                | OPEN  | WOMEN | MIXED |
 | ---- | ---- | -------------------- | ----- | ----- | ----- |
 | 2019 | ME   | Vratislav, POL       | 7/16  | 5/12  | 5/7   |
 | 2017 | ME   | Veenendaal, NLD      | 7/19  | 3/15  |       |
@@ -46,17 +47,18 @@ Označení hvězdičkou značí vítězství v kategorii Spirit of the Game.
 | 2015 | ME   | Frankfurt, GER       | 10/16 | 4/13  |       |
 | 2014 | MS   | Lecco, ITA           | 13/23 |       |       |
 | 2013 | ME   | Kolín nad Rýnem, GER | 6/16  | 6/12  |       |
-| 2011 | ME   | Vratislav, POL       | 5/13  | 6/8   |       |
+| 2011 | ME   | Vratislav, POL       | 5/13  | 6\*/8 |       |
 | 2010 | MS   | Heilbronn, GER       | 16/18 |       |       |
 | 2009 | ME   | Vídeň, AUT           | 6/16  |       |       |
-| 2008 | ME   | Trnava, SVK          | 3     |       |       |
-| 2007 | ME   | Southampton, GBR     | 8     |       |       |
-
+| 2008 | ME   | Trnava, SVK          | 3/4   |       |       |
+| 2007 | ME   | Southampton, GBR     | 8/10  |       |       |
 
 ## U17
 
 | Rok  | Akce | Místo           | OPEN  | WOMEN | MIXED |
 | ---- | ---- | --------------- | ----- | ----- | ----- |
-| 2019 | ME   | Vratislav, POL  | 10/16 |  1/9  |       |
-| 2017 | ME   | Veenendaal, NLD | 6/13  |  3/6  |       |
+| 2019 | ME   | Vratislav, POL  | 10/16 | 1/9   |       |
+| 2017 | ME   | Veenendaal, NLD | 6/13  | 3/6   |       |
 | 2011 | ME   | Vratislav, POL  | 6/7   |       |       |
+
+\* vítěz Spirit of the Game
