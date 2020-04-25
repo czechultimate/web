@@ -10,16 +10,16 @@ title: Výkonná rada
         <div class="four wide column tablet or lower hidden">
             {% include navigation/subnavigation.html %}
         </div>
-        <div class="eight wide column">
+        <div class="eight wide column content-wrapper">
             <h1 class="page-title">
                 Síň slávy
             </h1>
 
-            <div class="ui items">
+            <div class="ui items relaxed divided">
                 {% for member in site.data.data.sin-slavy %}
                 <div class="item">
                     <div class="image">
-                        <img src="{{ member.img | relative_url }}">
+                        <img src="{{ member.img | relative_url }}" style="margin-top: 0px; margin-bottom: 0px;">
                     </div>
                     <div class="content">
                         <a class="header">{{ member.name }}</a>
