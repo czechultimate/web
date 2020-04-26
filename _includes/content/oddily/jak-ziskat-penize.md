@@ -8,7 +8,7 @@ Pojďme k jednotlivým poskytovatelům dotací:
 
 # Dotační program Ministerstva mládeže, tělovýchovy a sportu
 
-Přímo na jednotlivé sportovní oddíly je zaměřen program VIII "Organizace sportu ve sportovních klubech a tělovýchovných jednotách".
+Přímo na jednotlivé sportovní oddíly je zaměřen program Můj klub.
 
 Podmínkami programu je působení v oblasti sportu alespoň dva roky a mít alespoň 12 hráčů do 23 let. Splňujete-li podmínky, určitě stojí za to podat.
 
