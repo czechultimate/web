@@ -32,7 +32,6 @@
             {% for item in site.data.navigation %}
 
             {% if item[1].menu %}
-            <!-- {% if page.group == item[0] %}active{% endif %} -->
             <div class="dropdown-navigation ui dropdown {% if page.group == item[0] %}dropdown-item--open{% endif %} item">
                 {{ item[1].name }}
                 <div class="menu">
