@@ -2,12 +2,14 @@ Kromě bojů o titul mistra republiky a Středoškolské ligy, se některé čes
 
 Z každé části postupuje podle daného klíče X týmů na regionální turnaj. Z tohoto turnaje potom opět podle daného klíče postupuje X týmů na turnaj finálový, kam se kvalifikují nejlepší týmy z Evropy. Ta je rozdělena na 5 regionů. Do finálového turnaje postupuje 24 týmů v open kategorii, 10 týmů v ženské kategorii a 12 týmů v mixové kategorii.
 
-# Úspěchy českých klubů
+# Úspěchy českých klubů na EUCF
 
-| Rok  | Místo konání   | Tým              | Kategorie | Umístění/cena |
-| ---- | -------------- | ---------------- | --------- | -------- |
-| 2017 | Frankfurt, DEU   | Left Overs    | MIXED     | SOTG       |
-| 2015 | Wrocław, POL   | Yellow Block     | MIXED     | 2.       |
-| 2014 | Frankfurt, DEU | Terrible Monkeys | MIXED     | 3.       |
-| 2010 | Barcelona, ESP | Hot Beaches      | WOMEN     | 1.       |
-| 2009 | Londýn, GBR    | Hot Beaches      | WOMEN     | 3.       |
+| Rok  | Místo konání   | Tým              | Kategorie | Výsledek     |
+| ---- | -------------- | ---------------- | --------- | ------------ |
+| 2017 | Frankfurt, DEU | Left Overs       | MIXED     | SOTG         |
+| 2015 | Wrocław, POL   | Yellow Block     | MIXED     | stříbro      |
+| 2014 | Frankfurt, DEU | Terrible Monkeys | MIXED     | bronz        |
+| 2014 | Frankfurt, DEU | Prague Devils    | WOMEN     | SOTG         |
+| 2010 | Barcelona, ESP | Hot Beaches      | WOMEN     | zlato        |
+| 2009 | Londýn, GBR    | Hot Beaches      | WOMEN     | bronz + SOTG |
+| 2009 | Paříž, FRA     | Hot Beaches      | WOMEN     | SOTG         |
