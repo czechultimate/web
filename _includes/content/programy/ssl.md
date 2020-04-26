@@ -24,5 +24,3 @@ Po skončení jarního kvalifikačního kola se uskuteční finále, kam je pozv
 | --------- | ---------- | ------------------------------------ | --------------- | ------------------------ |
 | 2019/2020 |            |                                      |                 |                          |
 | 2018/2019 | 48         | Biskupské gymnázium České Budějovice | Gymnázium Písek | Biskupské gymnázium Brno |
-
-Podrobné výsledky zde: tbd

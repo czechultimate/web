@@ -1,7 +1,32 @@
 ---
-layout: basic_page
+layout: default
 group: programy
 permalink: ssl
 title: Středoškolská liga
 image: assets/img/pages/ssl.jpg
 ---
+
+<div class="ui stackable grid">
+    <div class="row">
+        <div class="four wide column tablet or lower hidden">
+            {% include navigation/subnavigation.html %}
+        </div>
+        <div class="eight wide column content-wrapper">
+            <h1 class="page-title">
+                {{ page.title }}
+            </h1>
+            {% if page.image %}
+            <img class="ui image" src="{{ page.image | relative_url }}">
+            {% endif %}
+            {% capture my_include %}{% include content/{{ page.group }}/{{ page.permalink }}.md %}{% endcapture %}
+            {{ my_include | markdownify }}
+        </div>
+        <div class="four wide column">
+            {% include sidebar/contact.html %}
+            {% include sidebar/downloads.html %}
+            {% include sidebar/links.html %}
+            <h3>Facebooková stránka</h3>
+            <div class="fb-page" data-href="https://www.facebook.com/stredoskolka/"></div>
+        </div>
+    </div>
+</div>
