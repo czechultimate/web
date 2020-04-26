@@ -9,7 +9,7 @@
             <div class="ui list">
                 {% for post in site.tags[tag] limit:5 %}
                 <div class="item">
-                    <a class="header">{{ post.title }}</a>
+                    <a href="{{ post.url | relative_url }}" class="header">{{ post.title }}</a>
                     <div class="description">
                         {{ post.date | date: "%d. %m. %Y" }} - {{ post.author }}
                     </div>
