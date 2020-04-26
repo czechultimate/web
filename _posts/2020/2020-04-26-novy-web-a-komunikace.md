@@ -18,11 +18,14 @@ Změna domény se týká také emailové komunikace, kterou nyní povedete na **
 - info@czechultimate.cz - pro všeobecné dotazy
 - stk@czechultimate.cz - věci týkající se rozpisů a soutěžního řádu
 - rozvoj@czechultimate.cz - rozvoj (SŠL, školení učitelů, minigranty)
+- oddily@czechultimate.cz - skupina pro zástupce všech oddílů (platná od 12. května)
 
 Pro komunikaci s členy VR používejte jmeno.prijmeni@czechultimate.cz. Na [této](/vr) stránce se dozvíte, jaký člen má jakou agendu v rámci VR, proto se nebojte kontaktovat přímo jeho. Pro komunikaci se všemi členy VR použijte vr@czechultimate.cz.
 
-Myslete na to, že během letošního roku postupně zaniknou všechny adresy na doménách cald.cz a frisbeeultimate.cz.
+Myslete na to, že během několika málo týdnů postupně zaniknou všechny adresy na doménách cald.cz a frisbeeultimate.cz.
 
 Poslední novinkou je, že ke změně došlo i na facebooku, kde se místo stránky ČALD bude nově používát [Czech Ultimate](https://www.facebook.com/czechultimate/).
 
-Závěrem poprosím členy oddílů o kontrolu kontaktních údajů [zde]({{ 'oddily' | relative_url }}). Pokud došlo ke změně, neváhejte se na mě obrátit. 
+**Závěrem prosím zástupce oddílů o vyplnění formuláře [zde](https://forms.gle/sWnH3yMeyd1DXFQQ7) do 11. května! Týká se kontroly vašich údajů na našem novém webu a vytvoření nové skupiny oddily@czechultimate.cz. Pokud tedy tento formulář nevyplníte, nebudou vám již příští měsíce chodit zásadní informace od asociace.**
+
+Pokud máte přípomínky nebo dotazy, neváhejte se na mě obrátit. 
