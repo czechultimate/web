@@ -52,40 +52,6 @@ title: Výkonná rada a další pozice
 
             </div>
 
-            <h2>Sportovně technická komise</h2>
-
-            <p>
-                STK definuje pravidla a soutěžní řád, tvoří rozpisy na turnaje
-                a zastřešuje Spirit of the Game. Dále spravuje databázi členů
-                (soupisky, podklady pro placení příspěvků a zástupce na valnou
-                hromadu). Členové STK jsou členy VR.
-            </p>
-
-            <div class="ui three stackable cards">
-
-                {% for member in site.data.data.asociace.stk %}
-
-                <div class="ui card">
-                    <div class="image">
-                        <img style="margin: 0px;" src="{{ member.img | relative_url }}">
-                    </div>
-                    <div class="content" style="padding: 11px;">
-                        <div class="header">{{ member.name }}</div>
-                        <div class="meta">
-                            <span class="date">{{ member.subtitle }}</span>
-                        </div>
-                        <div class="description">
-                            {% for paragraph in member.description %}
-                            <p>{{ paragraph }}</p>
-                            {% endfor %}
-                        </div>
-                    </div>
-                </div>
-
-                {% endfor %}
-
-            </div>
-
             <h1>Kontrolní komise</h1>
 
             <p>

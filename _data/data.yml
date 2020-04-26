@@ -49,8 +49,6 @@ asociace:
       img: assets/img/vr/marek_dostal.jpg
       subtitle: IT support & komunikace
       description:
-        -
-  stk:
     - name: "Jan Novák"
       img: assets/img/vr/jan_novak.jpg
       subtitle: "STK"
