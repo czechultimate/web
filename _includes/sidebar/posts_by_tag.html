@@ -1,0 +1,22 @@
+{% if tag %}
+<div class="ui fluid card">
+    <div class="content">
+        <div class="header">
+            <i class="comment icon"></i>
+            Související
+        </div>
+        <div class="description">
+            <div class="ui list">
+                {% for post in site.tags[tag] limit:5 %}
+                <div class="item">
+                    <a class="header">{{ post.title }}</a>
+                    <div class="description">
+                        {{ post.date | date: "%d. %m. %Y" }} - {{ post.author }}
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+{% endif %}
