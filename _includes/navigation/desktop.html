@@ -30,9 +30,25 @@
         <div class="ui large inverted menu">
 
             {% for item in site.data.navigation %}
+
+            {% if item[1].menu %}
+            <!-- {% if page.group == item[0] %}active{% endif %} -->
+            <div class="dropdown-navigation ui dropdown {% if page.group == item[0] %}dropdown-item--open{% endif %} item">
+                {{ item[1].name }}
+                <div class="menu">
+                    {% for subitem in item[1].menu %}
+                    <a href="{{ subitem.link | relative_url }}" class="{% if page.permalink == subitem.link %}active{% endif %} item">
+                        {{ subitem.name }}
+                    </a>
+                    {% endfor %}
+                </div>
+            </div>
+            {% else %}
             <a href="{{ item[1].link | relative_url }}" class="{% if page.group == item[0] %}active{% endif %} item">
                 {{ item[1].name }}
             </a>
+            {% endif %}
+
             {% endfor %}
 
             <div class="right menu">

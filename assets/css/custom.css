@@ -79,6 +79,7 @@ body {
     max-height: 100vh;
 }
 
+/* Aby se na mobilu titulek trochu natlacil doleva */
 #mobile-title {
     padding-left: 2px;
 }
@@ -96,4 +97,10 @@ html.ios {
 html.ios,
 html.ios body {
     height: initial !important;
+}
+
+/* Aktivni dropdown menu nebylo klikatelny */
+.dropdown-item--open {
+    background: rgba(255,255,255,.15) !important;
+    color: #fff!important;
 }
