@@ -14,12 +14,13 @@ Mezi tradiční plážové turnaje patří:
 
 # Mistři republiky BEACH
 
-| Rok  | OPEN          | WOMEN         | MIXED       |
-| ---- | ------------- | ------------- | ----------- |
-| 2019 | Left Overs    | Východní blok | Chupacabras |
-| 2018 | nepořádalo se | nepořádalo se | Chupacabras |
+| Rok  | OPEN          | WOMEN          | MIXED       |
+| ---- | ------------- | -------------- | ----------- |
+| 2019 | Left Overs    | Východní blok  | Chupacabras |
+| 2018 | nepořádalo se | Yellow Fujever | Chupacabras |
+| 2017 | nepořádalo se | Yellow Fujever | Chupacabras |
 
-# Výsledky českých klubů (EBUCC)
+# Výsledky českých klubů na EBUCC
 
 | Rok  | Místo          | OPEN       | WOMEN                                | MIXED              |
 | ---- | -------------- | ---------- | ------------------------------------ | ------------------ |
