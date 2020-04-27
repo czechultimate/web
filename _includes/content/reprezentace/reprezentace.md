@@ -13,6 +13,7 @@ Více informací pro zájemce o reprezentaci je v jednotlivých reprezentačníc
 - Vytvoření dlouhodobého konceptu reprezentace se stabilním trenérským týmem
 - Větší důraz na kategorie open & women
 - Vylepšení umístění (medaile z Mistrovství Evropy a TOP 8 na Mistrovství světa)
+
 Reprezentaci má ve výkonné radě na starosti Kateřina Langová.
 
 ## Open
