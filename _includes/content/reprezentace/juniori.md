@@ -16,14 +16,14 @@ Máte-li jakýkoliv dotaz, obraťte se na něj, případně oslovte rovnou tren�
 
 ## Kontakt
 
-Jan Ondráček
- email: [ondracekjan@gmail.com](mailto:ondracekjan@gmail.com)
- tel: [+420731477512](tel:%20+420731477512)
+Jan Ondráček  
+[ondracekjan@gmail.com](mailto:ondracekjan@gmail.com)  
+[+420731477512](tel:%20+420731477512)  
 
-Kateřina Kiliánová
- email: [katerina.kilianova@gmail.com](mailto:katerina.kilianova@gmail.com)
- tel: [+420774130495](tel:%20+420774130495)
+Kateřina Kiliánová  
+[katerina.kilianova@gmail.com](mailto:katerina.kilianova@gmail.com)  
+[+420774130495](tel:%20+420774130495)  
 
-Tomáš Toušek
- email: [tomas.tousek@czechultimate.cz](mailto:tomas.tousek@czechultimate.cz)
- tel: [+420731612805](tel:%20+420731612805)
+Tomáš Toušek  
+[tomas.tousek@czechultimate.cz](mailto:tomas.tousek@czechultimate.cz)  
+[+420731612805](tel:%20+420731612805)  
