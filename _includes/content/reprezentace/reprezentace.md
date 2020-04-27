@@ -61,7 +61,7 @@ Vizí pro nově rodící se mixovu reprezentaci je vytvořit silný a stabilní 
 Lukáš Maňák (Maník)
 
 #### Pohled na vedení repre
-> Vím, že nejsem trenér u kterého si každý řekne wow! To je pecka, takovej hráč vede repre! Taková hvězda, tam chci! Vím, že tím mám situaci ztíženou. Na druhou stranu, je potřeba, aby reprezentaci vedl skvělej hráč? Jsou to ty klíčové vlastnosti pro správného lídra týmu? Nedá se toto vyřešit jinak? Já myslím, že ano, jinak bych nikdy tu nabídku vést repre nepřijal. Věřím, že reprezentační trenér musí zvládat především vedení lidí, umět s nimi mluvit, být emaptický (pořád to děláme zadarmo ve svém volném čase) a je zodpovědný za atmosféru a fungování týmu. A ti skvělí hráči pak budou mít klid a čas na výkon a nemusí se trápit vedením týmu.
+"Vím, že nejsem trenér u kterého si každý řekne wow! To je pecka, takovej hráč vede repre! Taková hvězda, tam chci! Vím, že tím mám situaci ztíženou. Na druhou stranu, je potřeba, aby reprezentaci vedl skvělej hráč? Jsou to ty klíčové vlastnosti pro správného lídra týmu? Nedá se toto vyřešit jinak? Já myslím, že ano, jinak bych nikdy tu nabídku vést repre nepřijal. Věřím, že reprezentační trenér musí zvládat především vedení lidí, umět s nimi mluvit, být emaptický (pořád to děláme zadarmo ve svém volném čase) a je zodpovědný za atmosféru a fungování týmu. A ti skvělí hráči pak budou mít klid a čas na výkon a nemusí se trápit vedením týmu."
 
 ### Plán
 Reprezentace mixed má záměrně soustředění v jiný termín než open a women, aby si co nejvíce zájemců o repre mohlo vyzkoušet všechny kategorie. Plánované akce přehledně v tabulce [Termínovka - Koordinace repre](https://docs.google.com/spreadsheets/d/1JSNbhNqnJq2M1BZdFmGcLaakjvaskYaIgzjMlZGhA9U/edit#gid=439383987)
