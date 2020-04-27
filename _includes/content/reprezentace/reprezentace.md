@@ -4,17 +4,14 @@
 
 Všechna umístění jednotlivých týmů najdete v sekci Výsledky.
 
-Více informací pro zájemce o reprezentaci je v jednotlivých reprezentačních týmech Open, Women a Mixed najdete níže.
-
-
-# Priority asociace
+## Priority asociace
 
 - Priority vychází z dokumentu [Czech ultimate 2020](https://cald.cz/czech-ultimate-2020) 
 - Vytvoření dlouhodobého konceptu reprezentace se stabilním trenérským týmem
 - Větší důraz na kategorie open & women
 - Vylepšení umístění (medaile z Mistrovství Evropy a TOP 8 na Mistrovství světa)
 
-Reprezentaci má ve výkonné radě na starosti Kateřina Langová.
+Reprezentaci má ve výkonné radě na starosti Kateřina Langová. Více informací pro zájemce o reprezentaci je v jednotlivých reprezentačních týmech Open, Women a Mixed najdete níže.
 
 ## Open
 ### Vize
