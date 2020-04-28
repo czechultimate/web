@@ -1,8 +1,6 @@
-TODO:
+EBUCC (Plážové mistrovství Evropy klubů) se koná každé 2 roky. Pro získání spotů musí země pořádat Mistrovství republiky, kterého se účastní aspoň 4 oddíly. Mistrovství v roce 2019 bylo kvalifikačním turnajem pro EBUCC 2020.
 
--   jak to funguje (kdo se kvalifikuje)
--   EBUCC je kazdy druhy rok (mozna bude kazdy rok)
--   ostatni plazove turnaje
+Světová asociace WFDF uvažuje, že by se nově EBUCC mohlo konat každý rok.
 
 Mezi tradiční plážové turnaje patří:
 
