@@ -37,5 +37,3 @@ https://forms.gle/WERzpDMfuC4zc4mQ7
 Registrace bude probíhat také do konce ledna a minimální počet účastníků je 10. V případě, že se kurz bude konat, obdrží zájemci začátkem února podrobnější informace.
 
 Do nového roku hodně trenérských úspěchů a talentovaných svěřenců přeje
-
-Ráchel Tošnerová

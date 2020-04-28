@@ -1,9 +1,8 @@
-EBUCC (Plážové mistrovství Evropy klubů) se koná každé 2 roky. Pro získání spotů musí země pořádat Mistrovství republiky, kterého se účastní aspoň 4 oddíly. Mistrovství v roce 2019 bylo kvalifikačním turnajem pro EBUCC 2020.
+I přesto, že plážové turnaje mají dlouho historii, klubové mistrovství ČR nebo Evropy se začaly pořádat až v&nbsp;posledních letech. ČAU pořádá národní mistrovství od&nbsp;roku 2017. To slouží jako kvalifikační turnaj na&nbsp;plážové mistrovství Evropy klubů (EBUCC), které se pořádá každé dva roky. I&nbsp;to je jedním z&nbsp;důvodů, proč národní místrovství nemusí být pořádáno každý rok, a je možné, že se tak v budoucích letech ještě někdy stane.
 
-Světová asociace WFDF uvažuje, že by se nově EBUCC mohlo konat každý rok.
+Vyjímkou mezi oficiálními akcemi jsou reprezentace, které na plážové mistrovství Evropy nebo světa jezdí již od roku 2008.
 
-Mezi tradiční plážové turnaje patří:
-
+Mezi tradiční plážové turnaje patří například:
 -   [Paganello](http://www.paganello.com/) (Rimini, ITA)
 -   [BBC](https://www.bibione-disc.com/) (Bibione, ITA)
 -   Copa Tanga (Barcelona, ESP)

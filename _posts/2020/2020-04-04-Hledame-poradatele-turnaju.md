@@ -44,6 +44,3 @@ Východ: Left Overs A, B, Kapři A, B, Rainbow Banana A, B, Chupacabras, Východ
 Podrobně zapracujeme do aktualizace Soutěžního řádu.
 
 Turnajů je hodně; prosím zapojte se a vezměte si něco na starost.
-
-za VR ČAU
-Míša Čakrtová

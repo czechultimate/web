@@ -20,4 +20,16 @@ layout: homepage
     <img src="{{ page.img | relative_url }}" style="margin-bottom: 20px; margin-top: 10px;">
 
     {{ content }}
+
+    <p style="margin-top: 2.5em;">
+        Autor: {{ page.author }}<br>
+        {{ page.date | date: "%d. %m. %Y" }}
+    </p>
+
+    <div class="fb-share-button" data-href="{{site.url}}{{page.url}}" data-layout="button" data-size="large">
+        <a target="_blank" class="fb-xfbml-parse-ignore">
+            Sdílet
+        </a>
+    </div>
+
 </div>

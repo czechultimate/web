@@ -24,8 +24,10 @@ Pro komunikaci s členy VR používejte jmeno.prijmeni@czechultimate.cz. Na [té
 
 Myslete na to, že během několika málo týdnů postupně zaniknou všechny adresy na doménách cald.cz a frisbeeultimate.cz.
 
+Další novinkou je, že velkou část veřejných dokumentů najdete na jednom místě. Jedná se o sdílenou složku na Google Drive, kde objevíte například zápisy ze schůzí VR nebo jiné praktické dokumenty. Nahrávání je ještě v procesu, ale snad vám to v budoucnu pomůže rychleji dohledat důležité věci.
+
 Poslední novinkou je, že ke změně došlo i na facebooku, kde se místo stránky ČALD bude nově používát [Czech Ultimate](https://www.facebook.com/czechultimate/).
 
 **Závěrem prosím zástupce oddílů o vyplnění formuláře [zde](https://forms.gle/sWnH3yMeyd1DXFQQ7) do 11. května! Týká se kontroly vašich údajů na našem novém webu a vytvoření nové skupiny oddily@czechultimate.cz. Pokud tedy tento formulář nevyplníte, nebudou vám již příští měsíce chodit zásadní informace od asociace.**
 
-Pokud máte přípomínky nebo dotazy, neváhejte se na mě obrátit. 
+Pokud máte přípomínky nebo dotazy, neváhejte se na mě obrátit.

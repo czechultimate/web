@@ -42,12 +42,16 @@
 
 <body>
 
+    <!-- Facebook SDK (PageFeed, ShareButton, ...) -->
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous"
+        src="https://connect.facebook.net/cs_CZ/sdk.js#xfbml=1&version=v6.0"></script>
+
     {% include navigation/mobile.html %}
 
     <div class="pusher site-wrapper">
         <div class="ui container">
             {% include navigation/desktop.html %}
-            <div id="fb-root"></div>
             <div class="page-wrapper">
                 {{ content }}
             </div>
@@ -58,8 +62,7 @@
 
     <!-- Custom js -->
     <script src="{{ '/assets/js/custom.js' | relative_url }}"></script>
-    <script async defer crossorigin="anonymous"
-        src="https://connect.facebook.net/cs_CZ/sdk.js#xfbml=1&version=v6.0"></script>
+
 
 </body>
 

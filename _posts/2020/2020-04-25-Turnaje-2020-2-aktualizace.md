@@ -36,6 +36,3 @@ Na halové turnaje se nám zatím příliš organizátorů nepřihlásilo. ;-( S
 - 2\. liga open: 27.-28.2.2021  
 
 A pokud vás dosud minul ČAU facebook, pojďte mu naproti sem: [https://www.facebook.com/czechultimate](https://www.facebook.com/czechultimate). (logo je dočasné:)) 
-
-za VR ČAU  
-Míša
