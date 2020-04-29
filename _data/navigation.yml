@@ -1,5 +1,6 @@
 novinky:          # group = important for active items in the navigation and navigation/subnavigations
   name: Novinky   # name = visible in navigation
+  link: index
 ultimate:
   name: Ultimate
   menu:

@@ -44,7 +44,7 @@
             </div>
             {% else %}
             <a href="{{ item[1].link | relative_url }}" class="{% if page.group == item[0] %}active{% endif %} item">
-                {{ item[1].name }}
+                {{ item[1].name }} {{ item[1].link }}
             </a>
             {% endif %}
 

@@ -16,6 +16,11 @@ links:
   historie:
     - text: "Historie na stránkách WFDF"
       link: http://www.wfdf.org/history-stats/history-of-ultimate
+  reprezentace:
+    - text: Vize Czech Ultimate 2020
+      link: https://cald.cz/czech-ultimate-2020
+    - text: CZE-CAN na MS 2016 v Londýně (YouTube)
+      link: https://youtu.be/OEND0iHLDXo
   reprezentace-vysledky:
     - text: "Archiv výsledků národních týmů"
       link: http://hartti.com/national_teams/index.php
