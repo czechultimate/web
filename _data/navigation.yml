@@ -1,9 +1,7 @@
 novinky:          # group = important for active items in the navigation and navigation/subnavigations
   name: Novinky   # name = visible in navigation
-  link: index     # permalink
 ultimate:
   name: Ultimate
-  link: ultimate
   menu:
     - name: Co je ultimate
       link: ultimate
@@ -17,7 +15,6 @@ ultimate:
       link: historie-v-cr
 oddily:
   name: "Oddíly"
-  link: oddily
   menu:
     - name: Oddíly v ČR
       link: oddily
@@ -29,7 +26,6 @@ oddily:
       link: jak-ziskat-penize
 souteze:
   name: "Soutěže"
-  link: mistrovstvi-republiky
   menu:
     - name: "Mistrovství republiky"
       link: mistrovstvi-republiky
@@ -37,8 +33,6 @@ souteze:
       link: halove-souteze
     - name: "Juniorské soutěže"
       link: juniorske-souteze
-    # - name: Zahraniční soutěže
-      # submenu:
     - name: Plážové turnaje
       link: plazove-turnaje
     - name: Evropská liga
@@ -51,7 +45,6 @@ souteze:
       link: poradani-turnaje
 reprezentace:
   name: Reprezentace
-  link: reprezentace
   menu:
     - name: Reprezentace
       link: reprezentace
@@ -61,7 +54,6 @@ reprezentace:
       link: reprezentace-vysledky
 programy:
   name: "Programy"
-  link: nabidka-asociace
   menu:
     - name: "Nabídka asociace"
       link: nabidka-asociace
@@ -73,7 +65,6 @@ programy:
       link: minigranty
 asociace:
   name: Asociace
-  link: vize
   menu:
     - name: "Vize"
       link: vize
