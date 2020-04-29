@@ -4,124 +4,145 @@ teams:
   city: "Plzeň"
   web: atrofovaneruce.cz
   fb: atruc.ultimate
-  contact: "Kateřina Kilianová - 774 130 495"
+  contact: Kateřina Kilianová
+  phone: 774 130 495
 
 - name: 3SB
   city: "České Budějovice"
   web: 3sb.cz
   fb: 3SBultimate
-  contact: "Jan Ondráček - 731 477 512"
+  contact: Jan Ondráček
+  phone: 731 477 512
 
 - name: PEACEEGG
   city: "Písek"
   web: peaceegg.net
   fb: peaceegg.ultimate
-  contact: "Jan Manek - 736 143 872"
+  contact: Jan Manek
+  phone: 736 143 872
 
 - name: CHLUPATÁ ŽÁBA
   city: "Slatiňany"
   web: frisbee.cz/chlupata-zaba
   fb: chlupatazaba
-  contact: "Filip Halámka - 777 293 733"
+  contact: Filip Halámka
+  phone: 777 293 733
 
 - name: CHUPACABRAS
   city: "Žďár nad Sázavou"
   web: chupacabras.cz
   fb: chupacabrasZR
-  contact: "Klára Matejková - 736 655 788"
+  contact: Klára Matejková
+  phone: 736 655 788
 
 - name: KULATÁ ŠACHOVNICE
   city: "Hradec Králové"
   web: frisbeehk.cz
   fb: kulatasachovnice
-  contact: "Jiří Voseček - 608 747 852"
+  contact: Jiří Voseček
+  phone: 608 747 852
 
 - name: COOKIE MONSTERS
   city: "Přelouč"
   web: frisbee.cz/cookie-monsters
   fb: cookie.monsters.prelouc
-  contact: "Petr Fejl - 777 681 995"
+  contact: Petr Fejl
+  phone: 777 681 995
 
 - name: FRKOT
   city: "Olomouc"
   web: frisbeeolomouc.weebly.com
   fb: frkotolomouc
-  contact: "Jan Veselý - 731 169 027"
+  contact: Jan Veselý
+  phone: 731 169 027
 
 - name: LEFT OVERS
   city: "Brno"
   web: ufb.cz
   fb: leftoversbrno
-  contact: "Václav Pachta - 774 275 549"
+  contact: Václav Pachta
+  phone: 774 275 549
 
 - name: "BRNO ULTIMATE FRISBEE UNDERGROUND"
   city: "Brno"
   web: brno-ultimate.cz
   fb: groups/brnoultimateunderground
-  contact: Jakub Venglář - 732 254 401
+  contact: Jakub Venglář
+  phone: 732 254 40
 
 - name: "DREAM TEAM"
   city: Praha
   fb: DreamTeamUltimateFrisbee
-  contact: "Tereza Purschová - 605 419 677"
+  contact: Tereza Purschová
+  phone: 605 419 677
 
 - name: "FUJ"
   city: "Praha"
   web: frisbee.cz/fuj
   fb: FUJprague
-  contact: "Michaela Čakrtová - 608 043 517"
+  contact: Michaela Čakrtová
+  phone: 608 043 517
 
 - name: "PRAGUE DEVILS"
   city: "Praha"
   web: praguedevils.org
   fb: praguedevils
-  contact: "František Fencl - 603 751 806"
+  contact: František Fencl
+  phone: 603 751 806
 
 - name: "PRAGUE 7"
   city: "Praha"
   web: p7.cz
   fb: prague.seven
-  contact: "Ludmila Lejsalová - 734 371 907"
+  contact: Ludmila Lejsalová
+  phone: 734 371 907
 
 - name: "TERRIBLE MONKEYS"
   city: "Praha"
   web: terriblemonkeys.cz
   fb: terriblemonkeys
-  contact: "Jaromír Jáchym - 721 191 279"
+  contact: Jaromír Jáchym
+  phone: 721 191 279
 
 - name: "ŽLUTÁ ZIMNICE"
   city: "Praha"
   web: zlutazimnice.cz
   fb: yellowfeverultimate
-  contact: "Marie Michalová - 608 438 880"
+  contact: Marie Michalová
+  phone: 608 438 880
 
 - name: "RAINBOW BANANA"
   city: "Bohumín"
   web: frisbee.cz/rainbow-banana
   fb: RainbowBananaBohumin
-  contact: "Jakub Staniek - 604 389 691"
+  contact: Jakub Staniek
+  phone: 604 389 691
 
 - name: "JELITA"
   city: "Ostrava"
   web: ultimate-vsb.cz
   fb: jelitavsb
-  contact: "Filip Kmošek - 607 590 620"
+  contact: Filip Kmošek
+  phone: 607 590 620
 
 - name: "TRUBKY"
   city: "Náchod"
   web: frisbee.cz/trubky
   fb: tymtrubky
-  contact: "Petra Janečková - 774 645 994"
+  contact: Petra Janečková
+  phone: 774 645 994
 
 - name: "LÉTAJÍCÍ KAPŘI"
   city: "Pohořelice"
   web: svcpohorelice.cz/sportovni-oddeleni/id/130.html
   fb: groups/538864316139816
-  contact: "Jan Rozehnal - 724 723 020"
+  contact: Jan Rozehnal
+  phone: 724 723 020
 
 - name: "SK SPORTING PŘÍBRAM"
   city: "Příbram"
-  contact: "Jiří Čech - jiri.cech@email.cz"
+  contact: Jiří Čech
+  email: jiri.cech@email.cz
 
 - name: "VELKÁ MORAVA"
   city: "Brno, Olomouc, Ostrava, Žďár nad Sázavou"
@@ -131,5 +152,6 @@ teams:
 - name: POLETÍME
   city: "Praha - Horní Počernice"
   fb: FrisbeeHP
-  contact: "Tomáš Toušek - 731 612 805"
+  contact: Tomáš Toušek
+  phone: 731 612 805
 

@@ -7,6 +7,8 @@ img: assets/img/posts/uzitecne/trenovani_1.jpg
 author: Kateřina Langová
 ---
 
+Na následujících řádcích se dozvíte informace pro rok 2020 zveřejněné jednotlivými trenéry.
+
 # Open 
 
 Cílem je vytvořit:

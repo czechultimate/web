@@ -1,16 +1,62 @@
 ---
-layout: page
+layout: default
 group: asociace
 permalink: dokumenty
 title: Dokumenty
 image:
 ---
 
-<h1 class="page-title">
-    Dokumenty
-</h1>
+<div class="ui stackable grid">
+    <div class="row">
+        <div class="four wide column tablet or lower hidden">
+            {% include navigation/subnavigation.html %}
+        </div>
+        <div class="eight wide column content-wrapper">
+            <h1 class="page-title">
+                {{ page.title }}
+            </h1>
+            {% if page.image %}
+            <img class="ui image" src="{{ page.image | relative_url }}">
+            {% endif %}
+            <div class="ui bulleted list">
+                {% for link in site.data.documents.documents %}
+                <li class="item">
+                    <a target="_blank" href="{{ link.link | relative_url }}">{{ link.text }}</a>
+                </li>
+                {% endfor %}
+            </div>
+            <h2>
+                Seskupeno z webu
+            </h2>
 
-<div class="ui bulleted list">
+            <div class="ui bulleted list">
+
+                {% for page in site.data.documents.pages %}
+                {% for link in page[1] %}
+
+                <li class="item">
+                    <a target="_blank" href="{{ link.link | relative_url }}">{{ link.text }}</a> [{{ page[0] }}]
+                </li>
+
+                {% endfor %}
+                {% endfor %}
+
+            </div>
+        </div>
+        <div class="four wide column">
+            {% include sidebar/contact.html %}
+            {% include sidebar/downloads.html %}
+            {% include sidebar/links.html %}
+        </div>
+    </div>
+</div>
+
+
+<!-- <h1 class="page-title">
+    Dokumenty
+</h1> -->
+
+<!-- <div class="ui bulleted list">
     {% for link in site.data.documents.documents %}
     <li class="item">
         <a target="_blank" href="{{ link.link | relative_url }}">{{ link.text }}</a>
@@ -36,4 +82,4 @@ image:
     {% endfor %}
     {% endfor %}
 
-</div>
+</div> -->
