@@ -12,9 +12,9 @@ Kdo umí aspoň trochu s gitem, může si jednoduše repozitář stáhnout k sob
 
 ### Jak tvořit obsah
 
-- **Předem předpokládám, že budete psát bez pravopisných a stylistických chyb! I sebelepší web/design/foto to pak už nezachrání.**
-- Nadpisy článků pište zajímavě. Tak aby uživatel měl důvod kliknout a číst dál. Saša dával na školení s médii příklad, že když proběhne valná hromada, tak nemáte psát titulek typu "Proběhla valná hromada 2020", ale spíš vypíchnout nějakou zajímavou informaci. Například "Končí dlouholetý předseda".
-- Když to není nutné, nepiště do titulků rok. Stačí přece datum zveřejnění článku, aby každý pochopil kontext.
+- **Předem předpokládám, že budeme psát bez pravopisných a stylistických chyb! I sebelepší web/design/foto to pak už nezachrání.**
+- Nadpisy článků pišme zajímavě. Tak aby uživatel měl důvod kliknout a číst dál. Saša dával na školení s médii příklad, že když proběhne valná hromada, tak nemáme psát titulek typu "Proběhla valná hromada 2020", ale spíš vypíchnout nějakou zajímavou informaci. Například "Končí dlouholetý předseda".
+- Zvažme použití letopočtu v titulku článku. Někdy stačí datum zveřejnění článku, aby každý pochopil kontext.
 
 ### Jak vytvořit nový soubor
 
@@ -74,6 +74,9 @@ author: Jan Novák
 Obsah článku...
 ```
 
+** Nezapomeňte po změně zkontrolovat, zda se článek zobrazuje na webu tak, jak jste chtěli. Často se stane, že obrázek je příliš malý a nevyplňuje celý prostor stránky. Nebo nesedí úrovně nadpisů – to je obzvlášť důelžité pro dobře napasaný text.**
+
+Nakonec se zamysleme, zda by nebylo vhodné článek sdílet na sociálních sítích.
 
 
 ### Jak upravit konkrétní stránku na webu
