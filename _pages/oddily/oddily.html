@@ -37,8 +37,14 @@ title: Oddíly v ČR
                     <div class="item">
                         <i class="user icon"></i>
                         <div class="content">
-                            {{ team.contact }}<br>
-                            {{ team.phone }}{{ team.email }}
+                            {{ team.contact }}
+                            {% if team.phone and team.email %}
+                            <br>{{ team.phone }}<br>{{ team.email }}
+                            {% elsif team.phone %}
+                            <br>{{ team.phone }}
+                            {% elsif team.email %}
+                            <br>{{ team.email }}
+                            {% endif %}
                         </div>
                     </div>
                     {% endif %}
