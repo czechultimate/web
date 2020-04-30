@@ -20,7 +20,7 @@ Jan Ondráček
 [ondracekjan@gmail.com](mailto:ondracekjan@gmail.com)  
 [+420731477512](tel:%20+420731477512)  
 
-Kateřina Kiliánová  
+Kateřina Kilianová  
 [katerina.kilianova@gmail.com](mailto:katerina.kilianova@gmail.com)  
 [+420774130495](tel:%20+420774130495)  
 
