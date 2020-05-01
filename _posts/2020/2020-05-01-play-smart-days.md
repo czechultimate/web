@@ -2,7 +2,7 @@
 layout: post
 category: blog
 tags:
-img: assets/img/posts/uzitecne/hra_16.jpg
+img: assets/img/posts/uzitecne/hra_8.jpg
 title: Akce Play Smarter Days pro lehce a středně pokročilé hráče
 author: Ondřej Rýdlo
 ---
