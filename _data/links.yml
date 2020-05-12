@@ -50,6 +50,8 @@ links:
   plazove-turnaje:
     - text: Čeští junioři ovládli prestižní turnaj v Rimini (sport.cz, 2011)
       link: https://www.sport.cz/ostatni/frisbee/clanek/185621-cesti-juniori-ovladli-prestizni-turnaj-v-rimini.html
+    - text: Výsledky na frisbee.cz
+      link: http://www.frisbee.cz/online-vysledky.html
   vysledky:
     - text: Detailní výsledky turnajů (frisbee.cz)
       link: http://www.frisbee.cz/online-vysledky.html
@@ -76,8 +78,5 @@ links:
     - text: Výsledky na frisbee.cz
       link: http://www.frisbee.cz/online-vysledky.html
   juniorske-souteze:
-    - text: Výsledky na frisbee.cz
-      link: http://www.frisbee.cz/online-vysledky.html
-  plazove-turnaje:
     - text: Výsledky na frisbee.cz
       link: http://www.frisbee.cz/online-vysledky.html
