@@ -1,11 +1,5 @@
 additional_text: "Dále máme kontakty na lidi, kteří se věnují ultimate frisbee ve Frýdku Místku, Liberci, Jilemnici a Dobrušce. O kontakt si případně prosím napište na info@czechultimate.cz."
 teams:
-- name: "ATROFOVANÉ RUCE"
-  city: "Plzeň"
-  web: atrofovaneruce.cz
-  fb: atruc.ultimate
-  contact: Kateřina Kilianová
-  phone: 774 130 495
 
 - name: 3SB
   city: "České Budějovice"
@@ -14,144 +8,159 @@ teams:
   contact: Jan Ondráček
   phone: 731 477 512
 
-- name: PEACEEGG
-  city: "Písek"
-  web: peaceegg.net
-  fb: peaceegg.ultimate
-  contact: Jan Manek
-  phone: 736 143 872
+- name: Atrofované ruce
+  city: "Plzeň"
+  web: atrofovaneruce.cz
+  fb: atruc.ultimate
+  contact: Lukáš Kotrla
+  phone: 721 484 787
 
-- name: CHLUPATÁ ŽÁBA
-  city: "Slatiňany"
-  web: frisbee.cz/chlupata-zaba
-  fb: chlupatazaba
-  contact: Filip Halámka
-  phone: 777 293 733
-
-- name: CHUPACABRAS
-  city: "Žďár nad Sázavou"
-  web: chupacabras.cz
-  fb: chupacabrasZR
-  contact: Klára Matejková
-  phone: 736 655 788
-
-- name: KULATÁ ŠACHOVNICE
-  city: "Hradec Králové"
-  web: frisbeehk.cz
-  fb: kulatasachovnice
-  contact: Jiří Voseček
-  phone: 608 747 852
-
-- name: COOKIE MONSTERS
-  city: "Přelouč"
-  web: frisbee.cz/cookie-monsters
-  fb: cookie.monsters.prelouc
-  contact: Petr Fejl
-  phone: 777 681 995
-
-- name: FRKOT
-  city: "Olomouc"
-  web: frisbeeolomouc.weebly.com
-  fb: frkotolomouc
-  contact: Jan Veselý
-  phone: 731 169 027
-
-- name: LEFT OVERS
-  city: "Brno"
-  web: ufb.cz
-  fb: leftoversbrno
-  contact: Václav Pachta
-  phone: 774 275 549
-
-- name: "BRNO ULTIMATE FRISBEE UNDERGROUND"
+- name: "Brno Ultimate Frisbee Underground"
   city: "Brno"
   web: brno-ultimate.cz
   fb: groups/brnoultimateunderground
   contact: Jakub Venglář
   phone: 732 254 40
 
-- name: "DREAM TEAM"
+- name: Cookie Monsters
+  city: "Přelouč"
+  web: frisbee.cz/cookie-monsters
+  fb: cookie.monsters.prelouc
+  contact: Petr Fejl
+  phone: 777 681 995
+
+- name: "Dream Team B"
   city: Praha
   fb: DreamTeamUltimateFrisbee
   contact: Tereza Purschová
   phone: 605 419 677
 
-- name: "FUJ"
-  city: "Praha"
-  web: frisbee.cz/fuj
+- name: Frkot
+  city: "Olomouc"
+  web: frisbeeolomouc.weebly.com
+  fb: frkotolomouc
+  contact: Martina Hejčová
+  phone: 604 955 195
+
+- name: FUJ
+  city: Praha
+  web: fujultimate.cz
   fb: FUJprague
-  contact: Michaela Čakrtová
-  phone: 608 043 517
+  contact: info@fujultimate.cz
 
-- name: "PRAGUE DEVILS"
-  city: "Praha"
-  web: praguedevils.org
-  fb: praguedevils
-  contact: František Fencl
-  phone: 603 751 806
+- name: Chlupatá žába
+  city: "Slatiňany"
+  web: frisbee.cz/chlupata-zaba
+  fb: chlupatazaba
+  contact: Kristýna Tlustá 734 830 833, Patrik Novák 725 862 590
 
-- name: "PRAGUE 7"
-  city: "Praha"
-  web: p7.cz
-  fb: prague.seven
-  contact: Ludmila Lejsalová
-  phone: 734 371 907
+- name: Chupacabras
+  city: "Žďár nad Sázavou"
+  web: chupacabras.cz
+  fb: chupacabrasZR
+  contact: Klára Lipertová
+  phone: 736 655 788
 
-- name: "TERRIBLE MONKEYS"
-  city: "Praha"
-  web: terriblemonkeys.cz
-  fb: terriblemonkeys
-  contact: Jaromír Jáchym
-  phone: 721 191 279
-
-- name: "ŽLUTÁ ZIMNICE"
-  city: "Praha"
-  web: zlutazimnice.cz
-  fb: yellowfeverultimate
-  contact: Marie Michalová
-  phone: 608 438 880
-
-- name: "RAINBOW BANANA"
-  city: "Bohumín"
-  web: frisbee.cz/rainbow-banana
-  fb: RainbowBananaBohumin
-  contact: Jakub Staniek
-  phone: 604 389 691
-
-- name: "JELITA"
+- name: jELITA
   city: "Ostrava"
   web: ultimate-vsb.cz
   fb: jelitavsb
   contact: Filip Kmošek
   phone: 607 590 620
 
-- name: "TRUBKY"
-  city: "Náchod"
-  web: frisbee.cz/trubky
-  fb: tymtrubky
-  contact: Petra Janečková
-  phone: 774 645 994
-
-- name: "LÉTAJÍCÍ KAPŘI"
+- name: Kapři Ultimate
   city: "Pohořelice"
   web: svcpohorelice.cz/sportovni-oddeleni/id/130.html
-  fb: groups/538864316139816
+  fb: kapri.ultimate
   contact: Jan Rozehnal
   phone: 724 723 020
 
-- name: "SK SPORTING PŘÍBRAM"
-  city: "Příbram"
-  contact: Jiří Čech
-  email: jiri.cech@email.cz
+- name: Kulatá šachovnice
+  city: "Hradec Králové"
+  web: frisbeehk.cz
+  fb: kulatasachovnice
+  contact: Jiří Voseček
+  phone: 608 747 852
 
-- name: "VELKÁ MORAVA"
-  city: "Brno, Olomouc, Ostrava, Žďár nad Sázavou"
-  fb: Velká-Morava-1402838386636461/
-  contact: "Lucie Schönová 605 733 283 (Olomouc), Radmila Hadlačová 736 744 753 (Brno), Klára Matejková 736 655 788 (Žďár nad Sázavou)"
+- name: Left Overs
+  city: "Brno"
+  web: ufb.cz
+  fb: leftoversbrno
+  contact: Václav Pachta
+  phone: 774 275 549
 
-- name: POLETÍME
+- name: PeaceEgg
+  city: "Písek"
+  web: peaceegg.net
+  fb: peaceegg.ultimate
+  contact: Jan Manek
+  phone: 736 143 872
+
+- name: Poletíme
   city: "Praha - Horní Počernice"
   fb: FrisbeeHP
   contact: Tomáš Toušek
   phone: 731 612 805
 
+- name: Prague 7
+  city: "Praha"
+  web: p7.cz
+  fb: prague.seven
+  contact: Ludmila Lejsalová
+  phone: 734 371 907
+
+- name: "Prague Devils"
+  city: "Praha"
+  web: praguedevils.org
+  fb: praguedevils
+  contact: František Fencl
+  phone: 603 751 806
+
+- name: "Rainbow Banana"
+  city: "Bohumín"
+  web: frisbee.cz/rainbow-banana
+  fb: RainbowBananaBohumin
+  contact: Jakub Staniek
+  phone: 604 389 691
+
+- name: "SK Sporting Příbram"
+  city: "Příbram"
+  contact: Jiří Čech
+  email: jiri.cech@email.cz
+
+- name: Sunset Frisbee
+  city: Praha
+  contact: Ondřej Jelínek
+  email: ondrej.jelinek@email.cz
+
+- name: Terrible Monkeys
+  city: "Praha"
+  web: terriblemonkeys.cz
+  fb: terriblemonkeys
+  contact: Jaromír Jáchym
+  phone: 721 191 279
+
+- name: Trubky
+  city: "Náchod"
+  web: frisbee.cz/trubky
+  fb: tymtrubky
+  contact: Matěj Fanta
+  phone: 608 331 150
+
+- name: "Velká Morava"
+  city: "Brno, Olomouc, Ostrava, Žďár nad Sázavou"
+  fb: Velká-Morava-1402838386636461/
+  contact: "Lucie Schönová 605 733 283 (Olomouc), Radmila Hadlačová 736 744 753 (Brno), Klára Matejková 736 655 788 (Žďár nad Sázavou)"
+
+- name: Východní blok
+  city: Hradec Králové, Slatiňany
+  fb: VBultimate
+  contact: Karolína Zubatá
+  phone: 721 634 232
+
+- name: Žalymáda
+  city: Jilemnice
+  fb: zalymada
+  web: zalymada.tymy.cz
+  contact: Štěpán Boukal
+  email: boukalstev@gmail.com
