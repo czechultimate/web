@@ -67,6 +67,14 @@ teams:
   contact: Filip Kmošek
   phone: 607 590 620
 
+- name: "Kachny Příbram"
+  city: "Příbram"
+  contact: Jiří Čech
+  email: jiri.cech@email.cz
+  phone: 736 705 155
+  fb: ultimate.pribram
+  web: instagram.com/kachny_pribram
+
 - name: Kapři Ultimate
   city: "Pohořelice"
   web: svcpohorelice.cz/sportovni-oddeleni/id/130.html
@@ -121,14 +129,6 @@ teams:
   fb: RainbowBananaBohumin
   contact: Jakub Staniek
   phone: 604 389 691
-
-- name: "Kachny Příbram"
-  city: "Příbram"
-  contact: Jiří Čech
-  email: jiri.cech@email.cz
-  phone: 736 705 155
-  fb: ultimate.pribram
-  web: instagram.com/kachny_pribram
 
 - name: Sunset Frisbee
   city: Praha
