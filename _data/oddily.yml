@@ -8,6 +8,12 @@ teams:
   contact: Jan Ondráček
   phone: 731 477 512
 
+- name: Atletiko Maják Vsetín
+  city: Vsetín
+  fb: groups/947423615643307
+  contact: Marek Burdík
+  phone: 731 979 066
+
 - name: Atrofované ruce
   city: "Plzeň"
   web: atrofovaneruce.cz
@@ -18,8 +24,10 @@ teams:
 - name: "Brno Ultimate Frisbee Underground"
   city: "Brno"
   web: brno-ultimate.cz
+  fb: brnoultimate
   contact: Jakub Venglář
   phone: 732 254 401
+  email: brno.ultimate.underground@gmail.com
 
 - name: Cookie Monsters
   city: "Přelouč"
