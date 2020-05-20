@@ -27,7 +27,7 @@ teams:
   fb: brnoultimate
   contact: Jakub Venglář
   phone: 732 254 401
-  email: brno.ultimate.underground@gmail.com
+  email: "brno.ultimate.underground\n@gmail.com"
 
 - name: Cookie Monsters
   city: "Přelouč"
@@ -156,6 +156,11 @@ teams:
   fb: tymtrubky
   contact: Matěj Fanta
   phone: 608 331 150
+
+- name: Ubiquitous Frisbee Ordinands
+  city: ""
+  contact: Vít Fila
+  email: vfila23@gmail.com
 
 - name: "Velká Morava"
   city: "Brno, Olomouc, Ostrava, Žďár nad Sázavou"
