@@ -8,9 +8,9 @@ author: Tadeáš Grym
 ---
 **Krátký informační update k situaci okolo pandemie Covid-19**
 
-V tuto chvíli s venkovními ligovými turnaji jedeme dle optimistického korona-plánu, tj. začínáme v srpnu. Na konci července proběhnou ještě beachová MČR.
+V tuto chvíli s venkovními ligovými turnaji jedeme dle optimistického korona-plánu, tj. začínáme v srpnu. Na konci července proběhnou ještě plážová MČR.
 
-Organizátoři jsou potvrzení, všechno najdete v Termínovce.
+Organizátoři jsou potvrzení, všechno najdete v [Termínovce](https://docs.google.com/spreadsheets/d/1zQh8mB95bqjWr4j5GKx3OVeSZK2IAotKimoGYCXpMyE/edit?usp=sharing).
 
 V tuto chvíli platí, co je uvedeno ve sloupci Hlavní akce. Zůstává tam i sloupec Korovarianta od září, ale ta v tuto chvíli asi není pravděpodobná - buď bude všechno probíhat dobře, nebo se situace zhorší a turnaje se budou úplně rušit.
 
