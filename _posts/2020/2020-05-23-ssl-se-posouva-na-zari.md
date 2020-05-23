@@ -3,7 +3,7 @@ layout: post
 category: rozvoj
 tags: ucitele, ssl, stredoskolska liga, turnaj, finale
 title: SŠL se posouvá na září
-img: assets/img/posts/2020/rozvoj_4.jpg
+img: assets/img/posts/uzitecne/rozvoj_4.jpg
 author: Tadeáš Grym
 ---
 
