@@ -13,24 +13,22 @@ Pokud dojde k dalším změnám, bude vás o nich informovat pořadatel SŠL - T
 
 **Na finálový turnaj postoupily týmy těchto škol:**
 
-||  
-|--|
-|Gymnázium Špitálská Praha | 
-|Biskupské gymnázium Brno|
-|Gymnázium, SOŠ a SZŠ Jilemnice |
-|Biskupské gymnázium J. N. Neumanna České Budějovice |
-|Česko-anglické gymnázium České Budějovice |
-|Gymnázium Christiana Dopplera Praha|
-|Gymnázium Písek|
-|Gymnázium Jírovcova České Budějovice|
-|Gymnázium Příbram|
-|Gymnázium Františka Živného Bohumín|
-|Gymnázium Josefa Ressela Chrudim|
-|Mikulášské gymnázium Plzeň|
-|Gymnázium Mozartova Pardubice|
-|Gymnázium Botičská Praha|
-|Cyrilometodějské gymnázium Brno|
-|Masarykovo gymnázium Plzeň|
+ - Gymnázium Špitálská Praha
+ - Biskupské gymnázium Brno
+ - Gymnázium, SOŠ a SZŠ Jilemnice
+ - Biskupské gymnázium J. N. Neumanna České Budějovice
+ - Česko-anglické gymnázium České Budějovice
+ - Gymnázium Christiana Dopplera Praha
+ - Gymnázium Písek
+ - Gymnázium Jírovcova České Budějovice
+ - Gymnázium Příbram
+ - Gymnázium Františka Živného Bohumín
+ - Gymnázium Josefa Ressela Chrudim
+ - Mikulášské gymnázium Plzeň
+ - Gymnázium Mozartova Pardubice
+ - Gymnázium Botičská Praha
+ - Cyrilometodějské gymnázium Brno
+ - Masarykovo gymnázium Plzeň
 
 **POZOR**   
 **Turnaje se budou moci zúčastnit i letošní maturanti!**
