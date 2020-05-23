@@ -32,7 +32,7 @@ Pokud dojde k dalším změnám, bude vás o nich informovat pořadatel SŠL - T
 |Cyrilometodějské gymnázium Brno|
 |Masarykovo gymnázium Plzeň|
 
-**POZOR**  
+**POZOR**   
 **Turnaje se budou moci zúčastnit i letošní maturanti!**
 
 Bude-li situace příznivá, v říjnu proběhnou klasicky podzimní kvalifikace ve všech regionech.
