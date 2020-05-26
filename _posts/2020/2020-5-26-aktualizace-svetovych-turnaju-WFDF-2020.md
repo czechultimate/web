@@ -8,7 +8,7 @@ author: Tadeáš Grym
 ---
 # Aktualizace světových turnajů WFDF 2020
 
-Dnes vydala WFDF aktualizaci světových mistrovství, která byla naplánována na rok 2020.  
+Dnes vydala WFDF aktualizaci mistrovství světa, která byla naplánována na rok 2020.  
   
 Zatímco WUGC (Nizozemí, Leeuwarden) a WMUC (Austrálie, Gold Coast) byla odložena na rok 2021, WJUC (Švédsko, Malmö) bylo zrušeno.  
   
