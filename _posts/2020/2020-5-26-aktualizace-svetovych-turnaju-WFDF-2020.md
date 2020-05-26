@@ -6,7 +6,6 @@ title: Aktualizace světových turnajů WFDF 2020
 img: assets/img/posts/uzitecne/wfdf_logo_2017.png
 author: Tadeáš Grym
 ---
-# Aktualizace světových turnajů WFDF 2020
 
 Dnes vydala WFDF aktualizaci mistrovství světa, která byla naplánována na rok 2020.  
   
