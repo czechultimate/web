@@ -2,7 +2,7 @@
 layout: post
 category: reprezentace
 tags: reprezentace, světové mistrovství, WUGC, WFDF, WMUC, WJUC
-title: Vzdělávání trenérů v roce 2020
+title: Aktualizace světových turnajů WFDF 2020
 img: assets/img/posts/uzitecne/wfdf_logo_2017.png
 author: Tadeáš Grym
 ---
