@@ -1,4 +1,4 @@
-additional_text: "Dále máme kontakty na lidi, kteří se věnují ultimate frisbee ve Frýdku Místku, Liberci, Jilemnici a Dobrušce. O kontakt si případně prosím napište na info@czechultimate.cz."
+additional_text: "Dále máme kontakty na lidi, kteří se věnují ultimate frisbee ve Frýdku Místku a Dobrušce. O kontakt si případně prosím napište na info@czechultimate.cz."
 teams:
 
 - name: 3SB
@@ -48,6 +48,12 @@ teams:
   fb: frkotolomouc
   contact: Martina Hejčová
   phone: 604 955 195
+
+- name: Frozen Angels
+  city: Liberec
+  fb: groups/109760192470014
+  contact: Karel Drátovník
+  email: karel.dratovnik@gmail.com
 
 - name: FUJ
   city: Praha
