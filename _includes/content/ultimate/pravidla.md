@@ -1,4 +1,4 @@
-V souborech ke stažení naleznete soubory pravidel obsahující český překlad, anglický originál, eBook verzi a veškeré appendixy, které byly WFDF se změnou pravidel vydány. Dále naleznete i úpravu pravidel pro halové ligové turnaje. 
+V souborech ke stažení naleznete soubory pravidel obsahující český překlad, anglický originál, eBook verzi a veškeré appendixy, které byly WFDF (světovou asociací létajícího disku) se změnou pravidel vydány. Dále naleznete i úpravu pravidel pro halové ligové turnaje. 
 
 V odkazech pak naleznete link na oficiální stránky WFDF věnované čistě pravidlům a jejich interpretacím.
 
