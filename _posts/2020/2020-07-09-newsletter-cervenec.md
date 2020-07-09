@@ -11,4 +11,4 @@ author: Marek Dostál
 
 První vydání shrnuje trochu delší období, než tomu tak bude v budoucnu. Vše, co se událo od Valné hromady v únoru, jsme se snažili vměstnat do následujících řádků. Užijte si prázdniny!
 
-Ke stažení [zde](https://drive.google.com/u/3/uc?id=12tWtbyVSB3CG0k5sr_u2WWtzP9ROhLGu&export=download) (nebo na našem veřejném [disku](//shorturl.at/fyH12)).
+Ke stažení [zde](https://drive.google.com/u/3/uc?id=12tWtbyVSB3CG0k5sr_u2WWtzP9ROhLGu&export=download) (nebo na našem veřejném [disku](https://drive.google.com/file/d/12tWtbyVSB3CG0k5sr_u2WWtzP9ROhLGu/view)).
