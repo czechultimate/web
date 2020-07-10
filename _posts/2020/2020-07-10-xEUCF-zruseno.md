@@ -6,8 +6,7 @@ title: xEUCF zrušeno
 img: assets/img/posts/uzitecne/euf-logo.png
 author: Tadeáš Grym
 ---
-## EUF se rozhodla zrušit rozšířené evropské klubové mistrovství, které se mělo odehrát 1. - 4. října v belgických Bruggách.
-Původně plánované rozšířené mistrovství pro evropskou ultimate scénu muselo být zrušeno v souvislosti s nejistotou, která přetrvává ohledně pandemie Covid-19.  
+**EUF se rozhodla zrušit rozšířené evropské klubové mistrovství, které se mělo odehrát 1. - 4. října v belgických Bruggách. Původně plánované rozšířené mistrovství pro evropskou ultimate scénu muselo být zrušeno v souvislosti s nejistotou, která přetrvává ohledně pandemie Covid-19.**
 
 "*Především je zde mnoho nejasností ze strany belgické vlády a také vedení města Bruggy. Schválení o organizaci takového velkého mezinárodního turnaje nám mohli poskytnout až na konci srpna, ale my jsme už od začátku věděli, že chceme finální rozhodnutí na začátku srpna.*" řekl v emailu, který dnes dostali zástupci jednotlivých národních asociací, prezident EUF Andrea Furlan.
 
