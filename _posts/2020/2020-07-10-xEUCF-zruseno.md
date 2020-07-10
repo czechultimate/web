@@ -3,7 +3,7 @@ layout: post
 category: evropska liga
 tags: euf, eucf, euc, eucs, european, ultimate, federation
 title: xEUCF zrušeno
-img: assets/img/posts/uzitecne/atmosfera_2.png
+img: assets/img/posts/uzitecne/atmosfera_2.jpg
 author: Tadeáš Grym
 ---
 **EUF se rozhodla zrušit rozšířené evropské klubové mistrovství, které se mělo odehrát 1. - 4. října v belgických Bruggách. Původně plánované rozšířené mistrovství pro evropskou ultimate scénu muselo být zrušeno v souvislosti s nejistotou, která přetrvává ohledně pandemie Covid-19.**
