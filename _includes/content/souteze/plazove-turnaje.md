@@ -3,6 +3,7 @@ I přesto, že plážové turnaje mají dlouho historii, klubové mistrovství �
 Vyjímkou mezi oficiálními akcemi jsou reprezentace, které na plážové mistrovství Evropy nebo světa jezdí již od roku 2008.
 
 Mezi tradiční plážové turnaje patří například:
+
 -   [Paganello](http://www.paganello.com/) (Rimini, ITA)
 -   [BBC](https://www.bibione-disc.com/) (Bibione, ITA)
 -   Copa Tanga (Barcelona, ESP)
@@ -13,6 +14,7 @@ Mezi tradiční plážové turnaje patří například:
 
 | Rok  | OPEN          | WOMEN          | MIXED       |
 | ---- | ------------- | -------------- | ----------- |
+| 2020 | Left Overs    | Prague Devils  |             |
 | 2019 | Left Overs    | Východní blok  | Chupacabras |
 | 2018 | nepořádalo se | Yellow Fujever | Chupacabras |
 | 2017 | nepořádalo se | Yellow Fujever | Chupacabras |

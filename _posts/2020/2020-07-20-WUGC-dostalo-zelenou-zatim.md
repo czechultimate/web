@@ -2,7 +2,7 @@
 layout: post
 category: reprezentace
 tags: reprezentace, wfdf, wugc, repre, ultimate, czech, czechultimate
-title: WUGC 2021 dostalo zelenou. Zatím.
+title: WUGC 2021 dostalo zelenou. Zatím
 img: assets/img/posts/uzitecne/hra_7.jpg
 author: Tadeáš Grym
 ---
