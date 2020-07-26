@@ -14,7 +14,7 @@ Mezi tradiční plážové turnaje patří například:
 
 | Rok  | OPEN          | WOMEN          | MIXED       |
 | ---- | ------------- | -------------- | ----------- |
-| 2020 | Left Overs    | Prague Devils  |             |
+| 2020 | Left Overs    | Prague Devils  | FUJ         |
 | 2019 | Left Overs    | Východní blok  | Chupacabras |
 | 2018 | nepořádalo se | Yellow Fujever | Chupacabras |
 | 2017 | nepořádalo se | Yellow Fujever | Chupacabras |
