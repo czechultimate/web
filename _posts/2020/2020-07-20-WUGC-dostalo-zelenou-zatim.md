@@ -2,12 +2,12 @@
 layout: post
 category: reprezentace
 tags: reprezentace, wfdf, wugc, repre, ultimate, czech, czechultimate
-title: WUGC 2021 dostalo zelenou. Zatím
+title: WUGC 2021 dostalo zelenou. Zatím.
 img: assets/img/posts/uzitecne/hra_7.jpg
 author: Tadeáš Grym
 ---
 Po měsíci nejistoty poslala WFDF zprávu, ve které potvrdila uskutečnění World Ultimate & Guts Championships příští rok v Nizozemí.
-Do 15. června se měli přihlášené týmy, respektive národní asociace, vyjádřit, zda svou účast potvrzují či stahují. Rozhodnutí světové federace mělo padnout do 15. července, o pár dní se ale zdrželo.
+Do 15. června se měly přihlášené týmy, respektive národní asociace, vyjádřit, zda svou účast potvrzují či stahují. Rozhodnutí světové federace mělo padnout do 15. července, o pár dní se ale zdrželo.
 
 "*S radostí můžeme oznámit, že většina týmů původně přihlášených na WFDF 2020 World Ultimate & Guts Championships vyjádřila zájem účastnit se i odsunutého WUGC 2021.*"
 
