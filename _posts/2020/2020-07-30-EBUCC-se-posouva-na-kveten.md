@@ -11,7 +11,7 @@ Na plážové klubové mistrovství Evropy si po dlouhém vyjednávání budeme 
 “*Bereme v potaz aktuální nařízení a opatření ohledně cestování a společenských událostí, které způsobila pandemie Covid-19 v Evropě. Kvůli tomu jsme nuceni mistrovství znovu posunout na pozdější termín,*” stojí v oficiálním dopise od pořadatelů. Doporučení přišlo shora od portugalských zdravotnických autorit. Potvrdily, že by vzhledem k aktuální situaci nebylo možné takový turnaj pořádat.
 
 Z původního termínu 16. až 18. října 2020 se tedy vyklubal termín nový, a to 7. až 9. květen 2021. Místo konání mistrovství zůstává podle všeho stejné - Portimão v Portugalsku. BULA o změně informovala všechny přihlášené týmy. Ty mají svůj spot jistý i v posunutém termínu.
-Týmy, které se rozhodli již dříve EBUCC nezúčastnit, ale s novým termínem zájem mají, musí počítat se změnami v pravidlech, podle kterých mohou psát své hráče na soupisku. Nové hráčky a hráči, kteří se k týmu přidají teprve na letošním národním mistrovství, budou s největší pravděpodobností moci startovat.
+Týmy, které se rozhodly již dříve EBUCC nezúčastnit, ale s novým termínem zájem mají, musí počítat se změnami v pravidlech, podle kterých mohou psát své hráče na soupisku. Noví hráči, kteří se k týmu přidají teprve na letošním národním mistrovství, budou s největší pravděpodobností moci startovat.
 
 Tato zpráva přichází poněkud neštastně jen čtyři dny po odehrání plážového MČR.
 
