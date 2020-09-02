@@ -16,6 +16,9 @@ Máte-li jakýkoliv dotaz, obraťte se na něj, případně oslovte rovnou tren�
 
 ## Kontakt
 
+Celé trenérské vedení  
+[juniori@czechultimate.cz](mailto:juniori@czechultimate.cz)
+
 Jan Ondráček  
 [ondracekjan@gmail.com](mailto:ondracekjan@gmail.com)  
 [+420731477512](tel:%20+420731477512)  
@@ -26,4 +29,4 @@ Kateřina Kilianová
 
 Tomáš Toušek  
 [tomas.tousek@czechultimate.cz](mailto:tomas.tousek@czechultimate.cz)  
-[+420731612805](tel:%20+420731612805)  
+[+420731612805](tel:%20+420731612805)
