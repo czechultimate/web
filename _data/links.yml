@@ -58,6 +58,8 @@ links:
   evidence:
     - text: Evidence členů
       link: http://evidence.czechultimate.cz
+    - text: Jak z Evidence členů vygenerovat data pro sportovní rejstřík
+      link: https://www.czechultimate.cz/blog/2020/01/29/jak-vygenerovat-data-z-evidence.html
   sklad:
     - text: Rezervační systém
       link: http://sklad.czechultimate.cz
