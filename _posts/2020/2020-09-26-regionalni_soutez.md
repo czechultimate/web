@@ -4,7 +4,7 @@ category: soutezni-rad
 tags: soutezni-rad, regiony
 title: Návrh nového regionálního systému
 img: assets/img/posts/uzitecne/pocitadlo_2.jpg
-author: Malvína Voclová
+author: Jana Šromová, Malvína Voclová
 ---
 
 **Během koronavirové frisbee pauzy se VR ČAU věnovala, mimo jiné, aktualizaci regionálního hracího systému. Týmy byly vyzvány, aby se k systému a změnám vyjádřily do 28.9. My Vám nabízíme zjednodušené vysvětlení.**
