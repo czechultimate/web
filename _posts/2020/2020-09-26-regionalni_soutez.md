@@ -2,7 +2,7 @@
 layout: post
 category: soutezni-rad
 tags: soutezni-rad, regiony
-title: Byl zveřejněn návrh nového regionálmího systému
+title: Byl zveřejněn návrh nového regionálního systému
 img: assets/img/posts/uzitecne/pocitadlo_2.jpg
 author: Malvína Voclová
 ---
@@ -31,7 +31,7 @@ Při vzniku nové ligy týmy, které se umístily v poslední lize na 11. a hor�
 
 ## Přihlašování
 
-Další změnou je přihlašování na halovou sezónu. Týmy mají nově povinnost závazně nahlásit svoji účast či neúčast na finálovém turnaji. Tím chce VR ČAU dát možnost novým lokálním týmům nebo týmům juniorů zúčastnit se regionálních kvalifikací bez nutnosti zúčastnit se finálového kola na druhé straně republiky. Avšak pozor! Týmy si své prvotní rozhodnutí již nemohou rozmyslet. 
+Další změnou je přihlašování na halovou sezónu. Týmy mají nově povinnost závazně nahlásit svoji **účast či neúčast na finálovém turnaji**. Tím chce VR ČAU dát možnost novým lokálním týmům nebo týmům juniorů zúčastnit se regionálních kvalifikací bez nutnosti zúčastnit se finálového kola na druhé straně republiky. Avšak pozor! Týmy si své prvotní rozhodnutí již nemohou rozmyslet.
 
 Pokud závazně přihlášený tým odmítne účast na finálovém turnaji, jeho spot a nasazení připadne dalšímu týmu v daném regionu. V případě, že v regionu již žádný tým nezbývá, region spot ztrácí a získává jej další region v pořadí. Závazně přihlášeným týmům se záloha vrací pouze pokud jim nebude z kapacitních důvodů umožněno zúčastnit se finálového turnaje.
 
