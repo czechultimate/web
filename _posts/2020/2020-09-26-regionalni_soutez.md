@@ -2,7 +2,7 @@
 layout: post
 category: soutezni-rad
 tags: soutezni-rad, regiony
-title: Návrh nového regionálního systému ve zkratce
+title: Návrh nového regionálního systému
 img: assets/img/posts/uzitecne/pocitadlo_2.jpg
 author: Malvína Voclová
 ---
