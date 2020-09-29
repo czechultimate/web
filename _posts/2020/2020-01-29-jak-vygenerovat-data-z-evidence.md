@@ -7,7 +7,7 @@ img: assets/img/posts/2020/agentura_logo.png
 author: Míša Čakrtová
 ---
 
-Zde najdete návod, jak získat csv soubor s údaji o hráčích vašeho týmu pro nahrání do Rejstříku sportu. To potřebujete především v případě, žádáte-li o dotaci Ministerstva školství v programu Můj klub (bez nahrání dat do rejstříku bude vaše žádost o dotaci z hodnocení vyřazena). Soubor stáhnete kdykoliv v Evidenci členů, kde je připraven přesně podle kritérií MŠMT, je ale potřeba ho před nahráním do rejstříku překódovat. Není to nic složitého.
+Zde najdete návod, jak získat csv soubor s údaji o hráčích vašeho týmu pro nahrání do Rejstříku sportu. To potřebujete především v případě, žádáte-li o dotaci Národní sportovní agentury v programu Můj klub (bez nahrání dat do rejstříku bude vaše žádost o dotaci z hodnocení vyřazena). Soubor stáhnete kdykoliv v Evidenci členů, kde je připraven přesně podle kritérií NSA, je ale potřeba ho před nahráním do rejstříku překódovat. Není to nic složitého.
 
 1. Přihlaste se do Evidence členů pod přihlašovacími údaji vašeho oddílu.
 
@@ -15,7 +15,7 @@ Zde najdete návod, jak získat csv soubor s údaji o hráčích vašeho týmu p
 
 3. Otevřete si v počítači poznámkový blok (notepad). V něm otevřete toto csv, dejte Uložit jako a pak dole vyberte kódování ANSI. "Uložit jako typ" překlikněte na Všechny soubory a do názvu přidejte koncovku .csv. Do dat pokud možno zasahujte co nejméně. Pokud objevíte nějakou chybu, opravte ji přímo v evidenci a csv stáhněte znovu. Rozhodně neměňte a nemažte sloupečky; rejstřík přijímá jen přesně daný formát. Po překódování se vám csv bude zobrazovat v plné parádě se správnou diakritikou.
 
-4. Přihlaste se na rejstriksportu.msmt.cz, jděte na Zapsat údaje a pak Přidat údaje o sportovcích a trenérech. Dál je postup asi jasný.
+4. Přihlaste se na [rejstriksportu.cz](https://rejstriksportu.cz), jděte na Zapsat údaje a pak Přidat údaje o sportovcích a trenérech. Dál je postup asi jasný.
 
 
 Pokud byste potřebovali poradit nebo získat data zpětně za minulou sezónu, tak mi napište.
