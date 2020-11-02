@@ -40,6 +40,9 @@ links:
   jak-zacit:
     - text: Frisbee e-shop Ultimo
       link: https://www.ultimo.cz/
+  poradani-turnaje:
+    - text: Android aplikace pro zadávání výsledků a hodnocení SOTG na turnajích
+      link: https://play.google.com/store/apps/details?id=com.ulti.catcher
   worlds:
     - text: EUCF/WUCC/EBUCC historické umístění českých týmů
       link: https://docs.google.com/spreadsheets/d/1kQ2DhxgmGuzW7UrUpnuLRsIbLNziHvzBXCud_R2rHag
