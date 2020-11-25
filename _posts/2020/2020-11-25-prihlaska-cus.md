@@ -2,7 +2,7 @@
 layout: post
 category: 
 tags: cus
-title: ČALD podalo přihlášku do České unie sportu. Co to může přinést oddílům?
+title: ČALD podal přihlášku do České unie sportu. Co to může přinést oddílům?
 img: assets/img/posts/uzitecne/logo_cus.png
 author: Marek Dostál
 ---
