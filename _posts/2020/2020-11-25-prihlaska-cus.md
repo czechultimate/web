@@ -11,7 +11,7 @@ author: Marek Dostál
 
 Pro jednodušší splnění podmínek pro vstup jsme se rozhodli podat přihlášku za všechny sporty s létajícím talířem. Se vstupem souhlasili všichni tři členové –⁠ ČAU, ČADG (discgolf) i ČFFD (freestyle). O přijetí se bude rozhodovat na valné hromadě ČUS, která proběhne příští rok.
 
-Asociaci to umožní v budoucnu spolupracovat s ČUS na dlouhodobých projektech, zjednodušit výuku trenérské licence druhé třídy a konzultovat změny v legislativě a účetnictví. Další výhody najdete přímo na stránkách ČUS nebo [zde](/assets/files/sluzby_cus_centrala.pdf) a [zde](/assets/files/sluzby_scs_pro_svazy_a_kluby.pdf). Přijetí pro nás znamená především otevření dveří k vrcholovému sportu, které se nám bude v budoucnu hodit. Za členství v ČUS se nic neplatí.
+Asociaci to umožní v budoucnu spolupracovat s ČUS na dlouhodobých projektech, zjednodušit výuku trenérské licence druhé třídy a konzultovat změny v legislativě a účetnictví. Další výhody najdete přímo na stránkách ČUS nebo [zde](/assets/files/sluzby_cus_centrala.pdf) a [zde](/assets/files/sluzby_scs_pro_svazy_a_kluby.pdf). Přijetí pro nás znamená především otevření dveří k vrcholovému sportu, které se nám bude v budoucnu hodit. Za členství asociace v ČUS se nic neplatí.
 
 # Oddíly mohou vstupovat už nyní
 
