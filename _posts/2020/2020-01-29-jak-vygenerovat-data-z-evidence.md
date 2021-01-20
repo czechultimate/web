@@ -15,7 +15,9 @@ Zde najdete návod, jak získat csv soubor s údaji o hráčích vašeho týmu p
 
 3. Otevřete si v počítači poznámkový blok (notepad). V něm otevřete toto csv, dejte Uložit jako a pak dole vyberte kódování ANSI. "Uložit jako typ" překlikněte na Všechny soubory a do názvu přidejte koncovku .csv. Do dat pokud možno zasahujte co nejméně. Pokud objevíte nějakou chybu, opravte ji přímo v evidenci a csv stáhněte znovu. Rozhodně neměňte a nemažte sloupečky; rejstřík přijímá jen přesně daný formát. Po překódování se vám csv bude zobrazovat v plné parádě se správnou diakritikou.
 
-4. Přihlaste se na [rejstriksportu.cz](https://rejstriksportu.cz), jděte na Zapsat údaje a pak Přidat údaje o sportovcích a trenérech. Dál je postup asi jasný.
+4. Další návody najdete na [webu Národní sportovní agentury](https://agenturasport.cz/rejstrik), například video, jak v Excelu naformátovat rodná čísla, která začínají nulou.
+
+5. Přihlaste se na [rejstriksportu.cz](https://rejstriksportu.cz), jděte na Zapsat údaje a pak Přidat údaje o sportovcích a trenérech. Dál je postup asi jasný.
 
 
 Pokud byste potřebovali poradit nebo získat data zpětně za minulou sezónu, tak mi napište.
