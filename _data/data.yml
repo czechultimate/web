@@ -14,21 +14,16 @@ sin-slavy:
 
 asociace:
   vr:
+    - name: "Marek Dostál"
+      img: assets/img/vr/marek_dostal.jpg
+      subtitle: Předseda VR a IT
+      description:
+  
     - name: "Michaela Čakrtová"
       img: assets/img/vr/misa_cakrtova.jpg
-      subtitle: "Předseda VR"
+      subtitle: "Finance"
       description:
-        -
-    - name: "Pavel Urban"
-      img: assets/img/vr/pavel_urban.jpg
-      subtitle: "Ekonom"
-      description:
-        -
-    - name: "Kateřina Langová"
-      img: assets/img/vr/kata_langova.jpg
-      subtitle: "Koordinátor reprezentací"
-      description:
-        -
+
     - name: "Tomáš Toušek"
       img: assets/img/vr/tomas_tousek.jpg
       subtitle: "Rozvoj & vzdělávání"
@@ -36,39 +31,47 @@ asociace:
         -
     - name: Matěj Štětka
       img: assets/img/vr/matej_stetka.jpg
-      subtitle: Junioři, PR, propagace & média
+      subtitle: Junioři
       description:
         -
     - name: "Tadeáš Grym"
       img: assets/img/vr/tadeas_grym.jpg
-      subtitle: Junioři, PR, propagace & média
+      subtitle: Komunikace a PR
       description:
-        -
-    - name: "Marek Dostál"
-      img: assets/img/vr/marek_dostal.jpg
-      subtitle: IT, procesy & komunikace
-      description:
-    - name: "Jan Novák"
-      img: assets/img/vr/jan_novak.jpg
-      subtitle: IT & STK
-    - name: "Malvína Voclová"
-      img: assets/img/vr/maja_voclova.jpg
-      subtitle: STK
-      description: ""
+
     - name: "Václav Pachta"
       img: assets/img/vr/vaclav_pachta.jpg
-      subtitle: STK
+      subtitle: Soutežní komise
       description: ""
+
+    - name: "Jaromír Jáchym"
+      img: assets/img/vr/jaromir_jachym.jpg
+      subtitle: Soutěžní komise
+      description: ""
+
+    # - name: "Pavel Urban"
+    #   img: assets/img/vr/pavel_urban.jpg
+    #   subtitle: "Ekonom"
+    #   description: ""
+    # - name: "Kateřina Langová"
+    #   img: assets/img/vr/kata_langova.jpg
+    #   subtitle: "Koordinátor reprezentací"
+    #   description: ""
+    # - name: "Jan Novák"
+    #   img: assets/img/vr/jan_novak.jpg
+    #   subtitle: IT & STK
+    # - name: "Malvína Voclová"
+    #   img: assets/img/vr/maja_voclova.jpg
+    #   subtitle: STK
+    #   description: ""
+    
   kk:
-    - name: "František Fencl"
-      subtitle: "Předseda KK"
-      email: frantisek.fencl
     - name: "Sarah Tošnerová"
       subtitle: "Člen KK"
-      email: sarah.tosnerova
     - name: "Jan Ondráček"
       subtitle: "Člen KK"
-      email: jan.ondracek
+    - name: "Jan Hanousek"
+      subtitle: "Člen KK"
   jobs:
     - name: Zástupci v regionu pro Evropskou ligu (Míša Čakrtová)
       description: Zastupují a hlasují za ČR v regionu střední a východní Evropy. Předávají informace asociaci.

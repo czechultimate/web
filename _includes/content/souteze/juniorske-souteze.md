@@ -8,12 +8,13 @@ Další soutěží určenou pro mladší ročníky je projekt Středoškolská l
 
 # Juniorští mistři republiky
 
-| Rok  | OPEN          | WOMEN            | MIXED (INDOOR)    |
-| ---- | ------------- | ---------------- | ----------------- |
-| 2019 | Left Overs    | Left Overs       | Left Overs        |
-| 2018 | Východní blok | Left Overs       | Východní blok     |
-| 2017 | 3SB           | Terrible Monkeys | Kulatá šachovnice |
-| 2016 | nepořádalo se | nepořádalo se    | Kulatá Šachovnice |
-| 2015 | nepořádalo se | nepořádalo se    | 3SB               |
-| 2014 | nepořádalo se | nepořádalo se    | Kulatá Šachovnice |
-| 2013 | nepořádalo se | nepořádalo se    | Kulatá Šachovnice |
+| Rok  | OPEN           | WOMEN            | MIXED (INDOOR)    |
+| ---- | -------------- | ---------------- | ----------------- |
+| 2020 | Rainbow Banana | Chlupatá žába    | *zrušeno*         |
+| 2019 | Left Overs     | Left Overs       | Left Overs        |
+| 2018 | Východní blok  | Left Overs       | Východní blok     |
+| 2017 | 3SB            | Terrible Monkeys | Kulatá šachovnice |
+| 2016 | nepořádalo se  | nepořádalo se    | Kulatá Šachovnice |
+| 2015 | nepořádalo se  | nepořádalo se    | 3SB               |
+| 2014 | nepořádalo se  | nepořádalo se    | Kulatá Šachovnice |
+| 2013 | nepořádalo se  | nepořádalo se    | Kulatá Šachovnice |

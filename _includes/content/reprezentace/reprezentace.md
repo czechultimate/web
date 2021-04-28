@@ -2,7 +2,7 @@
 
 Od roku 2021 se nově bude pořádát i mistrovství Evropy v hale.
 
-# Vize 2020
+<!-- # Vize 2020
 
 ČAU vstoupila do let 2017-2020 s [vizí](https://cald.cz/czech-ultimate-2020), která nastavuje priority celé asociace směrem ke kategoriím open & women. Dalšími úkoly bylo stabilizovat trenérské týmy a pracovat i během sezón, kdy se žádné reprezentační akce nekonají.
 
@@ -24,4 +24,4 @@ Reprezentaci má ve výkonné radě na starosti Kateřina Langová. Kontakty na&
 ## Mixed
 
 **Trenéři:** Lukáš Maňák (Maník)  
-**Kontakt:** [https://mixed.tymy.cz](https://women.tymy.cz/)
+**Kontakt:** [https://mixed.tymy.cz](https://women.tymy.cz/) -->
