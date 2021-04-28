@@ -142,3 +142,9 @@ gulp build
 ```bash
 npm update
 ```
+
+or force update
+
+```
+npm install <packagename>@latest
+```
