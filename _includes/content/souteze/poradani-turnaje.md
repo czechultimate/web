@@ -15,7 +15,7 @@ Medaile pro první tři místa zajišťuje výkonná rada. Jsou k vyzvednutí v 
 ## Turnajová komise 
 Turnajová komise se skládá ze dvou zástupců pořadatele a jednoho zástupce jmenovaného výkonnou radou. Turnajová komise má pravomoc kontrolovat požití alkoholu nezletilými a ve spolupráci s STK řeší na místě případné problémy (STK nemusí být vždy přítomná, turnajová komise by měla být vždy) ohledně soupisek, zápasů, způsobilosti hráčů. 
 ## Propagace, média 
-Média má ve výkonné radě na starosti Kateřina Langová. Je vhodné každý turnaj využít alespoň k lokální propagaci; spojte se s ní a domluvte se, jaké jsou možnosti a kdo koho a jak osloví. Pomoci by vám také mohla minimetodika Jak na média a propagaci. 
+Média má ve výkonné radě na starosti Tadeáš Grym. Je vhodné každý turnaj využít alespoň k lokální propagaci; spojte se s ní a domluvte se, jaké jsou možnosti a kdo koho a jak osloví. Pomoci by vám také mohla minimetodika Jak na média a propagaci.
 ## Ubytování a stravování 
 Organizátor by měl na turnaji zajistit snídaně na všechny hrací dny výživově vhodné pro sportovní výkon. Zvykem je nabídnout hráčům i objednání večeří - žádoucí je to hlavně v menších sídlech, kde jsou možnosti stravování omezené. Hráči by měli mít možnost si snídani či večeři neobjednat. Organizátor zajišťuje alespoň základní nocleh pro hráče v blízkosti hřišť (stan/tělocvična). 
 ## Zdravotní zajištění a fyzioterapie 

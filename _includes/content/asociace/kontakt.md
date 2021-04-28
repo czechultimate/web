@@ -1,13 +1,14 @@
 [info@czechultimate.cz](mailto:info@czechultimate.cz)
 
 Výkonná rada: [vr@czechultimate.cz](mailto:vr@czechultimate.cz)  
+Reprezentace: [reprezentace@czechultimate.cz](mailto:reprezentace@czechultimate.cz)
 Členové VR: jmeno.prijmeni{{ site.data.data.email-domena }}
 
 ## Kontakt pro média
 
-Kateřina Langová  
-775 086 824  
-[katerina.langova@czechultimate.cz](mailto:katerina.langova@czechultimate.cz)
+Tadeáš Grym  
+<!-- 731 467 606   -->
+[tadeas.grym@czechultimate.cz](mailto:tadeas.grym@czechultimate.cz)
 
 
 ## Fakturační i poštovní adresa
