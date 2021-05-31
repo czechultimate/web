@@ -42,7 +42,7 @@ Bez vás se ale letošní sezóna nemůže uskutečnit. Pokud můžete organizov
 - MČR mixed 1. liga (16 týmů) - 2 fotbalová hřiště (14.-15.8.)
 - finále mixed 2. liga - 1 fotbalové hřiště (14.-15.8.)*
 - kvalifikace women - 1 fotbalové hřiště (28.-29.8.)
-- kvalifikace na HMČR juniorů (západ) - 1 hala (27.-28.12.)
+- kvalifikace na HMČR juniorů (západ) - 1 hala (27.-28.11.)
 - 3\. liga mix - 1 hala (8.-9.1.2022) 
 - HMČR juniorů - 1 hala (22.-23.1.2022)
 - kvalifikace o 1. ligu women nebo kvalifikace o 2. ligu open - 1 hala (5.-6.2.2022)
