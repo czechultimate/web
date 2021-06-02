@@ -35,7 +35,7 @@ Nakonec je však třeba pamatovat na to, že pokud se situace výrazně zhorší
 
 # Hledáme organizátory
 
-Bez vás se ale letošní sezóna nemůže uskutečnit. Pokud můžete organizovat kterýkoliv turnaj, prosím neváhejte a ozvěte se na [sk@czechultimate.cz](mailto:@sk@czechultimate.cz). Aktuálně hledáme organizátory pro:
+Bez vás se ale letošní sezóna nemůže uskutečnit. Pokud můžete organizovat kterýkoliv turnaj, prosím neváhejte a ozvěte se na [sk@czechultimate.cz](mailto:sk@czechultimate.cz). Aktuálně hledáme organizátory pro:
 
 - plážové MČR open/women - 1 hřiště (17.-18.7.)
 - regionální mixová kvalifikace východ - 2 fotbalová hřiště (31.7.-1.8.)

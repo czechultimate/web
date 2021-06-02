@@ -7,7 +7,7 @@ Reprezentace: [reprezentace@czechultimate.cz](mailto:reprezentace@czechultimate.
 ## Kontakt pro média
 
 Tadeáš Grym  
-<!-- 731 467 606   -->
+731 467 606  
 [tadeas.grym@czechultimate.cz](mailto:tadeas.grym@czechultimate.cz)
 
 
