@@ -25,7 +25,7 @@ Výše odměny je závislá na počtu dnů, které bude koordinátor k dispozici
 
 # Chci tam!
 
-Nabízí se i varianta, že se zúčastníme pouze části festivalu, takže neváhejte psát, pokud máte zájem o podobnou výzvu a už teď víte, že nebudete moct po celou dobu pořádání. **Každopádně prosíme o co nejrychlejší reakci (nejpozději do 11. června).**
+Nabízí se i varianta, že se zúčastníme pouze části festivalu, takže neváhejte psát, pokud máte zájem o podobnou výzvu a už teď víte, že nebudete moct po celou dobu pořádání. **Každopádně prosíme o co nejrychlejší reakci (nejpozději do 15. června) na email [vr@czechultimate.cz](mailto:vr@czechultimate.cz).**
 
 # A proč vlastně propagovat ultimate na podobných akcích?
 
