@@ -9,8 +9,6 @@ author: Marek Dostál
 
 **Olympijský festival se uskuteční mezi 23. červencem a 8. srpnem v Praze ve sportovním centru Olymp (ve Stromovce) a v Brně v areálu SKP Komety. Asociace hledá pro každou akci jednoho koordinátora. Odměna za práci je až 15 tisíc korun.**
 
-*Foto zdroj: [rentalpro.cz](http://www.rentalpro.cz/reference/spolecenske_akce/1859_3587-olympijsky-park-lipno_spolecenske-akce)*
-
 Po pozitivní zkušenosti s účastí ultimate na Olympijském festivalu na Lipně v roce 2016 se letos chceme opět účastnit. Je to pro nás velká příležitost, jak ukázat ultimate veřejnosti. Abychom byli schopni takovou akci zvládnout, potřebujeme koordinátora, který:
 - Bude komunikovat s ČOV a ČALD (kvůli koordinaci s dalšími sporty, zejména discgolfem).
 - Sežene dostatečný počet dobrovolníků (cca 5 až 10 osob na každý den).
@@ -32,3 +30,5 @@ Nabízí se i varianta, že se zúčastníme pouze části festivalu, takže nev
 # A proč vlastně propagovat ultimate na podobných akcích?
 
 Připomeňte si [článkem](http://www.frisbee.cz/clanky-lipno.-diky-za-nej.-proc-vlastne-propagovat.html) na frisbee.cz.
+
+*Foto zdroj: [rentalpro.cz](http://www.rentalpro.cz/reference/spolecenske_akce/1859_3587-olympijsky-park-lipno_spolecenske-akce)*
