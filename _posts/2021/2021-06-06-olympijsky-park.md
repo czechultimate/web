@@ -3,7 +3,7 @@ layout: post
 category: 
 tags:
 title: "Hledáme placené koordinátory pro Olympijské parky v Praze a Brně"
-img: assets/img/posts/2021/lipno2016.jpg
+img: assets/img/posts/2021/lipno2016.jpeg
 author: Marek Dostál
 ---
 
