@@ -11,7 +11,7 @@ author: Marek Dostál
 
 Po pozitivní zkušenosti s účastí ultimate na Olympijském festivalu na Lipně v roce 2016 se letos chceme opět účastnit. Je to pro nás velká příležitost, jak ukázat ultimate veřejnosti. Abychom byli schopni takovou akci zvládnout, potřebujeme koordinátora, který:
 - Bude komunikovat s ČOV a ČALD (kvůli koordinaci s dalšími sporty, zejména discgolfem).
-- Sežene dostatečný počet dobrovolníků (cca 5 až 10 osob na každý den).
+- **Sežene dostatečný počet dobrovolníků (cca 5 až 10 osob na každý den).**
   - Pro ostatní dobrovolníky, kteří se budou podílet přímo na místě, budeme mít k dispozici něco z Olympijské kolekce Alpine Pro (detaily ještě řešíme).
 - Bude koordinat celou akci na místě.
 
