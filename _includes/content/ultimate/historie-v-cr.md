@@ -2,6 +2,8 @@ První veřejnou prezentací her s létajícím talířem na území České rep
 
 Ve školním roce 1991 - 1992 zařadila katedra tělesné výchovy elektrotechnické fakulty ČVUT frisbee do nabídky vyučovacích předmětů pod vedením Mgr. Jana Filandra. Při vysokoškolském sportovním klubu ČVUT vzniká i první český oddíl frisbee, který se v lednu 1992 zúčastnil prvního turnaje v zahraničí. V témž roce se v Praze uskutečnil mezinárodní turnaj v ultimate za účasti dvanácti družstev.
 
+# Česká asociace frisbee
+
 V roce 1993 byla založena Česká asociace frisbee (ČAF), která začala pracovat na vzniku pravidelné národní soutěže. Nejlepších 15 hráčů odjelo sbírat první zkušenosti na Mistrovství Evropy do Holandského Arnhemu. V roce 1994 se reprezentační družstvo zúčastnilo MS v Anglii, kde na zasedání WFDF byla Česká asociace frisbee přijata za plnohodnotného člena. V tomto roce se též uskutečnila první národní soutěž v kategorii open, která určila i mistra České republiky v ultimate frisbee, jímž se stalo družstvo hráčů VSK ČVUT - FEL.
 
 V roce 1999 se uskutečnil i první ligový ročník v discgolfu a ČAF rozšířila svoji působnost na všechny sporty a disciplíny s létajícím talířem. V roce 1999 se následníkem ČAF stala Česká asociace létajícího disku (ČALD).
