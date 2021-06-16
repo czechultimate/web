@@ -11,11 +11,7 @@ author: Kateřina Langová
 
 # Pro koho je kurz určený?
 
-Kurz je pro všechny, kteří chtějí posunout své trenérské schopnosti na vyšší úroveň, získat formální vzdělání a kvalifikaci pro trénování týmů, reprezentace… a certifikaci usnadňující vyučovat frisbee kroužků na školách, možnost živit se trénováním.
-
-# Proč bych se měl-a hlásit?
-
-Pokud chceš umět učit frisbee, trénovat tým, reprezentační celek nebo i kroužek ve škole a předávat své znalosti a dovednosti správně a efektivně. Zároveň získáš formální vzdělání a certifikaci opravňující k získání živnostenského listu “trenér sportů s létajícím diskem”. Tzn. budeš mít možnost živit se trénováním frisbee.
+Kurz je pro všechny, kteří chtějí posunout své trenérské schopnosti na vyšší úroveň. Získáš formální vzdělání a kvalifikaci pro učení frisbee, vedení kroužků na školách, trénování týmů a schopnost předávat svě znalosti a dovednosti správně a efektivně. Zároveň získáš formální vzdělání a certifikaci opravňující k získání živnostenského listu “trenér sportů s létajícím diskem”. Tzn. budeš mít možnost živit se trénováním frisbee.
 
 # Jaká je časová náročnost?
 
