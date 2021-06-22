@@ -27,7 +27,7 @@ Na podzim se koná všeobecná část a na jaře specializace.
 
 **Podzim 2021**: 17.-19.9. a 24.-26.9. (pátek-neděle, termíny dané FTVS)
 
-**Jaro 2022**: 29.-30.1., 12.-13.3., 26.-27.3., 10.-11.4., 1.-2.5., 22.-23.5. (sobota-neděle, v termínovce jsou předběžně vyblokované víkendy, které se nebudou krýt s ligou)
+**Jaro 2022**: 29.-30.1., 12.-13.3., 26.-27.3., 9.-10.4., 30.4.-1.5., 21.-22.5. (sobota-neděle, v termínovce jsou předběžně vyblokované víkendy, které se nebudou krýt s ligou)
 
 Kurz se uskuteční **v Praze** (bude upřesněno). Je možné, že část všeobecné přípravy částečně proběhne online.
 
