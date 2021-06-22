@@ -2,7 +2,7 @@
 layout: post
 category: 
 tags:
-title: "Kurz trenérské licence II. třídy je na spadnutí. Registrace je možná pouze do 23. června!"
+title: "Kurz trenérské licence II. třídy je na spadnutí. Registrace je možná pouze do konce června!"
 img: assets/img/posts/2021/trenerske-licence.jpg
 author: Kateřina Langová
 ---
@@ -39,7 +39,7 @@ Kurz se uskuteční **v Praze** (bude upřesněno). Je možné, že část všeo
 
 Vyplněním formuláře [zde](https://docs.google.com/forms/d/e/1FAIpQLSfwU2A91PRb_4eRLJDyUfH0dEwKt7Ggl_BYEF0MRUTurisJvA/viewform).
 
-Přihlášení potvrďte zaplacením zálohy 3800,- **do 23. června 2021** na účet ČALDu: 2301396415/2010. Pokud potřebujete fakturu, napište na [michaela.cakrtova@cald.cz](mailto:michaela.cakrtova@cald.cz)
+Přihlášení potvrďte zaplacením zálohy 3800,- **do konce června 2021** na účet ČALDu: 2301396415/2010. Pokud potřebujete fakturu, napište na [michaela.cakrtova@cald.cz](mailto:michaela.cakrtova@cald.cz)
 
 **Dotazy směřujte na email [katerina.langova@czechultimate.cz](mailto:katerina.langova@czechultimate.cz)**
 
