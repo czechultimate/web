@@ -2,7 +2,7 @@
 layout: post
 category:
 tags: reprezentace
-title: "Reprezentace hledá trenéra pro ženy a mix"
+title: "Reprezentace hledá trenéry pro ženský a mixový tým"
 img: assets/img/posts/uzitecne/hra_12.jpg
 author: Radmila Hadlačová
 ---
@@ -22,7 +22,7 @@ author: Radmila Hadlačová
 - Reprezentativní vystupování
 
 # Co nabízíme
-- Práce s nejlepšími hráči/hráčkami, co naše země nabízí
+- Práci s nejlepšími hráči/hráčkami, co naše země nabízí
 - Placené společné stravování, ubytování, cesty a startovné na repre akcích
 - Placené to samé i pro (nehrajícího) pomocníka trenéra (příspěvek v případě hrajícího pomocníka)
 - Možnost výběru asistenta trenéra
