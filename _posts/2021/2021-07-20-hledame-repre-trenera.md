@@ -7,7 +7,7 @@ img: assets/img/posts/uzitecne/hra_12.jpg
 author: Radmila Hadlačová
 ---
 
-Hledáme trenéra/trenérku ženského/mixového reprezentačního týmu pro období do mistrovství Evropy na trávě konaného v roce 2023, respektive mistrovství světa konaného v roce 2024. Nejlépe již bez hráčské ambice v daném týmu.
+**Hledáme trenéra/trenérku ženského/mixového reprezentačního týmu pro období do mistrovství Evropy na trávě konaného v roce 2023, respektive mistrovství světa konaného v roce 2024. Nejlépe již bez hráčské ambice v daném týmu.**
 
 # Co požadujeme
 - Vysokou znalost pravidel a SOTG
