@@ -6,7 +6,7 @@ Ve zbytku venkovní sezóny je možné hrát ještě kategorii mixed. Podmínkou
 
 | Rok  | OPEN             | WOMEN         | MIXED         |
 | ---- | ---------------- | ------------- | ------------- |
-| 2021 | -                | -             | 3SB           |
+| 2021 | 3SB              | 3SB           | 3SB           |
 | 2020 | FUJ              | 3SB           | _zrušeno_     |
 | 2019 | 3SB              | 3SB           | 3SB           |
 | 2018 | Yellow Block     | Velká Morava  | Žlutá Zimnice |

@@ -34,4 +34,4 @@ Ve zkratce: Zajišťovat (a koordinovat) kompletní chod rozvoje v asociaci. Nap
 - Část úvazku (ne všechny projekty) nabízí flexibilní pracovní dobu 
 - Příležitost rozvíjet sport v ČR
 
-Pokud tě zajímá víc informací nebo se rovnou chceš přihlásit na tuhle super pozici, napiš mi na marek.dostal@czechultimate.cz. Pošli mi o sobě pár vět, proč bys chtěl dělat tuhle práci a jaké máš zkušenosti v oblasti sportu a rozvoje.
+Pokud tě zajímá víc informací nebo se rovnou chceš přihlásit na tuhle super pozici, napiš mi na [marek.dostal@czechultimate.cz](mailto:marek.dostal@czechultimate.cz). Pošli mi o sobě pár vět, proč bys chtěl dělat tuhle práci a jaké máš zkušenosti v oblasti sportu a rozvoje.

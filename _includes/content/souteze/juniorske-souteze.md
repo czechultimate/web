@@ -10,6 +10,7 @@ Další soutěží určenou pro mladší ročníky je projekt Středoškolská l
 
 | Rok  | OPEN           | WOMEN            | MIXED (INDOOR)    |
 | ---- | -------------- | ---------------- | ----------------- |
+| 2021 | 3SB            | Chupacabras      | -                 |
 | 2020 | Rainbow Banana | Chlupatá žába    | *zrušeno*         |
 | 2019 | Left Overs     | Left Overs       | Left Overs        |
 | 2018 | Východní blok  | Left Overs       | Východní blok     |

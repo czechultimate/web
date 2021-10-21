@@ -6,6 +6,8 @@ Z každé části postupuje podle daného klíče X týmů na regionální turna
 
 | Rok  | Místo konání   | Tým              | Kategorie | Výsledek     |
 | ---- | -------------- | ---------------- | --------- | ------------ |
+| 2021 | Bruggy, BEL    | 3SB              | WOMEN     | 7. místo     |
+| 2021 | Bruggy, BEL    | FUJ              | OPEN      | 5. místo     |
 | 2019 | Caorle, ITA    | FUJ              | OPEN      | 6. místo     |
 | 2017 | Frankfurt, DEU | Left Overs       | MIXED     | SOTG         |
 | 2015 | Wrocław, POL   | Yellow Block     | MIXED     | stříbro      |
@@ -13,4 +15,4 @@ Z každé části postupuje podle daného klíče X týmů na regionální turna
 | 2014 | Frankfurt, DEU | Prague Devils    | WOMEN     | SOTG         |
 | 2010 | Barcelona, ESP | Hot Beaches      | WOMEN     | zlato        |
 | 2009 | Londýn, GBR    | Hot Beaches      | WOMEN     | bronz + SOTG |
-| 2009 | Paříž, FRA     | Hot Beaches      | WOMEN     | SOTG         |
+| 2008 | Paříž, FRA     | Hot Beaches      | WOMEN     | SOTG         |
