@@ -4,10 +4,10 @@ category:
 tags: terminovka
 title: Venkovní liga se bude hrát v září a říjnu od příští sezóny
 img: assets/img/posts/uzitecne/hra_15.jpg
-author: MD a JJ
+author: Marek Dostál a Jaromír Jáchym
 ---
 
-**Na jaře juniorské mistrovství, fun turnaje a příprava repre. V létě velké turnaje a plážové mistrovství. V září finále open a EUCR. V říjnu mixové MČR. To je ve zkratce termínovka na další venkovní sezóny.**
+**Na jaře juniorské mistrovství, fun turnaje a příprava repre. V létě velké turnaje a plážové mistrovství. V září finále open a women a EUCF. V říjnu mixové MČR. To je ve zkratce termínovka na další venkovní sezóny.**
 
 Každý rok nás trápí termínovka. Čekáme na potvrzení velkých turnajů, na repre víkendy nebo na velké WFDF nebo EUF mistrovství. Ve všech časových oknech se pak snažíme uspořádat ligu a nakonec jsou stejně pro některé naplánované příliš pozdě. Typicky jde o další instituce, se kterými chceme spolupracovat. Řekli jsme dost a chystáme změnu, která bude dlouhodobá.
 
