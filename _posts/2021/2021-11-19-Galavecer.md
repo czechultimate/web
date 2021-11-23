@@ -3,7 +3,7 @@ layout: post
 category: blog
 tags: galavecer
 title: Ultimate si oblékne slavností šat aneb Galavečer 2021
-img: assets/img/posts/2021/galavecer2021x.jpg
+img: assets/img/posts/2021/2021-11-23 Galavecer_oprava.jpg
 author: Tereza Dvořáková
 ---
 
