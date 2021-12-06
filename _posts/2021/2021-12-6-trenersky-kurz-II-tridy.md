@@ -3,7 +3,7 @@ layout: post
 category: trénování
 tags: trénování, učitelé, trenéři
 title: Staňte se trenérem II. třídy!
-img: 
+img: assets/img/posts/uzitecne/trenovani_1.jpg
 author: Tadeáš Grym
 ---
 Otevíráme možnost přihlásit se do jarního kola trenérského kurzu II. třídy.
