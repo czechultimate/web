@@ -4,4 +4,4 @@ Sklad se nachází v areálu garáží mezi ulicemi Moskevská a Baškirská: <h
 
 Pokud máte zájem si něco půjčit, musíte se nejdřív zaregistrovat v aplikaci a poté postupujte dle instrukcí v ní. Pokud budete mít jakýkoliv dotaz, prosim pište na e-mail: [info@czechultimate.cz](mailto:info@czechultimate.cz).
 
-Jen přípomínáme, že dvě položky jsou zpoplatněny (pokud si je nepůjčujete na akci přímo pořádanou ČAU), a to reprobedny: 300kč/den nebo 500kč/víkend, a discgolfogvý koš: 50kč/den. Vše se řeší fakturou.
+Jen přípomínáme, že discgolfogvý koš je zpoplatněn (pokud si ho nepůjčujete na akci přímo pořádanou ČAU). Vše se řeší fakturou.

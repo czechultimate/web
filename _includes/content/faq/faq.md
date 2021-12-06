@@ -24,9 +24,8 @@ Oddíly registrované v ČAU dostanou před plánovanými turnaji pozvánku. Zá
 
 ## Půjčování věcí od ČAU zdarma a za úplatu
 
-Členové ČAU si mohou prostřednictvím online aplikace půjčovat vybavení v majetku ČAU. Základní věci potřebné k pořádání turnaje (kuželíky, barely na vodu, počítadla, várnice, lékárnička apod.) jsou zdarma, za reprobedny a discgolfové vybavení se platí:
+Členové ČAU si mohou prostřednictvím online aplikace půjčovat vybavení v majetku ČAU. Základní věci potřebné k pořádání turnaje (kuželíky, barely na vodu, počítadla, várnice, lékárnička apod.) jsou zdarma, za discgolfové vybavení se platí:
 
--   Reprobedny: 300 Kč za den, 500 Kč za víkend
 -   Discgolfový koš a disky: 50 Kč za den
 
 ## Jak se stát organizátorem ligového turnaje nebo mistrovství ČR v ultimate?

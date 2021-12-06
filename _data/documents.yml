@@ -25,6 +25,8 @@ pages:
       link: assets/files/pravidla_ultimate_2017.zip
     - text: Doplněk pravidel pro hru v hale, 2017
       link: assets/files/pravidla_haloveho_ultimate_2017.pdf
+    - text: Doplněk pravidel pro hru 4 na 4 (en)
+      link: assets/files/pravidla_4na4_en.pdf
   jak-zacit:
     - text: Oddílová přihláška do ČAU
       link: assets/files/oddilova_prihlaska_cau.pdf
@@ -51,4 +53,4 @@ pages:
       link: assets/files/fotky4.zip
   vr:
     - text: Zápisy ze schůzí (gdrive)
-      link:
+      link: https://bit.ly/31Du8KU
