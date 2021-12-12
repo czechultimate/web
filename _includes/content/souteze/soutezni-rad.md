@@ -1,1 +1,1 @@
-Soutěžní řád momentálně prochází revizí. Poslední verzi si můžete prohlédnou na stránkách České asociace létajícího disku [zde](https://www.cald.cz/soutezni-rad-ultimate).
+Provizorní soutěžní řád platný od halové sezóny 2021/2022 najdete [zde](https://bit.ly/3GSPJ1F).
