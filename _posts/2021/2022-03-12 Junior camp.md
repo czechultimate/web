@@ -14,9 +14,13 @@ přinášíme informace k prvnímu jarnímu juniorskému soustředění, které 
 **Pro koho**
 
 dívky: ročníky 2003 – 2011
+
 chlapci: ročníky 2003 – 2009
+
 Termín: 19.-20.3. 2022
+
 příjezd: možný v pátek od 19:00
+
 odjezd: v neděli po skončení prodloužené dopolední tréninkové jednotky (cca 14:00-15:00)
 
 **Lokalita**
