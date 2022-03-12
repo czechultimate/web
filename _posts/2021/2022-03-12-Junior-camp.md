@@ -2,7 +2,7 @@
 layout: post
 category: reprezentace
 tags: reprezentace, camp
-title: Pozvánka na jerní juniorské soustředění
+title: Pozvánka na jarní juniorské soustředění
 img: assets/img/posts/uzitecne/juniori_2.jpg
 author: Kateřina Kiliánová
 ---
