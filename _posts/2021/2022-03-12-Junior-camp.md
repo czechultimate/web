@@ -4,7 +4,7 @@ category: reprezentace
 tags: reprezentace, camp
 title: Pozvánka na jarní juniorské soustředění
 img: assets/img/posts/uzitecne/juniori_2.jpg
-author: Kateřina Kiliánová
+author: Kateřina Kilianová
 ---
 
 Milé juniorky a junioři, milí rodiče, další příznivci juniorského ultimate, 
