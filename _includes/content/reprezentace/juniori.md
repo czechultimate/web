@@ -6,9 +6,9 @@ Dlouhodobým cílem České juniorské reprezentace, která funguje od roku 2007
 
 V současné době je juniorská reprezentace dělena do dvou kategorií - dívky a chlapci. O každou kategorii se stará čtyřčlenný trenérsko-manažerský tým:
 
-**Women**: Jaromír Jáchym, Kateřina Kilianová, Jakub Jánoška, Veronika Šedová
+**Women**: Jaromír Jáchym, Kateřina Kilianová, Michal Marek, Anna Urbánková a Kateřina Kopecká
 
-**Open**: Matěj Štětka, Tomáš Toušek, Martin Řezník, Petr Hrych
+**Open**: Matěj Štětka, Martin Řezník a Tomáš Toušek
 
 Hlavním manažerem a pokladníkem juniorské reprezentace je Jan Ondráček.
 
@@ -19,10 +19,6 @@ Máte-li jakýkoliv dotaz, obraťte se na něj, případně oslovte rovnou tren�
 Celé trenérské vedení  
 [juniori@czechultimate.cz](mailto:juniori@czechultimate.cz)
 
-Jan Ondráček  
-[ondracekjan@gmail.com](mailto:ondracekjan@gmail.com)  
-[+420731477512](tel:%20+420731477512)  
-
 Kateřina Kilianová  
 [katerina.kilianova@gmail.com](mailto:katerina.kilianova@gmail.com)  
 [+420774130495](tel:%20+420774130495)  
@@ -30,3 +26,7 @@ Kateřina Kilianová
 Tomáš Toušek  
 [tomas.tousek@czechultimate.cz](mailto:tomas.tousek@czechultimate.cz)  
 [+420731612805](tel:%20+420731612805)
+
+Jan Ondráček  
+[ondracekjan@gmail.com](mailto:ondracekjan@gmail.com)  
+[+420731477512](tel:%20+420731477512)  
