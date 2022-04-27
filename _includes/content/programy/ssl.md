@@ -6,9 +6,9 @@ Především rozvoj a propagace ultimate frisbee na středních školách. Dále
 
 ## Jak se mohu přihlásit
 
-Přihlášení na jednotlivé kvalifikační turnaje probíhá formou vyplnění formuláře, který je zaslán mailem všem již dříve zúčastněným školám. Zároveň je vyvěšeno oznámení na webu kde najdete odkaz. Pro zařazení do mailingu vyplňte [formulář](https://forms.gle/ZuJAfVrN1nwpg1gL9)
+Přihlášení na jednotlivé kvalifikační turnaje probíhá formou vyplnění registračního formuláře, který je zaslán mailem všem již dříve zúčastněným školám. Zároveň je vyvěšeno oznámení na webu, kde najdete odkaz. Pro zařazení do mailingu vyplňte [formulář](https://forms.gle/ZuJAfVrN1nwpg1gL9).
 
-**Nemusíte nic platit**. Všechny náklady jsou hrazeny asociací (ČAU). Více informací ve FAQ dokumentu ke stažení.
+**Nemusíte nic platit**. Všechny náklady jsou hrazeny asociací (ČAU). Více informací ve FAQ.
 
 ## Jak celá liga funguje
 
