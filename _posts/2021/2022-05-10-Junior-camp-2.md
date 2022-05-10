@@ -8,6 +8,7 @@ author: Kateřina Kilianová
 ---
 
 Milé juniorky a junioři, milí rodiče, další příznivci juniorského ultimate,
+
 přinášíme informace k druhému jarnímu juniorskému soustředění, které proběhne během víkendu 14.-15.5. 2022 pro obě kategorie ve Slatiňanech.
 
 **Pro koho?**
