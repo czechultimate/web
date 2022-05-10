@@ -14,12 +14,15 @@ přinášíme informace k druhému jarnímu juniorskému soustředění, které 
 **Pro koho?**
 
 dívky: ročníky 2003 – 2011
+
 chlapci: ročníky 2003 – 2009
 
 **Kdy?** 
 
 14.-15.5. 2022
+
 příjezd: možný v pátek od 20:00
+
 odjezd: v neděli po skončení prodloužené dopolední tréninkové jednotky (cca 14:00-15:00)
 
 **Lokalita?**
@@ -49,4 +52,5 @@ spacák, karimatka, polštářek, pyžamo, věci na sprchování, ručník, kart
 **Trenéři**
 
 dívky: Kateřina Kilianová - 774 130 495, Jaromír Jáchym - 721 191 279
+
 chlapci: Matěj Štětka - 720 108 300, Martin Řezník - 602 343 299
