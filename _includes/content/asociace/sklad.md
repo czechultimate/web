@@ -2,6 +2,6 @@ Asociace svým členům nabízí k vypujčení různý materiál (disky, kužely
 
 Sklad se nachází v areálu garáží mezi ulicemi Moskevská a Baškirská: <https://mapy.cz/s/2KmU6>. Garáž číslo 22.
 
-Pokud máte zájem o výpůjčku, musíte se nejdřív zaregistrovat v aplikaci a vybrané položky zarezervovat. Následně je potřeba domluvit termín vyzvednutí (k odemknutí skladu je potřeba klíč). Pro jistotu, že budeme schopni zrealizovat vyzvednutí vypůjčených věcí, **pište alespoň týden dopředu** na e-mail: [sklad@czechultimate.cz](mailto:sklad@czechultimate.cz).
+Pokud máte zájem o výpůjčku, musíte se nejdřív zaregistrovat v aplikaci a vybrané položky zarezervovat. Následně je potřeba domluvit termín vyzvednutí (k odemknutí skladu je potřeba klíč). Pro jistotu, že budeme schopni zrealizovat vyzvednutí vypůjčených věcí, **pište alespoň týden dopředu** na e-mail: [info@czechultimate.cz](mailto:info@czechultimate.cz).
 
 Jen přípomínáme, že discgolfový koš je zpoplatněn (pokud si ho nepůjčujete na akci přímo pořádanou ČAU). Vše se řeší fakturou.
