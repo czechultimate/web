@@ -45,13 +45,14 @@ Označení hvězdičkou značí vítězství v kategorii Spirit of the Game.
 
 | Rok  | Akce | Místo                | OPEN  | WOMEN | MIXED |
 | ---- | ---- | -------------------- | ----- | ----- | ----- |
+| 2022 | MS   | Vratislav, POL       | 12/12 | 5/10  |       |
 | 2019 | ME   | Vratislav, POL       | 7/16  | 5/12  | 5/7   |
 | 2017 | ME   | Veenendaal, NLD      | 7/19  | 3/15  |       |
 | 2016 | MS   | Vratislav, POL       | 16/29 | 10/20 |       |
 | 2015 | ME   | Frankfurt, GER       | 10/16 | 4/13  |       |
 | 2014 | MS   | Lecco, ITA           | 13/23 |       |       |
 | 2013 | ME   | Kolín nad Rýnem, GER | 6/16  | 6/12  |       |
-| 2011 | ME   | Vratislav, POL       | 5/13  | 5*/8 |       |
+| 2011 | ME   | Vratislav, POL       | 5/13  | 5*/8  |       |
 | 2010 | MS   | Heilbronn, GER       | 16/18 |       |       |
 | 2009 | ME   | Vídeň, AUT           | 6/16  |       |       |
 | 2008 | ME   | Trnava, SVK          | 3/4   |       |       |
