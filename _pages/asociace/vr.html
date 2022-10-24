@@ -23,13 +23,38 @@ title: Výkonná rada a další pozice
 
             </div>
 
-            <h1>
-                Členové VR
-            </h1>
+            <h1>Členové VR</h1>
 
             <div class="ui three stackable cards">
 
                 {% for member in site.data.data.asociace.vr %}
+
+                <div class="ui card">
+                    <div class="image">
+                        <img style="margin: 0px;" src="{{ member.img | relative_url }}">
+                    </div>
+                    <div class="content" style="padding: 11px;">
+                        <div class="header">{{ member.name }}</div>
+                        <div class="meta">
+                            <span class="date">{{ member.subtitle }}</span>
+                        </div>
+                        <div class="description">
+                            {% for paragraph in member.description %}
+                            <p>{{ paragraph }}</p>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+
+                {% endfor %}
+
+            </div>
+
+            <h1>Spolupracovníci</h1>
+
+            <div class="ui three stackable cards">
+
+                {% for member in site.data.data.asociace.others %}
 
                 <div class="ui card">
                     <div class="image">

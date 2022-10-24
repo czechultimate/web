@@ -15,6 +15,12 @@ layout: homepage
             <i class="user icon"></i>
             {{ page.author }}
         </div>
+        {% if page.photo_author %}
+            <div class="item">
+                <i class="camera icon"></i>
+                {{ page.photo_author }}
+            </div>
+        {% endif %}
     </div>
 
     <img src="{{ page.img | relative_url }}" style="margin-bottom: 20px; margin-top: 10px;">
@@ -23,6 +29,9 @@ layout: homepage
 
     <p style="margin-top: 2.5em;">
         Autor: {{ page.author }}<br>
+        {% if page.photo_author %}
+            Foto: {{ page.photo_author }}<br>
+        {% endif %}
         Publikováno: {{ page.date | date: "%d. %m. %Y" }}
     </p>
 

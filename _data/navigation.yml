@@ -25,6 +25,8 @@ oddily:
       link: metodiky
     - name: Jak získat finance
       link: jak-ziskat-penize
+    - name: Úrazové pojištění
+      link: urazove-pojisteni
 souteze:
   name: "Soutěže"
   menu:
