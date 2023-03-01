@@ -28,38 +28,24 @@ asociace:
       img: assets/img/vr/tomas_tousek.jpg
       subtitle: "Rozvoj & vzdělávání"
       description:
-        -
-    - name: Matěj Štětka
-      img: assets/img/vr/matej_stetka.jpg
-      subtitle: Junioři a streaming
-      description:
-        -
-    - name: "Tadeáš Grym"
-      img: assets/img/vr/tadeas_grym.jpg
-      subtitle: Komunikace a PR
-      description:
-
-    - name: "Václav Pachta"
-      img: assets/img/vr/vaclav_pachta.jpg
-      subtitle: Soutežní komise
-      description: ""
 
     - name: "Jaromír Jáchym"
       img: assets/img/vr/jaromir_jachym.jpg
       subtitle: Soutěžní komise
       description: ""
+
+    - name: "Petr Kotěšovec"
+      img: assets/img/vr/petr_kotesovec.jpeg
+      subtitle: Komunikace, PR a rozvoj
+      description:
   kk:
-    - name: "Sarah Tošnerová"
+    - name: "Tereza Čermáková"
       subtitle: "Člen KK"
     - name: "Jan Ondráček"
       subtitle: "Člen KK"
     - name: "Jan Hanousek"
       subtitle: "Člen KK"
   others:
-    - name: "Petr Kotěšovec"
-      img: assets/img/vr/petr_kotesovec.jpeg
-      subtitle: Komunikace a PR & rozvoj
-      description:
     - name: "Tereza Dvořáková"
       img: assets/img/vr/tereza_dvorakova.jpeg
       subtitle: Interní komunikace, administrativa a finance
