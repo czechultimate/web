@@ -10,6 +10,7 @@ Další soutěží určenou pro mladší ročníky je projekt Středoškolská l
 
 | Rok  | OPEN           | WOMEN            | MIXED (INDOOR)    |
 | ---- | -------------- | ---------------- | ----------------- |
+| 2023 |        |     | Terrible Monkeys            |
 | 2022 | PeaceEgg       | Východní blok    | 3SB               |
 | 2021 | 3SB            | Chupacabras      | -                 |
 | 2020 | Rainbow Banana | Chlupatá žába    | *zrušeno*         |
