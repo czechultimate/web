@@ -23,8 +23,8 @@ Po skončení jarního kvalifikačního kola se uskuteční finále, kam je pozv
 | Ročník    | Počet škol | 1. místo                    | 2. místo                    | 3. místo                            |
 | --------- | ---------- | --------------------------- | --------------------------- | ----------------------------------- |
 | 2021/2022 | 16         |    Gymnázium Písek		      |       Gymnázium Špitálská Praha                      |    Biskupské Gymnázium České Budějovice           |
-| 2020/2021 | 0          |                             pro covid zrušeno                                |
-| 2019/2020 | 45         |                    pro         |              covid               |              zrušeno                       |
+| 2020/2021 | 0          |                    -    |              covid               |              -                       |
+| 2019/2020 | 45         |                    -    |              covid               |              -                       |
 | 2018/2019 | 48         | Biskupské gymnázium České Budějovice      | Gymnázium Písek             | Biskupské gymnázium Brno            |
 | 2017/2018 | 48         | Biskupské gymnázium České Budějovice      | Česko-anglické gymnázium České Budějovice | Gymnázium a SOŠ Jilemnice           |
 | 2016/2017 | 40         | Biskupské gymnázium České Budějovice      | Gymnázium a SOŠ Jilemnice   | Gymnázium Mozartova Pardubice       |
