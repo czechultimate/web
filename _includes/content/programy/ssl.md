@@ -30,8 +30,8 @@ Po skončení jarního kvalifikačního kola se uskuteční finále, kam je pozv
 | 2016/2017 | 40         | Biskupské gymnázium České Budějovice      | Gymnázium a SOŠ Jilemnice   | Gymnázium Mozartova Pardubice       |
 | 2015/2016 | 32         | Česko-anglické gymnázium České Budějovice | Biskupské gymnázium České Budějovice      | Gymnázium Špitálská Praha           |
 | 2014/2015 | 17         | Česko-anglické gymnázium České Budějovice | Jiráskovo gymnázium Náchod  | Gymnázium Jírovcova České Budějovice              |
-| 2013/2014 | 19         | Gymnázium nad Alejí Praha   | Česko-anglické gymnázium České Budějovice | Jiráskovo gymnázium Náchod          |
-| 2012/2013 | 29         | Gymnázium nad Alejí Praha   | Gymnázium Špitálská Praha   | Gymnázium B. Němcové Hradec Králové |
+| 2013/2014 | 19         | Gymnázium Nad Alejí Praha   | Česko-anglické gymnázium České Budějovice | Jiráskovo gymnázium Náchod          |
+| 2012/2013 | 29         | Gymnázium Nad Alejí Praha   | Gymnázium Špitálská Praha   | Gymnázium B. Němcové Hradec Králové |
 | 2011/2012 | 27         | Gymnázium Třeboň            | Jiráskovo gymnázium Náchod  | Gymnázium Špitálská Praha           |
-| 2010/2011 |   15       | Gymnázium Jírovcova České Budějovice   | Gymnázium nad Alejí Praha  |  Gymnázium Třeboň|
+| 2010/2011 |   15       | Gymnázium Jírovcova České Budějovice   | Gymnázium Nad Alejí Praha  |  Gymnázium Třeboň|
 | 2009/2010 |       9   |   Gymnázium Jírovcova České Budějovice          |Lepařovo gymnázium Jičín  |   Gymnázium Třeboň       |
