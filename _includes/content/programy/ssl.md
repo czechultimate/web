@@ -33,3 +33,5 @@ Po skončení jarního kvalifikačního kola se uskuteční finále, kam je pozv
 | 2013/2014 | 19         | Gymnázium nad Alejí Praha   | Česko-anglické gymnázium České Budějovice | Jiráskovo gymnázium Náchod          |
 | 2012/2013 | 29         | Gymnázium nad Alejí Praha   | Gymnázium Špitálská Praha   | Gymnázium B. Němcové Hradec Králové |
 | 2011/2012 | 27         | Gymnázium Třeboň            | Jiráskovo gymnázium Náchod  | Gymnázium Špitálská Praha           |
+| 2010/2011 |   15       | Gymnázium Jírovcova České Budějovice   | Gymnázium nad Alejí Praha  |  Gymnázium Třeboň|
+| 2009/2010 |       9   |   Gymnázium Jírovcova České Budějovice          |Lepařovo gymnázium Jičín  |   Gymnázium Třeboň       |
