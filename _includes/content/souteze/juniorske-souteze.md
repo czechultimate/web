@@ -12,12 +12,11 @@ Další soutěží určenou pro mladší ročníky je projekt Středoškolská l
 | ---- | -------------- | ---------------- | ----------------- |
 | 2023 |        |     | Terrible Monkeys            |
 | 2022 | PeaceEgg       | Východní blok    | 3SB               |
-| 2021 | 3SB            | Chupacabras      | -                 |
-| 2020 | Rainbow Banana | Chlupatá žába    | *zrušeno*         |
-| 2019 | Left Overs     | Left Overs       | Left Overs        |
-| 2018 | Východní blok  | Left Overs       | Východní blok     |
-| 2017 | 3SB            | Terrible Monkeys | Kulatá šachovnice |
-| 2016 | nepořádalo se  | nepořádalo se    | Kulatá Šachovnice |
-| 2015 | nepořádalo se  | nepořádalo se    | 3SB               |
+| 2021 | 3SB            | Chupacabras      | *zrušeno*                 |
+| 2020 | Rainbow Banana | Chlupatá žába    |  Left Overs         |
+| 2019 | Left Overs     | Left Overs       | Východní blok        |
+| 2018 | Východní blok  | Left Overs       |  Kulatá šachovnice   |
+| 2017 | 3SB            | Terrible Monkeys |  Kulatá Šachovnice|
+| 2016 | nepořádalo se  | nepořádalo se    | 3SB   |
+| 2015 | nepořádalo se  | nepořádalo se    |  Kulatá Šachovnice            |
 | 2014 | nepořádalo se  | nepořádalo se    | Kulatá Šachovnice |
-| 2013 | nepořádalo se  | nepořádalo se    | Kulatá Šachovnice |
