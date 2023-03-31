@@ -1,4 +1,4 @@
-I přesto, že plážové turnaje mají dlouho historii, klubové mistrovství ČR nebo Evropy se začaly pořádat až v&nbsp;posledních letech. ČAU pořádá národní mistrovství od&nbsp;roku 2017. To slouží jako kvalifikační turnaj na&nbsp;plážové mistrovství Evropy klubů (EBUCC), které se pořádá každé dva roky. I&nbsp;to je jedním z&nbsp;důvodů, proč národní místrovství nemusí být pořádáno každý rok, a je možné, že se tak v budoucích letech ještě někdy stane.
+I přesto, že plážové turnaje mají dlouho historii, klubové mistrovství ČR nebo Evropy se začaly pořádat až v&nbsp;posledních letech. ČAUF pořádá národní mistrovství od&nbsp;roku 2017. To slouží jako kvalifikační turnaj na&nbsp;plážové mistrovství Evropy klubů (EBUCC), které se pořádá každé dva roky. I&nbsp;to je jedním z&nbsp;důvodů, proč národní místrovství nemusí být pořádáno každý rok, a je možné, že se tak v budoucích letech ještě někdy stane.
 
 Vyjímkou mezi oficiálními akcemi jsou reprezentace, které na plážové mistrovství Evropy nebo světa jezdí již od roku 2008.
 

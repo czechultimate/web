@@ -1,6 +1,6 @@
 # Jednotlivci
 
-Pokud chcete začít hrát kolektivní sport ultimate frisbee, stačí napsat některému z oddílů (seznam [zde]({{ 'oddily' | relative_url }})) nebo přímo asociaci (info@czechultimate.cz) a my vám poradíme, k jakému týmu se přidat, případně jaké akce byste se mohli jako jednotlivci zúčastnit (víkendový training camp pro začátečníky, turnaj, kam se dá přihlásit i jednotlivě, a podobně).
+Pokud chcete začít hrát kolektivní sport ultimate frisbee, stačí napsat některému z oddílů (seznam [zde]({{ 'oddily' | relative_url }})) nebo přímo asociaci (info@frisbee.cz) a my vám poradíme, k jakému týmu se přidat, případně jaké akce byste se mohli jako jednotlivci zúčastnit (víkendový training camp pro začátečníky, turnaj, kam se dá přihlásit i jednotlivě, a podobně).
 
 # Skupiny
 
@@ -8,11 +8,11 @@ Chodíte si zahrát frisbee s kamarády a chtěli byste se posunout dál, pomě�
 
 ## Turnaje
 
-Po celý rok se hrají soutěžní i nesoutěžní turnaje, kam si můžete přijet zahrát. Od jara do podzimu se hraje venku na fotbalových hřištích, v zimě v tělocvičnách. Jejich termíny najdete v [termínovce](http://bit.ly/terminovka_ultimate). Nejlíp napište opět na info@czechultimate.cz a poradíme vám, která by pro vás byl pro začátek vhodný - některé jsou přímo zaměřené na nováčky, na některé se musíte kvalifikovat. Abyste mohli hrát oficiální soutěžní turnaje, musíte být registrováni v asociaci (viz níže), ale na spoustu se dá jen přihlásit a jet.
+Po celý rok se hrají soutěžní i nesoutěžní turnaje, kam si můžete přijet zahrát. Od jara do podzimu se hraje venku na fotbalových hřištích, v zimě v tělocvičnách. Jejich termíny najdete v [termínovce](http://bit.ly/terminovka_ultimate). Nejlíp napište opět na info@frisbee.cz a poradíme vám, která by pro vás byl pro začátek vhodný - některé jsou přímo zaměřené na nováčky, na některé se musíte kvalifikovat. Abyste mohli hrát oficiální soutěžní turnaje, musíte být registrováni v asociaci (viz níže), ale na spoustu se dá jen přihlásit a jet.
 
 ## Členství v asociaci
 
-Pokud se budete chtít přihlasit do asociace, vyplňte a podepište Oddílovou přihlášku ČAU (v souborech ke stažení v pravém sloupci) a pošlete na vr@czechultimate.cz nebo předejte osobně. Přidáme vás do emailové konference, kudy proudí všechny klíčové informace, a pošleme přístupy do Evidence členů ČAU, kde si založíte oddílovou soupisku a budete vyplňovat soupisky na turnaje. Členové asociace platí roční členský příspěvek ve výši 400 Kč a turnajové poplatky na oficiálních ČAU turnajích (turnaje ligových soutěží) ve výši 30 Kč za turnaj. Roční členské příspěvky se platí zpětně po odehrání dané ligové soutěže. Nové oddíly mohou požádat Výkonnou radu ČAU o odpuštění ročního členského příspěvku ve svém prvním roce působení v asociaci. Členství v asociaci se řídí dle stanov ČAU (též najdete v souborech ke stažení). Pokud budete mít jakýkoliv dotaz ohledně členství v ČAU, prosím pište na adresu info@czechultimate.cz.
+Pokud se budete chtít přihlasit do asociace, vyplňte a podepište Oddílovou přihlášku ČAUF (v souborech ke stažení v pravém sloupci) a pošlete na vr@frisbee.cz nebo předejte osobně. Přidáme vás do emailové konference, kudy proudí všechny klíčové informace, a pošleme přístupy do Evidence členů ČAUF, kde si založíte oddílovou soupisku a budete vyplňovat soupisky na turnaje. Členové asociace platí roční členský příspěvek ve výši 400 Kč a turnajové poplatky na oficiálních ČAUF turnajích (turnaje ligových soutěží) ve výši 30 Kč za turnaj. Roční členské příspěvky se platí zpětně po odehrání dané ligové soutěže. Nové oddíly mohou požádat Výkonnou radu ČAUF o odpuštění ročního členského příspěvku ve svém prvním roce působení v asociaci. Členství v asociaci se řídí dle stanov ČAUF (též najdete v souborech ke stažení). Pokud budete mít jakýkoliv dotaz ohledně členství v ČAUF, prosím pište na adresu info@frisbee.cz.
 
 ## Pravidla
 
@@ -24,7 +24,7 @@ Pokud se chcete ve hře zlepšovat a ocenili byste pomoc někoho zkušenějšíh
 
 ## Disky
 
-Oficiálním hracím náčiním pro mezinárodní turnaje je 175g disk s průměrem 27 cm (pokud se ovšem soupeřící týmy shodnou, mohou se domluvit na jakémkoliv jiném disku). Disky seženete například na [Ultimo.cz](http://ultimo.cz) nebo je lze koupit u výkonné rady ČAU.
+Oficiálním hracím náčiním pro mezinárodní turnaje je 175g disk s průměrem 27 cm (pokud se ovšem soupeřící týmy shodnou, mohou se domluvit na jakémkoliv jiném disku). Disky seženete například na [Ultimo.cz](http://ultimo.cz) nebo je lze koupit u výkonné rady ČAUF.
 
 ## Další výbava
 

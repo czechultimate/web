@@ -6,6 +6,6 @@ Pokud máte zájem pomoct propagovat tento sport a jeho myšlenku, na našich st
  
 ## Kontakt pro média
 
-Tadeáš Grym  
-731 467 606  
-[tadeas.grym@czechultimate.cz](mailto:tadeas.grym@czechultimate.cz)
+Petr Kotěšovec  
+604 344 735  
+[petr.kotesovec@frisbee.cz](mailto:petr.kotesovec@frisbee.cz)

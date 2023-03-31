@@ -1,19 +1,19 @@
-[info@czechultimate.cz](mailto:info@czechultimate.cz)
+[info@frisbee.cz](mailto:info@frisbee.cz)
 
-Výkonná rada: [vr@czechultimate.cz](mailto:vr@czechultimate.cz)  
-Reprezentace: [reprezentace@czechultimate.cz](mailto:reprezentace@czechultimate.cz)
+Výkonná rada: [vr@frisbee.cz](mailto:vr@frisbee.cz)  
+Reprezentace: [reprezentace@frisbee.cz](mailto:reprezentace@frisbee.cz)
 Členové VR: jmeno.prijmeni{{ site.data.data.email-domena }}
 
 ## Kontakt pro média
 
-Tadeáš Grym  
-731 467 606  
-[tadeas.grym@czechultimate.cz](mailto:tadeas.grym@czechultimate.cz)
+Petr Kotěšovec  
+604 344 735  
+[petr.kotesovec@frisbee.cz](mailto:petr.kotesovec@frisbee.cz)
 
 
 ## Fakturační i poštovní adresa
 
-Česká asociace ultimate, z.s.  
+Česká asociace ultimate frisbee, z.s.  
 Jugoslávských partyzánů 952/30  
 Praha 6, 160 00
 

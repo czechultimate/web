@@ -17,14 +17,14 @@ Máte-li jakýkoliv dotaz, obraťte se na něj, případně oslovte rovnou tren�
 ## Kontakt
 
 Celé trenérské vedení  
-[juniori@czechultimate.cz](mailto:juniori@czechultimate.cz)
+[juniori@frisbee.cz](mailto:juniori@frisbee.cz)
 
 Kateřina Kilianová  
 [katerina.kilianova@gmail.com](mailto:katerina.kilianova@gmail.com)  
 [+420774130495](tel:%20+420774130495)  
 
 Tomáš Toušek  
-[tomas.tousek@czechultimate.cz](mailto:tomas.tousek@czechultimate.cz)  
+[tomas.tousek@frisbee.cz](mailto:tomas.tousek@frisbee.cz)  
 [+420731612805](tel:%20+420731612805)
 
 Jan Ondráček  

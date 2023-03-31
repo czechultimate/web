@@ -7,7 +7,7 @@ Patrně nejzajímavějším získaným benefitem, se kterým bychom Vás rádi s
 V případě, že jste na akci asociace přišli k úrazu, stačí po dokončení léčby vyplnit formulář Oznámení škodní události z úrazového pojištění. Podmínkou uznání je minimální délka léčení úrazu 21 dní. 
 
 1. Vyplníte formulář - jaký úraz, kdy se stal, kde, jak a proč. 
-2. Vyplněný formulář pošlete na [info@czechultimate.cz](mailto:info@czechultimate.cz) a my vám ho za asociaci potvrdíme (nutná podmínka pro uplatnění pojištění). 
+2. Vyplněný formulář pošlete na [info@frisbee.cz](mailto:info@frisbee.cz) a my vám ho za asociaci potvrdíme (nutná podmínka pro uplatnění pojištění). 
 3. K formuláři doložíte kopii zdravotní dokumentace týkající se konkrétního úrazu. 
 4. Komplet odešlete emailem na adresu: [oznameni.udalosti@pvzp.cz](mailto:oznameni.udalosti@pvzp.cz) nebo poštou na adresu: Pojišťovna VZP, a.s., Odbor likvidace pojistných událostí, Ke Štvanici 656/3, 186 00 Praha 8 – Karlín
 

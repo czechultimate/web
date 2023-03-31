@@ -12,8 +12,8 @@ Hledáme partnery pro dlouhodobou i krátkodobou spolupráci na regionální i c
 - Být partnerem Středoškolské ligy
 - Reklama na dresech reprezentace
 - Webová prezentace na stránkách asociace www.czechultimate.cz a novinovém portálu o českém frisbee www.frisbee.cz
-- Outdoorové bannery na turnajích ČAU
-- Balíčky pro hráče na turnajích ČAU
-- Logo na propagačních materiálech ČAU
+- Outdoorové bannery na turnajích ČAUF
+- Balíčky pro hráče na turnajích ČAUF
+- Logo na propagačních materiálech ČAUF
 - Být partnerem mistrovství republiky (název partnera v názvu mistrovství apod.)
 - Být partnerem asociace (vše výše zahrnuto)

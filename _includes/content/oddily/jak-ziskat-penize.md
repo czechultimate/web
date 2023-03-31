@@ -1,4 +1,4 @@
-Pokusili jsme se dát dohromady pár tipů, kde je možné žádat o dotace a granty. Budeme rádi za zpětnou vazbu, vlastní zkušenosti a rady pro ostatní týmy. Pište na michaela.cakrtova@czechultimate.cz.
+Pokusili jsme se dát dohromady pár tipů, kde je možné žádat o dotace a granty. Budeme rádi za zpětnou vazbu, vlastní zkušenosti a rady pro ostatní týmy. Pište na michaela.cakrtova@frisbee.cz.
 
 K tomu, abyste dosáhli na většinu dotací, potřebujete mít právní osobnost, tedy stát se spolkem. Jak na to? Na internetu najdete spoustu návodů a vzorových stanov, třeba [zde](https://www.davidzahumensky.cz/2014/04/14/jak-zalozit-spolek-v-roce-2014/). Znamená to samozřejmě trochu práce navíc, bude potřeba vést účetnictví, podávat daňové přiznání a mít perfektní pořádek v penězích, ale je to zkušenost, která se vám může hodit v budoucnu.
 
@@ -30,7 +30,7 @@ Název zní to trochu strašidelně, ale [Místní akční skupiny](https://www.
 # Dotace EU
 Momentálně nevíme o žádném použitelném grantu.
 
-# Minigranty ČAU
+# Minigranty ČAUF
 Grantový program České asociace ultimate určený na podporu projektů zaměřených na rozvoj a propagaci ultimate frisbee v ČR v jednotlivých regionech a městech směrem k širší veřejnosti. Podrobně popsáno [zde](http://czechultimate.cz/minigranty).
 
 # Další

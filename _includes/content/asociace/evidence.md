@@ -4,12 +4,12 @@ Databáze členů České asociace utimate je přístupná [zde](//evidence.czec
 
 ## Pro týmy
 
-- Soupisky se odevzdávají pouze elektronicky vyplněním v Evidenci členů. Pokud neznáte přístup svého oddílu do Evidence členů (http://evidence.czechultimate.cz), požádejte o něj na info@czechultimate.cz.
+- Soupisky se odevzdávají pouze elektronicky vyplněním v Evidenci členů. Pokud neznáte přístup svého oddílu do Evidence členů (http://evidence.czechultimate.cz), požádejte o něj na info@frisbee.cz.
 - Do zápasu mohou nastoupit pouze hráči, kteří jsou uvedeni v Týmové soupisce. Opačný postup vede ke kontumaci utkání ve prospěch soupeře.
 - Soupisku může upravovat pouze správce týmu, ne organizátor turnaje. Termín pro odevzdání soupisky je den před turnajem do 18:00.
 - Neuzamčená soupiska po konci turnaje značí nepodepsání soupisky a má za důsledek diskvalifikaci daného týmu. Digitální uzamčení nahrazuje dosavadní podpis.
 - Zodpovědnost za soupisku označenou jako Uzamčenou náleží na každém týmu, nikoliv pořadateli turnaje.
-- Jmenné soupisky lze rozkliknout - zkontrolovat tak případně soupeře, zda má na soupisce všechny hráče. Pokud na soupisce nejsou uvedení všichni hráči, lze informovat pořadatele turnaje či turnajovou komisi ČAU a požádat o kontumaci utkání.
+- Jmenné soupisky lze rozkliknout - zkontrolovat tak případně soupeře, zda má na soupisce všechny hráče. Pokud na soupisce nejsou uvedení všichni hráči, lze informovat pořadatele turnaje či turnajovou komisi ČAUF a požádat o kontumaci utkání.
 - Všichni hráči, kteří nastoupí byť do jediného zápasu na soutěžním turnaji, se stávají členy České asociace ultimate a po skončení sezóny za ně tým bude platit roční členský poplatek.
 
 ## Pro pořadatele
