@@ -12,7 +12,11 @@ Po celý rok se hrají soutěžní i nesoutěžní turnaje, kam si můžete při
 
 ## Členství v asociaci
 
+<<<<<<< HEAD
 Pokud se budete chtít přihlasit do asociace, vyplňte a podepište Oddílovou přihlášku ČAUF (v souborech ke stažení v pravém sloupci) a pošlete na vr@frisbee.cz nebo předejte osobně. Přidáme vás do emailové konference, kudy proudí všechny klíčové informace, a pošleme přístupy do Evidence členů ČAUF, kde si založíte oddílovou soupisku a budete vyplňovat soupisky na turnaje. Členové asociace platí roční členský příspěvek ve výši 400 Kč a turnajové poplatky na oficiálních ČAUF turnajích (turnaje ligových soutěží) ve výši 30 Kč za turnaj. Roční členské příspěvky se platí zpětně po odehrání dané ligové soutěže. Nové oddíly mohou požádat Výkonnou radu ČAUF o odpuštění ročního členského příspěvku ve svém prvním roce působení v asociaci. Členství v asociaci se řídí dle stanov ČAUF (též najdete v souborech ke stažení). Pokud budete mít jakýkoliv dotaz ohledně členství v ČAUF, prosím pište na adresu info@frisbee.cz.
+=======
+Pokud se budete chtít přihlasit do asociace, vyplňte a podepište Oddílovou přihlášku ČAU (v souborech ke stažení v pravém sloupci) a pošlete na vr@czechultimate.cz nebo předejte osobně. Přidáme vás do emailové konference, kudy proudí všechny klíčové informace, a pošleme přístupy do Evidence členů ČAU, kde si založíte oddílovou soupisku a budete vyplňovat soupisky na turnaje. Členové asociace platí roční členský příspěvek ve výši 600 Kč a turnajové poplatky na oficiálních ČAU turnajích (turnaje ligových soutěží) ve výši 60 Kč za turnaj. Roční členské příspěvky se platí zpětně po odehrání dané ligové soutěže. Nové oddíly mohou požádat Výkonnou radu ČAU o odpuštění ročního členského příspěvku ve svém prvním roce působení v asociaci. Členství v asociaci se řídí dle stanov ČAU (též najdete v souborech ke stažení). Pokud budete mít jakýkoliv dotaz ohledně členství v ČAU, prosím pište na adresu info@czechultimate.cz.
+>>>>>>> 21e3bb98c5c17ea47c03192e94d80434afd0b3af
 
 ## Pravidla
 

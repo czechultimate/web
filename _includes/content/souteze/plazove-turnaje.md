@@ -25,7 +25,7 @@ Mezi tradiční plážové turnaje patří například:
 
 | Rok  | Místo          | OPEN       | WOMEN                                | MIXED              |
 | ---- | -------------- | ---------- | ------------------------------------ | ------------------ |
-| 2022 | Portimão, PRT  | bez účasti | bez účasti                           | L.D.C. (11/23), FUJ (15/24) |
+| 2022 | Portimão, PRT  | bez účasti | bez účasti                           | L.D.C. (11/23), FUJ (15/23) |
 | 2018 | Barcelona, ESP | bez účasti | Yellow Fujever (8/16), 3SB\* (15/16) | Chupacabras (9/16) |
 
 \* vítěz Spirit of the Game
