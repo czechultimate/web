@@ -37,21 +37,19 @@
 
         <h4>Sociální síťě</h4>
 
-        <a style="margin-bottom: 5px;" class="ui facebook fluid button" target="_blank"
-            href="https://www.facebook.com/czechultimate/">
-            <i class="facebook icon"></i>
-            Facebook
+        <a class="ui fluid button" target="_blank" href="https://www.instagram.com/caufrisbee" style="margin-bottom: 0.5rem;">
+            <img class="ui mini image centered" src="{{ 'assets/img/logo/ig.png' | relative_url }}">
         </a>
-        <a style="margin-bottom: 5px;" class="ui instagram fluid button" target="_blank"
-            href="https://www.instagram.com/czechultimate">
-            <i class="instagram icon"></i>
-            Instagram
+        <a class="ui fluid button" target="_blank" href="https://www.youtube.com/channel/UCWbynNxpF2mYA9orHPlkDiA" style="margin-bottom: 0.5rem;">
+            <img class="ui mini image centered" src="{{ 'assets/img/logo/youtube.png' | relative_url }}">
         </a>
-        <a class="ui youtube fluid button" target="_blank"
-            href="https://www.youtube.com/channel/UCWbynNxpF2mYA9orHPlkDiA">
-            <i class="youtube icon"></i>
-            YouTube
+        <a class="ui fluid button" target="_blank" href="https://www.tiktok.com/tag/caufrisbee" style="margin-bottom: 0.5rem;">
+            <img class="ui mini image centered" src="{{ 'assets/img/logo/tiktok.png' | relative_url }}">
         </a>
+        <a class="ui fluid button" target="_blank" href="https://www.facebook.com/caufrisbee/" style="margin-bottom: 0.5rem;">
+            <img class="ui mini image centered" src="{{ 'assets/img/logo/facebook.png' | relative_url }}">
+        </a>
+
 
     </div>
 
@@ -63,10 +61,13 @@
         <i class="sidebar icon"></i>
     </a>
     <div class="right menu">
+        {% if page.path == "index.html" %}
+        <div class="item" id="mobile-title" style="padding-top: 6px; padding-bottom: 6px;">
+            <img class="ui image" src="assets/img/logo/male.png" style="max-height:50px;">
+        </div>
+        {% else %}
         <div class="item" id="mobile-title">
-            {% if page.path == "index.html" %}
-            <b>{{ page.title }}</b>
-            {% elsif site.data.navigation[page.group].name %}
+            {% if site.data.navigation[page.group].name %}
             {% if page.title | len > 15 %}
             {{ site.data.navigation[page.group].name }} >&nbsp;<b>{{ page.title | truncate: 20 }}</b>
             {% else %}
@@ -76,5 +77,6 @@
             {{ page.title | truncate: 30 }}
             {% endif %}
         </div>
+        {% endif %}
     </div>
 </div>

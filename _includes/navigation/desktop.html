@@ -2,32 +2,26 @@
     <div class="tablet or lower hidden">
         <div class="ui grid">
             <div class="eight wide column">
-                <h1>
-                    <a href="{{ 'index' | relative_url }}" style="text-decoration: none; color: black;">
-                        ČAU Frisbee
-                    </a>
-                </h1>
+                <img class="ui image" src="{{ 'assets/img/logo/velke.png' | relative_url }}" style="position: relative; top: -2rem; max-height:8rem;">
             </div>
             <div class="eight wide column" style="text-align: right; margin-top: 0.5em;">
-
-                <a class="ui facebook button" target="_blank" href="https://www.facebook.com/czechultimate/">
-                    <i class="facebook icon"></i>
-                    Facebook
+                <a class="ui button" target="_blank" href="https://www.instagram.com/caufrisbee">
+                    <img class="ui mini image" src="{{ 'assets/img/logo/ig.png' | relative_url }}">
                 </a>
-                <a class="ui instagram button" target="_blank" href="https://www.instagram.com/caufrisbee">
-                    <i class="instagram icon"></i>
-                    Instagram
-                </a>
-                <a class="ui youtube button" target="_blank"
+                <a class="ui button" target="_blank"
                     href="https://www.youtube.com/channel/UCWbynNxpF2mYA9orHPlkDiA">
-                    <i class="youtube icon"></i>
-                    YouTube
+                    <img class="ui mini image" src="{{ 'assets/img/logo/youtube.png' | relative_url }}">
                 </a>
-
+                <a class="ui button" target="_blank" href="https://www.tiktok.com/tag/caufrisbee">
+                    <img class="ui mini image" src="{{ 'assets/img/logo/tiktok.png' | relative_url }}">
+                </a>
+                <a class="ui button" target="_blank" href="https://www.facebook.com/caufrisbee/">
+                    <img class="ui mini image" src="{{ 'assets/img/logo/facebook.png' | relative_url }}">
+                </a>
             </div>
         </div>
 
-        <div class="ui large inverted menu">
+        <div class="ui large inverted menu" style="margin-top: -2.2rem;background-color: #143c7d">
 
             {% for item in site.data.navigation %}
 
