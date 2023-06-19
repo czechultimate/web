@@ -22,6 +22,7 @@ Po skončení jarního kvalifikačního kola se uskuteční finále, kam je pozv
 
 | Ročník    | Počet škol | 1. místo                    | 2. místo                    | 3. místo                            |
 | --------- | ---------- | --------------------------- | --------------------------- | ----------------------------------- |
+| 2022/2023 | 34         |    Gymnázium Písek		      |       Česko-anglické gymnázium České Budějovice                 |    Gymnázium Žďár nad Sázavou           |
 | 2021/2022 | 16         |    Gymnázium Písek		      |       Gymnázium Špitálská Praha                      |    Biskupské Gymnázium České Budějovice           |
 | 2020/2021 | 0          |                    *zrušeno*   |              -              |              -                       |
 | 2019/2020 | 45         |                    *zrušeno*    |              -               |              -                       |
