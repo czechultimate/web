@@ -4,7 +4,7 @@ Patrně nejzajímavějším získaným benefitem, se kterým bychom Vás rádi s
 
 # Jak zažádat o vyplacení pojištění krok po kroku
 
-V případě, že jste na akci asociace přišli k úrazu, stačí po dokončení léčby vyplnit formulář Oznámení škodní události z úrazového pojištění. Podmínkou uznání je minimální délka léčení úrazu 21 dní. 
+V případě, že jste na akci asociace přišli k úrazu, stačí po dokončení léčby vyplnit formulář [Oznámení škodní události z úrazového pojištění](https://www.cuscz.cz/files/3141MWR.pdf). Podmínkou uznání je minimální délka léčení úrazu 21 dní. 
 
 1. Vyplníte formulář - jaký úraz, kdy se stal, kde, jak a proč. 
 2. Vyplněný formulář pošlete na [info@frisbee.cz](mailto:info@frisbee.cz) a my vám ho za asociaci potvrdíme (nutná podmínka pro uplatnění pojištění). 
