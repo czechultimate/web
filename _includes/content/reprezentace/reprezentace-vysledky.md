@@ -5,6 +5,7 @@ Označení hvězdičkou značí vítězství v kategorii Spirit of the Game.
 
 | Rok  | Akce | Místo            | OPEN     | WOMEN | MIXED   |
 | ---- | ---- | ---------------- | -------- | ----- | ------- |
+| 2023 | ME   | Limerick, IRL    | 6\*/15   | 3\*/13| 13/17   |
 | 2019 | ME   | Györ, HUN        | 7/20     | 9/15  | 16/19   |
 | 2016 | MS   | Londýn, GBR      | 13-16/31 | 10/11 | 9-12/30 |
 | 2015 | ME   | Kodaň, DNK       | 13/17    | 16/19 | 4/18    |
@@ -29,11 +30,18 @@ Označení hvězdičkou značí vítězství v kategorii Spirit of the Game.
 
 | Rok  | Akce     | Místo                   | OPEN  | WOMEN | MIXED |
 | ---- | -------- | ----------------------- | ----- | ----- | ----- |
+| 2023 | ME       | Bologna, ITA            | 6/8   | 6/7   |       |
 | 2019 | ME       | Madrid, ESP             | 8\*/9 |       |       |
 | 2019 | Beach ME | Portimão, PRT           | 4/14  |       |       |
 | 2017 | Beach MS | Royan, FRA              | 6/12  |       |       |
 | 2016 | MS       | Londýn, GBR             |       | 10/11 |       |
 | 2011 | Beach MS | Lignano Sabbiadoro, ITA | 7/11  |       |       |
+
+## Grand Masters
+
+| Rok  | Akce     | Místo                   | OPEN  | WOMEN | MIXED |
+| ---- | -------- | ----------------------- | ----- | ----- | ----- |
+| 2023 | ME       | Bologna, ITA            | 3/10  |       |       |
 
 ## U24
 

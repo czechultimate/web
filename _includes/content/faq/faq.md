@@ -1,6 +1,6 @@
 ## Jak začít hrát ultimate frisbee?
 
-Najděte si kontakt na tým ve svém okolí nebo založte vlastní tým (více informací viz [Jak začít hrát](jak-zacit)). Obecně jsou všechny týmy otevřené přijímání nováčků. Přečtěte si stručná pravidla frisbee a na videích se podívejte na základní techniku hodů.
+Najděte si kontakt na tým ve svém okolí nebo založte vlastní tým (více informací viz [Jak začít hrát](https://www.caufrisbee.cz/zacni-hrat-taky)). Obecně jsou všechny týmy otevřené přijímání nováčků. Přečtěte si stručná pravidla frisbee a na videích se podívejte na základní techniku hodů.
 
 ## S jakým diskem se hraje ultimate?
 
@@ -16,17 +16,11 @@ Do začátku nepotřebujete téměř nic, jen pár kamarádů, disky na házení
 
 ## Jak a proč se zaregistrovat do České asociace ultimate?
 
-Pokud byste s vaším týmem chtěli začít hrát pravidelně turnaje, je třeba se zaregistrovat v ČAUF. Roční příspěvky činí 400 Kč/hráč, postup k registraci najdete na stránce [Jak začít hrát](jak-zacit). Ligových turnajů a mistrovství republiky se mohou účastnit pouze registrovaní hráči.
+Pokud byste s vaším týmem chtěli začít hrát pravidelně turnaje, je třeba se zaregistrovat v ČAUF. Roční příspěvky činí 600 Kč/hráč, postup k registraci najdete na stránce [Jak začít hrát](jak-zacit). Ligových turnajů a mistrovství republiky se mohou účastnit pouze registrovaní hráči.
 
 ## Jaký je průběh přihlašování týmů na soutěžní turnaje?
 
 Oddíly registrované v ČAUF dostanou před plánovanými turnaji pozvánku. Závazné přihlášení na turnaj probíhá formou zaplacení týmové zálohy, termín zaplacení je obvykle 30 dní před konáním turnaje. Pokud tým zaplatí zálohu a po termínu zaplacení se odhlásí, záloha týmu propadá - je určena k pokrytí ztráty, která pořadateli odhlášením vznikla.
-
-## Půjčování věcí od ČAUF zdarma a za úplatu
-
-Členové ČAUF si mohou prostřednictvím online aplikace půjčovat vybavení v majetku ČAUF. Základní věci potřebné k pořádání turnaje (kuželíky, barely na vodu, počítadla, várnice, lékárnička apod.) jsou zdarma, za discgolfové vybavení se platí:
-
--   Discgolfový koš a disky: 50 Kč za den
 
 ## Jak se stát organizátorem ligového turnaje nebo mistrovství ČR v ultimate?
 
@@ -34,4 +28,4 @@ VR ČAUF minimálně dvakrát ročně posílá oddílům prostřednictvím týmo
 
 ## Jaké jsou povinnosti organizátora turnaje?
 
-Organizátor zajišťuje pronájem hracích hřišť; poskytuje přihlášeným týmům potřebné informace (výše startovného, forma ubytování a stravování…); vybírá startovné, zajišťuje počítání skóre a sběr SOTG; nominuje dva zástupce do turnajové komise. Určí kontaktní osobu, která při přípravě turnaje komunikuje s VR ČAUF (zpravidla s určeným zástupcem). Snaží se zajistit hladký a regulérní průběh turnaje, zajistí dostupnost lékárničky na hřišti a zajistí osobu zodpovědnou za první pomoc hráčům. Organizátor turnaje v rámci startovného vybere turnajový poplatek 30 Kč za hráče, organizátor musí být schopen zajistit zúčastněnému týmu potvrzení o zaplacení turnajových poplatků. Po uskutečnění turnaje pokladníkovi ČAUF předloží finanční vyúčtování a vyplatí poplatky za hráče.
+Organizátor zajišťuje pronájem hracích hřišť; poskytuje přihlášeným týmům potřebné informace (výše startovného, forma ubytování a stravování…); vybírá startovné, zajišťuje počítání skóre a sběr SOTG; nominuje dva zástupce do turnajové komise. Určí kontaktní osobu, která při přípravě turnaje komunikuje s VR ČAUF (zpravidla s určeným zástupcem). Snaží se zajistit hladký a regulérní průběh turnaje, zajistí dostupnost lékárničky na hřišti a zajistí osobu zodpovědnou za první pomoc hráčům. Organizátor turnaje v rámci startovného vybere turnajový poplatek 60 Kč za hráče, organizátor musí být schopen zajistit zúčastněnému týmu potvrzení o zaplacení turnajových poplatků. Po uskutečnění turnaje pokladníkovi ČAUF předloží finanční vyúčtování a vyplatí poplatky za hráče.

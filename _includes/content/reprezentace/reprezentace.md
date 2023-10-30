@@ -1,6 +1,4 @@
-Česká republika se pravidelně účastní ultimate turnajů na mezinárodní úrovni, kde stabilně dosahuje vynikajících výsledků. Mistrovství světa (WUGC - World Ultimate and Guts Championships) a Mistrovství Evropy (EUC - European Ultimate Championship) se konají každé 4 roky. Pravidelně se taky konají mistrovství světa a Evropy na pláži.
-
-Od roku 2021 se nově bude pořádát i mistrovství Evropy v hale.
+Česká republika se pravidelně účastní ultimate turnajů na mezinárodní úrovni, kde stabilně dosahuje vynikajících výsledků. Mistrovství světa (WUGC - World Ultimate and Guts Championships) a Mistrovství Evropy (EUC - European Ultimate Championship) se konají každé 4 roky. Pravidelně se taky konají mistrovství světa, Evropy na pláži nebo i mistrovství Evropy v hale.
 
 <!-- # Vize 2020
 
