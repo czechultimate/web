@@ -10,7 +10,7 @@ Označení hvězdičkou značí vítězství v kategorii Spirit of the Game.
 | 2016 | MS   | Londýn, GBR      | 13-16/31 | 10/11 | 9-12/30 |
 | 2015 | ME   | Kodaň, DNK       | 13/17    | 16/19 | 4/18    |
 | 2011 | ME   | Maribor, SLO     | 5/17     | 8/12  |         |
-| 2007 | ME   | Southhampton, GBR| 16/16    |       | 2/7     |
+| 2007 | ME   | Southhampton, GBR| 16/16    |       | 2\*/7   |
 | 2004 | MS   | Turku, FIN       |          |       | 6/16    |
 | 2000 | MS   | Heilbronn, GER   |          |       | 11/14   |
 | 1996 | MS   | Jönköping, SWE   | 13/14    | 11/11 |         |
@@ -53,6 +53,7 @@ Označení hvězdičkou značí vítězství v kategorii Spirit of the Game.
 
 | Rok  | Akce | Místo                | OPEN  | WOMEN | MIXED |
 | ---- | ---- | -------------------- | ----- | ----- | ----- |
+| 2023 | ME   | Padova, ITA          | 7/12  | 3/12  |       |
 | 2022 | MS   | Vratislav, POL       | 12/12 | 5/10  |       |
 | 2019 | ME   | Vratislav, POL       | 7/16  | 5/12  | 5/7   |
 | 2017 | ME   | Veenendaal, NLD      | 7/19  | 3/15  |       |
