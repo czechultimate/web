@@ -7,10 +7,10 @@ Označení hvězdičkou značí vítězství v kategorii Spirit of the Game.
 | ---- | ---- | ---------------- | -------- | ----- | ------- |
 | 2023 | ME   | Limerick, IRL    | 6\*/15   | 3\*/13| 13/17   |
 | 2019 | ME   | Györ, HUN        | 7/20     | 9/15  | 16/19   |
-| 2016 | MS   | Londýn, GBR      | 13-16/31 | 10/11 | 9-12/30 |
+| 2016 | MS   | Londýn, GBR      | 13-16/31 |       | 9-12/30 |
 | 2015 | ME   | Kodaň, DNK       | 13/17    | 16/19 | 4/18    |
 | 2011 | ME   | Maribor, SLO     | 5/17     | 8/12  |         |
-| 2007 | ME   | Southhampton, GBR| 16/16    |       | 2\*/7   |
+| 2007 | ME   | Southampton, GBR | 16/16    |       | 2\*/7   |
 | 2004 | MS   | Turku, FIN       |          |       | 6/16    |
 | 2000 | MS   | Heilbronn, GER   |          |       | 11/14   |
 | 1996 | MS   | Jönköping, SWE   | 13/14    | 11/11 |         |
