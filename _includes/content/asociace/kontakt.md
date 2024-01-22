@@ -1,7 +1,7 @@
 [info@frisbee.cz](mailto:info@frisbee.cz)
 
 Výkonná rada: [vr@frisbee.cz](mailto:vr@frisbee.cz)  
-Reprezentace: [reprezentace@frisbee.cz](mailto:reprezentace@frisbee.cz)
+Reprezentace: [reprezentace@frisbee.cz](mailto:reprezentace@frisbee.cz)  
 Členové VR: jmeno.prijmeni{{ site.data.data.email-domena }}
 
 ## Kontakt pro média
