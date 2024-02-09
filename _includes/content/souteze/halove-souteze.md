@@ -9,6 +9,7 @@ Od roku 2014 porádáme také halové mistrovství republiky v juniorské katego
 
 | Rok  | OPEN          | WOMEN         | MIXED             |
 | ---- | ------------- | ------------- | ----------------- |
+| 2024 |               |               | Terrible Monkeys  |
 | 2023 | 3SB     | Východní Blok     | Terrible Monkeys        |
 | 2022 | 3SB     | 3SB    | 3SB         |
 | 2021 | *zrušeno*     | *zrušeno*     | *zrušeno*         |
