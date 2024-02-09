@@ -10,12 +10,13 @@ Další soutěží určenou pro mladší ročníky je projekt Středoškolská l
 
 | Rok  | OPEN           | WOMEN            | MIXED (INDOOR)    |
 | ---- | -------------- | ---------------- | ----------------- |
+| 2024 | nepořádalo se  | nepořádalo se    | 3SB               |
 | 2023 | Rainbow Banana | Východní Blok    | Terrible Monkeys  |
-| 2022 | PeaceEgg       | Východní blok    | 3SB               |
+| 2022 | PeaceEgg       | Východní Blok    | 3SB               |
 | 2021 | 3SB            | Chupacabras      | *zrušeno*         |
 | 2020 | Rainbow Banana | Chlupatá žába    | Left Overs        |
-| 2019 | Left Overs     | Left Overs       | Východní blok     |
-| 2018 | Východní blok  | Left Overs       | Kulatá šachovnice |
+| 2019 | Left Overs     | Left Overs       | Východní Blok     |
+| 2018 | Východní Blok  | Left Overs       | Kulatá Šachovnice |
 | 2017 | 3SB            | Terrible Monkeys | Kulatá Šachovnice |
 | 2016 | nepořádalo se  | nepořádalo se    | 3SB               |
 | 2015 | nepořádalo se  | nepořádalo se    | Kulatá Šachovnice |
