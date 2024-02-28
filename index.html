@@ -5,13 +5,11 @@ title: Česká asociace ultimate frisbee
 ---
 
 <h2 class="ui header">Novinky</h2>
-
 <div class="ui divided items article-list">
     {% for post in site.posts limit:5 %}
         {% include post_item.html %}
     {% endfor %}
 </div>
-
 <a class="ui fluid button" href="{{ 'archiv' | relative_url }}">
     Starší zprávy
 </a>
