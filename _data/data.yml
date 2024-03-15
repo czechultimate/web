@@ -14,30 +14,26 @@ sin-slavy:
 
 asociace:
   vr:
-    - name: "Marek Dostál"
-      img: assets/img/vr/marek_dostal.jpg
-      subtitle: Předseda VR a IT
-      description:
-  
     - name: "Michaela Čakrtová"
       img: assets/img/vr/misa_cakrtova.jpg
       subtitle: "Finance"
       description:
-
     - name: "Tomáš Toušek"
       img: assets/img/vr/tomas_tousek.jpg
       subtitle: "Rozvoj & vzdělávání"
       description:
-
     - name: "Jaromír Jáchym"
       img: assets/img/vr/jaromir_jachym.jpg
       subtitle: Soutěžní komise
       description: ""
-
     - name: "Petr Kotěšovec"
       img: assets/img/vr/petr_kotesovec.jpeg
       subtitle: Komunikace, PR a rozvoj
       description:
+    - name: "Marie Michalová"
+      img: assets/img/vr/marie_michalova.png
+      subtitle:
+      adescription:
   kk:
     - name: "Tereza Čermáková"
       subtitle: "Člen KK"
@@ -46,8 +42,8 @@ asociace:
     - name: "Jan Hanousek"
       subtitle: "Člen KK"
   others:
-    - name: "Tereza Dvořáková"
-      img: assets/img/vr/tereza_dvorakova.jpeg
+    - name: "Adéla Novotná"
+      img: assets/img/vr/adela_novotna.jpeg
       subtitle: Interní komunikace, administrativa a finance
       description:
   jobs:
