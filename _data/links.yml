@@ -89,10 +89,10 @@ links:
       link: https://docs.google.com/spreadsheets/d/1MgwuMyvG0Bv3fClfG-Behr1uvDuyiD1rqR0dAdXu86A/
     - text: Rozpis Brno 22.4.
       link: https://docs.google.com/spreadsheets/d/1AWPxpN4b2wD7FmQWXjc2CgBsxE3iuP_qiS8pJnW1AKY/
-      - text: Rozpis České Budějovice 23.4.
-link: https://docs.google.com/spreadsheets/d/1ZUpB9HaHM2fqS3bWNuzOfUsyesAFl4_jyFkrRTNFK6Q/
-- text: Rozpis Plzeň 24.4.
-link: https://docs.google.com/spreadsheets/d/1bFuLcK1_k0GyCzWqRSru2yE2ZdvMSXxE2O1K_ze_ZhU/
+    - text: Rozpis České Budějovice 23.4.
+      link: https://docs.google.com/spreadsheets/d/1ZUpB9HaHM2fqS3bWNuzOfUsyesAFl4_jyFkrRTNFK6Q/
+    - text: Rozpis Plzeň 24.4.
+      link: https://docs.google.com/spreadsheets/d/1bFuLcK1_k0GyCzWqRSru2yE2ZdvMSXxE2O1K_ze_ZhU/
   mistrovstvi-republiky:
     - text: Výsledky na frisbee.cz
       link: http://www.frisbee.cz/online-vysledky.html
