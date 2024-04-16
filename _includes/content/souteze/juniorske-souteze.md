@@ -10,7 +10,7 @@ Další soutěží určenou pro mladší ročníky je projekt Středoškolská l
 
 | Rok  | OPEN           | WOMEN            | MIXED (INDOOR)    |
 | ---- | -------------- | ---------------- | ----------------- |
-| 2024 |                |                  | 3SB               |
+| 2024 | PeaceEgg       | Východní Blok    | 3SB               |
 | 2023 | Rainbow Banana | Východní Blok    | Terrible Monkeys  |
 | 2022 | PeaceEgg       | Východní Blok    | 3SB               |
 | 2021 | 3SB            | Chupacabras      | *zrušeno*         |
