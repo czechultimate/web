@@ -14,5 +14,5 @@ Nejdříve začali turnaj hráči Silence 3.3 - první zápas vyhráli 15:7, dru
 V sobotu také začaly zápasy zbylých dvou kategorií. Grand Masters měli pouze jednu skupinu čítající 6 týmů - ve skupině vyhráli čtyři zápasy z pěti a tím si vybojovali účast ve finále. V tom bohužel podlehli týmu Zimmer se skórem 10:15, nicméně jsou druzí v Evropě a posunuli se tedy ještě o příčku výš než minulý rok!
 
 Kromě Grand Masters open si cenný kov odvezly také women Masters. Český tým Bright Future vyhrál ve skupině pouze jeden zápas ze tří - semifinále ale poté vyhrály a mohly tak zabojovat o zlato. Ve finále bohužel s týmem LMU prohrály 7:10, ale do Česka se vrátily se stříbrem, což je super výsledek.
-img: assets/img/posts/2024/masters_women.jpg
+
 Všem hráčům a hráčkám děkujeme za reprezentaci a gratulujeme k úspěchům!
