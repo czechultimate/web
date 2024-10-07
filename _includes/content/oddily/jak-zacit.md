@@ -8,7 +8,7 @@ Chodíte si zahrát frisbee s kamarády a chtěli byste se posunout dál, pomě�
 
 ## Turnaje
 
-Po celý rok se hrají soutěžní i nesoutěžní turnaje, kam si můžete přijet zahrát. Od jara do podzimu se hraje venku na fotbalových hřištích, v zimě v tělocvičnách. Jejich termíny najdete v [termínovce](http://bit.ly/terminovka_ultimate). Nejlíp napište opět na info@frisbee.cz a poradíme vám, která by pro vás byl pro začátek vhodný - některé jsou přímo zaměřené na nováčky, na některé se musíte kvalifikovat. Abyste mohli hrát oficiální soutěžní turnaje, musíte být registrováni v asociaci (viz níže), ale na spoustu se dá jen přihlásit a jet.
+Po celý rok se hrají soutěžní i nesoutěžní turnaje, kam si můžete přijet zahrát. Od jara do podzimu se hraje venku na fotbalových hřištích, v zimě v tělocvičnách. Jejich termíny najdete v [termínovce](https://tinyurl.com/terminovka). Nejlíp napište opět na info@frisbee.cz a poradíme vám, která by pro vás byl pro začátek vhodný - některé jsou přímo zaměřené na nováčky, na některé se musíte kvalifikovat. Abyste mohli hrát oficiální soutěžní turnaje, musíte být registrováni v asociaci (viz níže), ale na spoustu se dá jen přihlásit a jet.
 
 ## Členství v asociaci
 
