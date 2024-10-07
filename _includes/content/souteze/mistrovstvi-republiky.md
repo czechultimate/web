@@ -6,7 +6,7 @@ Ve zbytku venkovní sezóny je možné hrát ještě kategorii mixed. Podmínkou
 
 | Rok  | OPEN             | WOMEN         | MIXED           |
 | ---- | ---------------- | ------------- | --------------- |
-| 2024 |                  |               | 3SB             |
+| 2024 | Terrible Monkeys | Východní Blok | 3SB             |
 | 2023 | Terrible Monkeys | Východní Blok | Terrible Monkeys|
 | 2022 | 3SB              | 3SB           | Terrible Monkeys|
 | 2021 | 3SB              | 3SB           | 3SB             |
