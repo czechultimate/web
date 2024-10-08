@@ -10,7 +10,7 @@ sin-slavy:
     name: "Jan „Papá“ Filandr"
     img: assets/img/sin_slavy/papa.jpg
     description:
-      - Jan Filandr (Papá) je jeden z lidí, kteří byli u samotného zrodu frisbee sportů v českých zemích. Jeho zásluhy o rozvoj spočívají hlavně v tom, že jako vedoucí katedry tělesné výchovy na FEL ČVUT přistupoval k frisbee od začátku jako k regulérnímu sportu, vytvořil k němu řadu výukových materiálů a zasadil se o jeho uznání na akademické půdě. Téměř před třiceti lety přinesl tento sport z Ameriky, kde ho poprvé spatřil a naučil se jej. V Praze založil skupinu nadšenců, ze které se později staly zárodky týmů, které známe v dnešní době. Na FELu se mu pak podařilo prosadit, aby se frisbee stalo jedním ze sportů vrámci povinné tělesné výchovy. Papáho tělocvikem prošlo nespočet mladých lidí a z nemála z nich se později stali reprezentanti. 
+      - Jan Filandr (Papá) je jeden z lidí, kteří byli u samotného zrodu frisbee sportů v českých zemích. Jeho zásluhy o rozvoj spočívají hlavně v tom, že jako vedoucí katedry tělesné výchovy na FEL ČVUT přistupoval k frisbee od začátku jako k regulérnímu sportu, vytvořil k němu řadu výukových materiálů a zasadil se o jeho uznání na akademické půdě. Téměř před třiceti lety přinesl tento sport z Ameriky, kde ho poprvé spatřil a naučil se jej. V Praze založil skupinu nadšenců, ze které se později staly zárodky týmů, které známe v dnešní době. Na FELu se mu pak podařilo prosadit, aby se frisbee stalo jedním ze sportů vrámci povinné tělesné výchovy. Papáho tělocvikem prošlo nespočet mladých lidí a z nemála z nich se později stali reprezentanti.
   - year: 2018
     name: "Jana Vejmelková"
     img: assets/img/sin_slavy/janicka.jpg
@@ -54,7 +54,5 @@ asociace:
   jobs:
     - name: Zástupci v regionu pro Evropskou ligu (Míša Čakrtová)
       description: Zastupují a hlasují za ČR v regionu střední a východní Evropy. Předávají informace asociaci.
-    - name: Skladník (Pavla Haflantová)
-      description: Kontroluje průběžně stav ve skladu, hlídá stav zásob v lékárničce, vozí medaile na ligu (upozorní někoho jiného, pokud nejede), obstará, pokud bude něčeho nedostatek a vyzvedává nové věci do skladu.
     - name: Turnajová komise
       description: Jmenována na každý soutěžní turnaj (skládá se z pověřeného člena VR + 2 zástupců organizátora turnaje. Řeší případné problémy (např. porušení zákazu alkoholu nezletilými).

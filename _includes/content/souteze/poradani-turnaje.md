@@ -8,10 +8,8 @@ Herní systém a rozpis zajišťuje v souladu s platným soutěžním řádem ul
 Spirity a výsledky zápasů se zadávají do aplikace [Catcher](https://play.google.com/store/apps/details?id=com.ulti.catcher), od výkonné rady dostane organizátor přístup pro zadávání výsledků a přístupy pro každý tým. 
 ## Soupisky 
 Každý oddíl musí mít do 18:00 den před turnajem vyplněnou soupisku na evidence.czechultimate.cz všech týmů, které na turnaj vysílá. Organizátor má k soupiskám přístup skrze mobilní aplikaci, každý tým je musí zkontrolovat a potvrdit. Více viz https://www.czechultimate.cz/evidence.
-## Materiál 
-ČAUF má v Praze [sklad](https://www.czechultimate.cz/sklad), kde si organizátor může zdarma půjčit materiál potřebný pro organizaci turnaje (kuželíky, počítadla, várnice, lékárničky…). Materiál je před zapůjčením nutné rezervovat v aplikaci sklad.czechultimate.cz a vrátit neprodleně po akci v původním stavu na původní místo. Do skladu nepatří nic navíc (zbytky z turnaje, lost&found…) a je potřeba v něm udržovat pořádek. 
 ## Medaile, trofeje (pouze mistrovství) 
-Medaile pro první tři místa zajišťuje výkonná rada. Jsou k vyzvednutí v ČAUF skladu. Poháry pro turnaje pět na pět zajišťuje pořadatel, ČAUF proplácí (tj. do haly, na venkovní juniory a beach). Vítěz venkovního mistrovství získává malou trofej a je mu propůjčen velký putovní pohár, který se v průběhu roku vrací ČAUF pro dalšího vítěze.  
+Medaile pro první tři místa zajišťuje výkonná rada. Poháry pro turnaje pět na pět zajišťuje pořadatel, ČAUF proplácí (tj. do haly, na venkovní juniory a beach). Vítěz venkovního mistrovství získává malou trofej a je mu propůjčen velký putovní pohár, který se v průběhu roku vrací ČAUF pro dalšího vítěze.
 ## Turnajová komise 
 Turnajová komise se skládá ze dvou zástupců pořadatele a jednoho zástupce jmenovaného výkonnou radou. Turnajová komise má pravomoc kontrolovat požití alkoholu nezletilými a ve spolupráci s STK řeší na místě případné problémy (STK nemusí být vždy přítomná, turnajová komise by měla být vždy) ohledně soupisek, zápasů, způsobilosti hráčů. 
 ## Propagace, média 
@@ -19,7 +17,7 @@ Média má ve výkonné radě na starosti Tadeáš Grym. Je vhodné každý turn
 ## Ubytování a stravování 
 Organizátor by měl na turnaji zajistit snídaně na všechny hrací dny výživově vhodné pro sportovní výkon. Zvykem je nabídnout hráčům i objednání večeří - žádoucí je to hlavně v menších sídlech, kde jsou možnosti stravování omezené. Hráči by měli mít možnost si snídani či večeři neobjednat. Organizátor zajišťuje alespoň základní nocleh pro hráče v blízkosti hřišť (stan/tělocvična). 
 ## Zdravotní zajištění a fyzioterapie 
-Povinností organizátora je mít na všech místech, kde turnaj probíhá, lékárničku se základním zdravotnickým materiálem. V ČAUF skladu jsou dvě vybavené lékárny k zapůjčení. Na venkovní mistrovství výkonná rada spolu s pořadatelem domlouvá fyzioterapeuty k dispozici pro hráče. 
+Povinností organizátora je mít na všech místech, kde turnaj probíhá, lékárničku se základním zdravotnickým materiálem. Na venkovní mistrovství výkonná rada spolu s pořadatelem domlouvá fyzioterapeuty k dispozici pro hráče.
 ## Hřiště 
 Organizátor zajistí přípravu hřišť a jejich označení v souladu s pravidly. Hřiště musí být pro hráče zcela bezpečné - žádné díry, nebezpečný povrch nebo předměty ohrožující bezpečnost. 
 ### Venkovní soutěž
