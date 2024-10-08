@@ -79,8 +79,8 @@ asociace:
       link: sin-slavy
     - name: Evidence členů
       link: evidence
-    - name: Sklad
-      link: sklad
+    # - name: Sklad
+    #   link: sklad
     - name: Osobní údaje
       link: osobni-udaje
     - name: VR a další pozice
