@@ -1,6 +1,6 @@
 Ultimate Frisbee je dynamický sport, který si nachází stále větší oblibu u mladých lidí. Je založen ryze na myšlence fair play, kdy ve hře nejsou rozhodčí a hráči tak mají zodpovědnost za své chování v ultimate frisbee plně ve svých rukou.  
 
-Čistota sportu, vzdělávací aspekt a také zábava a přátelství. To vše je duší ultimate frisbee. Spojte vaše jméno s naší činností a skvělým sportem. 
+Čistota sportu, vzdělávací aspekt a také zábava a přátelství. To vše je duší ultimate. Spojte vaše jméno s naší činností a skvělým sportem. 
  
 Hledáme partnery pro dlouhodobou i krátkodobou spolupráci na regionální i celorepublikové úrovni. 
  
