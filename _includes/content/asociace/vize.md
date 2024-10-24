@@ -12,4 +12,4 @@ Od roku 2017 pořádáme akreditované školení trenérských licencí III. tř
 
 ## Kvalita a kvantita členské základny 
 
-Ultimate frisbee se v České republice vyvíjí už dvacet let a má svoji pevnou členskou základnu. Úkolem asociace je proto také se starat o zlepšování a rozšiřování ligy a dalších soutěží, růst a vývoj aktivní členské základny, zvyšování počtu týmů zapojených do ligy, větší účast na zahraničních turnajích, podpora všech reprezentačních týmů a pokud to bude v našich silách v budoucnu, vybudování stabilního tréninkového zázemí.
+Ultimate frisbee se v České republice vyvíjí už dvacet let a má svoji pevnou členskou základnu. Úkolem asociace je proto také starat se o zlepšování a rozšiřování ligy a dalších soutěží, růst a vývoj aktivní členské základny, zvyšování počtu týmů zapojených do ligy, větší účast na zahraničních turnajích, podpora všech reprezentačních týmů a pokud to bude v našich silách v budoucnu - vybudování stabilního tréninkového zázemí.
