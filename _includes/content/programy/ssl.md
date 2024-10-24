@@ -16,7 +16,7 @@ Liga se skládá z dvou hlavních kvalifikačních kol: podzimní a jarní. Tým
 
 Bodové hodnocení je určeno podle množství přihlášených týmů na dané kvalifikaci. Příklad: Máme-li 8 účastníků, tak první tým získá 8 bodů, druhý tým 7 bodů, třetí 6 bodů a tak dále. Školy mohou přihlásit i více týmů (body se pak započítají za umístění A-týmu i B-týmu).
 
-Po skončení jarního kvalifikačního kola se uskuteční finále, kam je pozváno 16 nejúspěšnějších škol z celé republiky (na základě bodové zisku).
+Po skončení jarního kvalifikačního kola se uskuteční finále, kam je pozváno 16 nejúspěšnějších škol z celé republiky (na základě bodového zisku).
 
 # Výsledky
 
