@@ -10,7 +10,7 @@ Během sedmihodinového školení získají účastníci základní dovednosti v
  
 # Obdržíte 
 
-Videonahrávku (CD) o základech házení,chytaní a pravidlech hry. Papírové materiály se stručnými pravidly dalších her a obsahem školení.
+Videonahrávku (CD) o základech házení, chytaní a pravidlech hry. Papírové materiály se stručnými pravidly dalších her a obsahem školení.
 Certifikát na základě akreditace.
  
 # Podmínky školení
