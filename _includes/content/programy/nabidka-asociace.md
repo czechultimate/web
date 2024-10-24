@@ -4,7 +4,7 @@ Chcete seznámit se sportem ultimate frisbee? Napište nám na [rozvoj@frisbee.c
 
 ## Disky pro školy
 
-Pro školy a pro podobné účely
+Pro školy a pro podobné účely.
 
 ## Školení učitelů
 
