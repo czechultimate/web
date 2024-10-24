@@ -1,4 +1,4 @@
-Databáze členů České asociace utimate je přístupná [zde](//evidence.czechultimate.cz). Přístup do databáze je vázán na přihlašovací údaje Zástupce týmu. Soupisky je možné vyplňovat také pomocí aplikace [Evidence ČALD](https://play.google.com/store/apps/details?id=cz.cald.evidence) pro Android.
+Databáze členů České asociace utimate frisbee je přístupná [zde](//evidence.czechultimate.cz). Přístup do databáze je vázán na přihlašovací údaje Zástupce týmu. Soupisky je možné vyplňovat také pomocí aplikace [Evidence ČALD](https://play.google.com/store/apps/details?id=cz.cald.evidence) pro Android.
 
 # Návod na zadávání soupisek
 
@@ -10,7 +10,7 @@ Databáze členů České asociace utimate je přístupná [zde](//evidence.czec
 - Neuzamčená soupiska po konci turnaje značí nepodepsání soupisky a má za důsledek diskvalifikaci daného týmu. Digitální uzamčení nahrazuje dosavadní podpis.
 - Zodpovědnost za soupisku označenou jako Uzamčenou náleží na každém týmu, nikoliv pořadateli turnaje.
 - Jmenné soupisky lze rozkliknout - zkontrolovat tak případně soupeře, zda má na soupisce všechny hráče. Pokud na soupisce nejsou uvedení všichni hráči, lze informovat pořadatele turnaje či turnajovou komisi ČAUF a požádat o kontumaci utkání.
-- Všichni hráči, kteří nastoupí byť do jediného zápasu na soutěžním turnaji, se stávají členy České asociace ultimate a po skončení sezóny za ně tým bude platit roční členský poplatek.
+- Všichni hráči, kteří nastoupí byť do jediného zápasu na soutěžním turnaji, se stávají členy České asociace ultimate frisbee a po skončení sezóny za ně tým bude platit roční členský poplatek.
 
 ## Pro pořadatele
 
