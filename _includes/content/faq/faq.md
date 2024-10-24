@@ -14,7 +14,7 @@ Nejlepší a nejlevnější variantou je online obchod [Ultimo.cz](https://www.u
 
 Do začátku nepotřebujete téměř nic, jen pár kamarádů, disky na házení a rovnou plochu na trénink. Chcete-li si vyzkoušet hru proti dalším týmům, zkuste si vybrat v kalendáři turnajů, nebo nám napište na info@frisbee.cz, poradíme vám, jaký si vybrat. Každý měsíc probíhá několik turnajů, od těch pro začátečníky přes ligové turnaje a mistrovství republiky po reprezentační akce. V Praze, Brně, Plzni a Českých Budějovicích například probíhá „amatérská“ liga vhodná pro nové týmy.
 
-## Jak a proč se zaregistrovat do České asociace ultimate?
+## Jak a proč se zaregistrovat do České asociace ultimate frisbee?
 
 Pokud byste s vaším týmem chtěli začít hrát pravidelně turnaje, je třeba se zaregistrovat v ČAUF. Roční příspěvky činí 600 Kč/hráč, postup k registraci najdete na stránce [Jak začít hrát](jak-zacit). Ligových turnajů a mistrovství republiky se mohou účastnit pouze registrovaní hráči.
 
