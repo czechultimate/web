@@ -1,6 +1,6 @@
 # Vize
 
-Dlouhodobým cílem České juniorské reprezentace, která funguje od roku 2007, je zlepšovaní individuálních schopnosti všech hráčů i hráček ve věku pod dvacet let. Ti, kteří projdou přípravnými akcemi a případně se pak dostanou do užšího nominačního výběru, mají možnost reprezentovat Českou republiku v národních barvách na evropském či světovém šampionátu.
+Dlouhodobým cílem České juniorské reprezentace, která funguje od roku 2007, je zlepšovaní individuálních schopností všech hráčů i hráček ve věku pod dvacet let. Ti, kteří projdou přípravnými akcemi a případně se pak dostanou do užšího nominačního výběru, mají možnost reprezentovat Českou republiku v národních barvách na evropském či světovém šampionátu.
 
 # Vedení
 
