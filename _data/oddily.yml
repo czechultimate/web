@@ -10,9 +10,7 @@ teams:
 
 - name: Atletiko Maják Vsetín
   city: Vsetín
-  fb: groups/947423615643307
-  contact: Marek Burdík
-  phone: 731 979 066
+  contact: info@majakvsetin.cz 
 
 - name: Atrofované ruce
   city: "Plzeň"
@@ -29,33 +27,13 @@ teams:
   phone: 732 254 401
   email: "brno.ultimate.underground\n@gmail.com"
 
-- name: Cookie Monsters
-  city: "Přelouč"
-  web: frisbee.cz/cookie-monsters
-  fb: cookie.monsters.prelouc
-  contact: Petr Fejl
-  phone: 777 681 995
-
 - name: "Dream Team B"
   city: Praha
   fb: DreamTeamUltimateFrisbee
   contact: Tereza Purschová
   phone: 605 419 677
 
-- name: Frkot
-  city: "Olomouc"
-  web: frisbeeolomouc.weebly.com
-  fb: frkotolomouc
-  contact: Martina Hejčová
-  phone: 604 955 195
-
-- name: Frozen Angels
-  city: Liberec
-  fb: groups/109760192470014
-  contact: Karel Drátovník
-  email: karel.dratovnik@gmail.com
-
-- name: FUJ
+- name: F.U.J.
   city: Praha
   web: fujultimate.cz
   fb: FUJprague
@@ -73,13 +51,6 @@ teams:
   fb: chupacabrasZR
   contact: Klára Lipertová
   phone: 736 655 788
-
-- name: jELITA
-  city: "Ostrava"
-  web: ultimate-vsb.cz
-  fb: jelitavsb
-  contact: Filip Kmošek
-  phone: 607 590 620
 
 - name: "Kachny Příbram"
   city: "Příbram"
@@ -119,16 +90,9 @@ teams:
 
 - name: Poletíme
   city: "Praha - Horní Počernice"
-  fb: FrisbeeHP
-  contact: Tomáš Toušek
-  phone: 731 612 805
-
-- name: Prague 7
-  city: "Praha"
-  web: p7.cz
-  fb: prague.seven
-  contact: Ludmila Lejsalová
-  phone: 734 371 907
+  web: http://www.poletime-ultimate.cz
+  contact: coach@poletime-ultimate.cz
+  phone: +420 739 981 627
 
 - name: "Prague Devils"
   city: "Praha"
@@ -143,6 +107,12 @@ teams:
   fb: RainbowBananaBohumin
   contact: Jakub Staniek
   phone: 604 389 691
+
+- name: "Rakety Žižkoff"
+  city: "Praha"
+  web: https://raketyzizkoff.cz
+  fb: https://www.facebook.com/raketyzizkoff
+  contact: info@raketyzizkoff.cz
 
 - name: Sunset Frisbee
   city: Praha
@@ -163,25 +133,10 @@ teams:
   contact: Matěj Fanta
   phone: 608 331 150
 
-- name: Ubiquitous Frisbee Ordinands
-  city: Brno
-  contact: Vít Fila
-  email: vfila23@gmail.com
-
-- name: "Velká Morava"
-  city: "Brno, Olomouc, Ostrava, Žďár nad Sázavou"
-  fb: Velká-Morava-1402838386636461/
-  contact: "Lucie Schönová 605 733 283 (Olomouc), Radmila Hadlačová 736 744 753 (Brno), Klára Matejková 736 655 788 (Žďár nad Sázavou)"
-
-- name: Východní blok
+- name: Východní Blok
   city: Hradec Králové, Slatiňany
-  fb: VBultimate
-  contact: Karolína Zubatá
-  phone: 721 634 232
+  fb: East Block Ultimate
+  web: https://ebultimate.com/cz/
+  contact: eastblockultimate@gmail.com
 
-- name: Žalymáda
-  city: Jilemnice
-  fb: zalymada
-  web: zalymada.tymy.cz
-  contact: Štěpán Boukal
-  email: boukalstev@gmail.com
+
