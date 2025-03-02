@@ -1,8 +1,14 @@
 Jak už bylo nastíněno v novinkách posílaných emailem, ČALD se v červnu 2021 přidal pod hlavičku České unie sportu (ČUS) – sportovní organizace sdružující sportovní svazy a kluby v Česku. Její hlavní poslání je vytvářet ideální podmínky pro všechny typy sportovních činností a svým členům nabízí množství dostupných služeb.
 
-Patrně nejzajímavějším získaným benefitem, se kterým bychom Vás rádi seznámili, je možnost využití kolektivního úrazového pojištění. Toto pojištění je platné pro hráče i členy organizačních týmů na všech akcích asociace včetně akcí jednotlivých oddílů, vztahuje se tedy na ligové turnaje včetně cest na tyto turnaje, dále třeba i na tréninky, soustředění či nábory. Pojištění je nyní poskytováno Pojišťovnou VZP a platí po celém světě. Abyste mohli pojištění v případě zájmu jednoduše využít, zde je jednoduchý návod, jak na to.
+**Od 1.2.2025 došlo ke změně úrazového pojištění** pro členy ČUS. Do pojištění již nebudou zahrnuty úrazy, při kterých nedojde ke smrti, trvalým následkům nebo tělesnému poškození. Naopak u závažných zranění s trvalými následkami bude pojistné plnění podle nové smlouvy násobně vyšší než doposud. Pojištěné jsou úrazy, které se stanou na akcích pořádaných asociací, a to i těm osobám, které nejsou členy asociace (včetně turnajů Edge, juniorských soustředění a tréninků). Podrobnější informace naleznete zde: [Pojištění úrazů a odpovědnosti trenérů prostřednictvím ČOV](https://www.olympijskytym.cz/pojisteni-cov).
 
 # Jak zažádat o vyplacení pojištění krok po kroku
+
+**ÚRAZY, KTERÉ SE STALY 1.2.2025 A POZDĚJI**
+
+Pro nahlášení úrazu využijte [interaktivní formulář](https://skody.uniqa.cz) s uvedením čísla pojistné smlouvy 3558001543. Vyplněný formulář vždy musí potvrdit asociace, zašlete jej tedy na [info@frisbee.cz](mailto:info@frisbee.cz).
+
+**ÚRAZY, KTERÉ SE STALY DO 31.1.2025**
 
 V případě, že jste na akci asociace přišli k úrazu, stačí po dokončení léčby vyplnit formulář [Oznámení škodní události z úrazového pojištění](https://www.cuscz.cz/files/3141MWR.pdf). Podmínkou uznání je minimální délka léčení úrazu 21 dní. 
 
@@ -19,12 +25,6 @@ Detailní informace k úrazovému pojištění, včetně zasmluvněného rozsahu
 
 # A co dál
 
-Trenéry by mohlo zajímat také pojištění odpovědnosti trenérů. U tohoto pojištění je potřeba dodržení ujednaných podmínek a příslušných bezpečnostních opatření atd., jinak nemusí být pojistné plnění uznáno. Při každé škodě je potřeba počítat s finanční spoluúčastí 5.000 Kč, takže se vyplatí uplatňovat jen u vyšších škod. Podrobnosti jsou uvedeny [zde](https://www.cuscz.cz/sluzby-servis/pojisteni-odpovednosti-treneru.html).
+ČOV také zajišťuje **pojištění odpovědnosti trenérů**: [zde](https://www.olympijskytym.cz/pojisteni-odpovednosti-od-01012025).
 
-Pro jednotlivce i oddíly je v nabídce i [pojištění cestovní](https://www.cuscz.cz/sluzby-servis/cestovni-pojisteni.html). To lze sjednat za smluvených zvýhodněných cenových podmínek, zda se vyplatí si již musí porovnat se svým běžným pojištěním každý individuálně.
-
-Další z poskytovaných služeb pak oceňuje zejména asociace, neboť jsou v nabídce možnosti všech druhů finančního i legislativního poradenství, příležitost využít sjednaných sportovních center za výhodné ceny a možnosti dalších typů pojištění. Díky vstupu do ČUS se také mohou v letošním roce konat kurzy trenérských licencí II. třídy.
-
-Jak mohou podobných asistenčních služeb využívat i jednotlivé oddíly, již bylo vysvětleno v dřívějším článku [o plánovaném vstupu do ČUS](https://www.czechultimate.cz/2020/11/25/prihlaska-cus.html). 
-
-Více informací a veškerou nabídku služeb České unie sportu najdete na jejich [webových stránkách](https://www.cuscz.cz/).
+Dále se připravuje **"dobrovolné rozšíření pojištění úrazu sportovců"**, které by krylo lehčí úrazy. Prozatím nejsou dostupné podrobné informace, nicméně pravděpodobně půjde o možnost se dle uvážení připojistit, sám si to zaplatit, ale celková cena by měla být výhodnější než běžně dostupné úrazové pojištění. Základní informace [zde](https://www.olympijskytym.cz/dobrovolne-rozsireni-pojisteni-urazu).
