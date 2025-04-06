@@ -4,140 +4,105 @@ teams:
 - name: 3SB
   city: "České Budějovice"
   web: 3sb.cz
-  fb: 3SBultimate
-  contact: Jan Ondráček
-  phone: 731 477 512
+  contact: 3sb.ultimate@gmail.com
+
 
 - name: Atletico Maják Vsetín
   city: Vsetín
+  web: majakvsetin.cz
   contact: info@majakvsetin.cz 
 
-- name: Atrofované ruce
+- name: ATRUC
   city: "Plzeň"
   web: atrofovaneruce.cz
-  fb: atruc.ultimate
-  contact: Lukáš Kotrla
-  phone: 721 484 787
+  contact: lukas.kotrla@gmail.com
+
 
 - name: "Brno Ultimate Frisbee Underground"
   city: "Brno"
   web: brno-ultimate.cz
-  fb: brnoultimate
-  contact: Jakub Venglář
-  phone: 732 254 401
-  email: "brno.ultimate.underground\n@gmail.com"
+  contact: brno.ultimate.underground@gmail.com
 
 - name: "Dream Team B"
   city: Praha
   fb: DreamTeamUltimateFrisbee
-  contact: Tereza Purschová
-  phone: 605 419 677
 
 - name: F.U.J.
   city: Praha
   web: fujultimate.cz
-  fb: FUJprague
   contact: info@fujultimate.cz
 
 - name: Chlupatá žába
   city: "Slatiňany"
   web: frisbee.cz/chlupata-zaba
-  fb: chlupatazaba
-  contact: Kristýna Tlustá 734 830 833, Patrik Novák 725 862 590
+  contact: filip.halamka@gmail.com
 
 - name: Chupacabras
   city: "Žďár nad Sázavou"
   web: chupacabras.cz
-  fb: chupacabrasZR
-  contact: Klára Lipertová
-  phone: 736 655 788
+  contact: info@chupacabras.cz
 
 - name: "Kachny Příbram"
   city: "Příbram"
-  contact: Jiří Čech
-  email: jiri.cech@email.cz
-  phone: 736 705 155
-  fb: ultimate.pribram
-  web: instagram.com/kachny_pribram
+  web: sksporting.cz/frisbee/
+  contact: jiri.cech@email.cz
 
 - name: Kapři Ultimate
   city: "Pohořelice"
-  web: svcpohorelice.cz/sportovni-oddeleni/id/130.html
-  fb: kapri.ultimate
-  contact: Jan Rozehnal
-  phone: 724 723 020
+  web: svcpohorelice.cz
+  contact: jan.rozehnal@svcpohorelice.cz
 
 - name: Kulatá šachovnice
   city: "Hradec Králové"
   web: frisbeehk.cz
-  fb: kulatasachovnice
-  contact: Jiří Voseček
-  phone: 608 747 852
+  contact: kulata.sachovnice@frisbee.cz
 
 - name: Left Overs
   city: "Brno"
   web: ufb.cz
-  fb: leftoversbrno
-  contact: Václav Pachta
-  phone: 774 275 549
+  contact: ufb@ufb.cz
 
 - name: PeaceEgg
   city: "Písek"
   web: peaceegg.net
-  fb: peaceegg.ultimate
-  contact: Jan Manek
-  phone: 736 143 872
+  contact: team@peaceegg.net
 
 - name: Poletíme
   city: "Praha - Horní Počernice"
   web: http://www.poletime-ultimate.cz
-  fb: FrisbeeHP
   contact: coach@poletime-ultimate.cz
-  phone: +420 739 981 627
 
 - name: "Prague Devils"
   city: "Praha"
   web: praguedevils.org
-  fb: praguedevils
-  contact: František Fencl
-  phone: 603 751 806
+  contact: info@praguedevils.org
 
 - name: "Rainbow Banana"
   city: "Bohumín"
   web: frisbee.cz/rainbow-banana
-  fb: RainbowBananaBohumin
-  contact: Jakub Staniek
-  phone: 604 389 691
+  contact: sworka@email.cz
 
 - name: "Rakety Žižkoff"
   city: "Praha"
   web: https://raketyzizkoff.cz
-  fb: raketyzizkoff
   contact: info@raketyzizkoff.cz
 
 - name: Sunset Frisbee
   city: Praha
-  contact: Ondřej Jelínek
-  email: ondrej.jelinek@email.cz
+  web: www.sunsetfrisbee.cz
+  contact: info@sunsetfrisbee.cz
 
 - name: Terrible Monkeys
   city: "Praha"
   web: terriblemonkeys.cz
-  fb: terriblemonkeys
-  contact: Jaromír Jáchym
-  phone: 721 191 279
+  contact: monkeys@email.cz
 
 - name: Trubky
   city: "Náchod"
   web: frisbee.cz/trubky
-  fb: tymtrubky
-  contact: Matěj Fanta
-  phone: 608 331 150
 
-- name: Východní Blok
-  city: Hradec Králové, Slatiňany
-  fb: East Block Ultimate
-  web: https://ebultimate.com/cz/
-  contact: eastblockultimate@gmail.com
+- name: YOLO
+  city: "Olomouc"
+  contact: tobyair7@gmail.com
 
 
