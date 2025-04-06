@@ -14,7 +14,6 @@ teams:
 
 - name: ATRUC
   city: "Plzeň"
-  web: atrofovaneruce.cz
   contact: lukas.kotrla@gmail.com
 
 
@@ -34,7 +33,6 @@ teams:
 
 - name: Chlupatá žába
   city: "Slatiňany"
-  web: frisbee.cz/chlupata-zaba
   contact: filip.halamka@gmail.com
 
 - name: Chupacabras
@@ -54,7 +52,6 @@ teams:
 
 - name: Kulatá šachovnice
   city: "Hradec Králové"
-  web: frisbeehk.cz
   contact: kulata.sachovnice@frisbee.cz
 
 - name: Left Overs
@@ -69,7 +66,7 @@ teams:
 
 - name: Poletíme
   city: "Praha - Horní Počernice"
-  web: http://www.poletime-ultimate.cz
+  web: www.poletime-ultimate.cz
   contact: coach@poletime-ultimate.cz
 
 - name: "Prague Devils"
@@ -84,7 +81,7 @@ teams:
 
 - name: "Rakety Žižkoff"
   city: "Praha"
-  web: https://raketyzizkoff.cz
+  web: raketyzizkoff.cz
   contact: info@raketyzizkoff.cz
 
 - name: Sunset Frisbee
