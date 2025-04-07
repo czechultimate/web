@@ -59,6 +59,10 @@ teams:
   web: ufb.cz
   contact: ufb@ufb.cz
 
+- name: Micropachycephalosauři
+  city: "Poděbrady"
+  contact: dakolencik@gmail.com
+
 - name: PeaceEgg
   city: "Písek"
   web: peaceegg.net
@@ -84,8 +88,11 @@ teams:
   web: raketyzizkoff.cz
   contact: info@raketyzizkoff.cz
 
+- name: Skydivers
+  city: "Havlíčkův Brod"
+
 - name: Sunset Frisbee
-  city: Praha
+  city: "Praha"
   web: www.sunsetfrisbee.cz
   contact: info@sunsetfrisbee.cz
 
