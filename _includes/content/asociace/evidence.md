@@ -1,10 +1,10 @@
-Databáze členů České asociace utimate frisbee je přístupná [zde](//evidence.czechultimate.cz). Přístup do databáze je vázán na přihlašovací údaje Zástupce týmu. Soupisky je možné vyplňovat také pomocí aplikace [Evidence ČALD](https://play.google.com/store/apps/details?id=cz.cald.evidence) pro Android.
+Databáze členů České asociace utimate frisbee je přístupná [zde](//evidence.frisbee.cz).
 
 # Návod na zadávání soupisek
 
 ## Pro týmy
 
-- Soupisky se odevzdávají pouze elektronicky vyplněním v Evidenci členů. Pokud neznáte přístup svého oddílu do Evidence členů (http://evidence.czechultimate.cz), požádejte o něj na info@frisbee.cz.
+- Soupisky se odevzdávají pouze elektronicky vyplněním v Evidenci členů. Pokud neznáte přístup svého oddílu do Evidence členů (http://evidence.frisbee.cz), požádejte o něj na info@frisbee.cz.
 - Do zápasu mohou nastoupit pouze hráči, kteří jsou uvedeni v Týmové soupisce. Opačný postup vede ke kontumaci utkání ve prospěch soupeře.
 - Soupisku může upravovat pouze správce týmu, ne organizátor turnaje. Termín pro odevzdání soupisky je den před turnajem do 18:00.
 - Neuzamčená soupiska po konci turnaje značí nepodepsání soupisky a má za důsledek diskvalifikaci daného týmu. Digitální uzamčení nahrazuje dosavadní podpis.

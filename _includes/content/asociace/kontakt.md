@@ -4,6 +4,8 @@ Výkonná rada: [vr@frisbee.cz](mailto:vr@frisbee.cz)
 Reprezentace: [reprezentace@frisbee.cz](mailto:reprezentace@frisbee.cz)  
 Členové VR: jmeno.prijmeni{{ site.data.data.email-domena }}
 
+Slack: [link](https://join.slack.com/t/caufrisbee/shared_invite/zt-h8hwfy03-yaZ3BrAwwkKQuQp0B0t2dg)
+
 ## Kontakt pro média
 
 Petr Kotěšovec  
