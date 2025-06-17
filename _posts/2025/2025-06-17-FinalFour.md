@@ -15,6 +15,6 @@ Zápas o bronz probíhal v poměrně podobném duchu jako první ranní zápas, 
 
 Co ale naopak vůbec jednoznačné nebylo, byl zápas o zlato. Jak týmu 3SB tak Terrible Monkeys se vpodstatě celou dobu dařilo donášet body z útoku, a to až do skóre 11:11. Po tomto bodu se podařilo 3SB donést 2 breaky a otočit tak skóre na 13:11. Na to se ale podařilo zareagovat Monkeys a breakem se dostali zpět na vyrovnané skóre 13:13. Celé to došlo až ke konečnému universe pointu, který trval necelých dvanáct minut. Do tohohle posledního bodu šli na útok 3SB a Monkeys se na konci podařilo ubránit, bod donést a převzít tak titul mistrů, který loni vyhráli právě 3SB.
 
-Z celé akce vzniklo kromě televizního přenosu finálového zápasu také video: https://youtu.be/NHD3AM2zTfk?si=6DmUYPZ-Xz1ODEQa a tři články na Livesportu: https://www.livesport.cz/zpravy/frisbee-ceka-final-four-ceska-spicka-sportu-ktery-nepotrebuje-sudi-bude-hrat-v-edenu/rkeHJMh2/, https://www.livesport.cz/zpravy/frisbee-neni-louka-spis-disk-a-kopacky-s-koliky-cesi-uz-hraji-v-evrope-i-zamori-vypravi-havelcova/x08y19Am/, https://www.livesport.cz/zpravy/terrible-monkeys-stridaji-na-trunu-jihoceske-3sb-finale-frisbee-rozhodla-posledni-akce/MsckkNqp/.
+Z celé akce vzniklo kromě televizního přenosu finálového zápasu také video dostupné na ČAU Frisbee Youtube kanále a tři články na Livesportu.
 
 Děkujeme všem dobrovolníkům podílejícím se na akci a gratulujeme výhercům!
