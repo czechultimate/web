@@ -24,5 +24,5 @@ Kateřina Kilianová
 [+420774130495](tel:%20+420774130495)  
 
 Jaromír Jáchym 
-[tomas.tousek@frisbee.cz](mailto:jaromir.jahchym@frisbee.cz)  
+[jaromir.jachym@frisbee.cz](mailto:jaromir.jahchym@frisbee.cz)  
 [+420721191279](tel:%20+420721191279)
