@@ -6,20 +6,18 @@ Dlouhodobým cílem České juniorské reprezentace, která funguje od roku 2007
 
 V současné době je juniorská reprezentace dělena do dvou kategorií - dívky a chlapci. O každou kategorii se stará čtyřčlenný trenérsko-manažerský tým:
 
-**Women**: Jaromír Jáchym, Kateřina Kilianová, Michal Marek, Anna Urbánková a Kateřina Kopecká
+**Women**: Jaromír Jáchym, Kateřina Špalová a Denisa Havlová
 
-**Open**: Matěj Štětka, Martin Řezník a Tomáš Toušek
+**Open**: Matěj Štětka, Martin Řezník a Jan Hlaváč
 
-Hlavním manažerem a pokladníkem juniorské reprezentace je Jan Ondráček.
-
-Máte-li jakýkoliv dotaz, obraťte se na něj, případně oslovte rovnou trenéry příslušné kategorie.
+Máte-li jakýkoliv dotaz, obraťte se na nás, případně oslovte rovnou trenéry příslušné kategorie.
 
 ## Kontakt
 
 Celé trenérské vedení  
 [juniori@frisbee.cz](mailto:juniori@frisbee.cz)
 
-Kateřina Kilianová  
+Kateřina Špalová  
 [katerina.kilianova@gmail.com](mailto:katerina.kilianova@gmail.com)  
 [+420774130495](tel:%20+420774130495)  
 
