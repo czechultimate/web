@@ -23,10 +23,6 @@ Kateřina Kilianová
 [katerina.kilianova@gmail.com](mailto:katerina.kilianova@gmail.com)  
 [+420774130495](tel:%20+420774130495)  
 
-Tomáš Toušek  
-[tomas.tousek@frisbee.cz](mailto:tomas.tousek@frisbee.cz)  
-[+420731612805](tel:%20+420731612805)
-
-Jan Ondráček  
-[ondracekjan@gmail.com](mailto:ondracekjan@gmail.com)  
-[+420731477512](tel:%20+420731477512)  
+Jaromír Jáchym 
+[tomas.tousek@frisbee.cz](mailto:jaromir.jahchym@frisbee.cz)  
+[+420721191279](tel:%20+420721191279)
