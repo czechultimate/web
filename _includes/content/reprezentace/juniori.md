@@ -23,6 +23,6 @@ Kateřina Kilianová
 [katerina.kilianova@gmail.com](mailto:katerina.kilianova@gmail.com)  
 [+420774130495](tel:%20+420774130495)  
 
-Jaromír Jáchym 
+Jaromír Jáchym  
 [jaromir.jachym@frisbee.cz](mailto:jaromir.jahchym@frisbee.cz)  
 [+420721191279](tel:%20+420721191279)
