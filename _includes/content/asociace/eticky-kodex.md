@@ -6,9 +6,6 @@ vývoje a rozvoje a fair play. Etický kodex je v celém rozsahu závazný pro �
 statutárních a&nbsp;dalších orgánů, pro sportovce, pro trenéry, pro členy realizačních týmů a&nbsp;další
 členy ČAUF.
 
-
-<https://caufrisbee.slack.com/files/U06AX2K4GDT/F092XSB37PZ/eticky_kodex_cauf_v5.pdf>
-
 # Safeguardi ČAUF
 
 Jsou vždy dva a jsou to osoby pověřené přijímáním podnětů a oznámení týkajících se porušování tohoto
