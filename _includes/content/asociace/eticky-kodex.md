@@ -1,32 +1,29 @@
-Etický kodex sportu České asociace ultimate frisbee je souborem stěžejních principů a hodnot,
-které tvoří základní pilíře etického chování v&nbsp;rámci našeho frisbee sportovního prostředí.
-Je dokumentem, který má společně se všemi adresáty spoluvytvářet takové sportovní prostředí,
-které bude plné respektu, úcty, bezpečnosti, transparentnosti, odpovědnosti, vzdělání, zdravého
-vývoje a rozvoje a fair play. Etický kodex je v celém rozsahu závazný pro ČAUF, pro členy jeho
-statutárních a&nbsp;dalších orgánů, pro sportovce, pro trenéry, pro členy realizačních týmů a&nbsp;další
-členy ČAUF.
+Etický kodex sportu České asociace ultimate frisbee je souborem stěžejních principů a hodnot, které tvoří základní pilíře etického chování v rámci našeho frisbee sportovního prostředí. Jeho plné znění najdete v Odkazech.
+
+Věnuje se následujícím oblastem:
+- dodržování lidských práv, rovné příležitosti a ochrana bezpečí
+- boj proti korupci
+- střet zájmů
+- boj proti dopingu
+- zdravý životní styl
+- ochrana životního prostředí
+
+Etický kodex je v celém rozsahu závazný pro ČAUF, pro členy jeho statutárních a dalších orgánů, pro sportovce, pro trenéry, pro členy realizačních týmů a další členy ČAUF.
 
 # Safeguardi ČAUF
 
-Jsou vždy dva a jsou to osoby pověřené přijímáním podnětů a oznámení týkajících se porušování tohoto
-Etického kodexu, eventuálně případů jiných negativních jevů v ultimate frisbee, a řešením těchto
-podnětů a oznámení. V těchto případech se prosím obracejte na:
+Jsou osobami pověřenými přijímáním podnětů a oznámení týkajících se porušování tohoto Etického kodexu, eventuálně případů jiných negativních jevů v ultimate frisbee, a řešením těchto podnětů a oznámení. V těchto případech se prosím obracejte na:
 
 **Tadeáš Grym**  
 <tadeas.grym@frisbee.cz>
 
-**Kateřina Špálová**  
+**Kateřina Špalová**  
 <katerina.spalova@frisbee.cz>
 
-# Boj proti dopingu
+# Užitečné tipy
 
-Jakýkoli pokus o zneužití zakázaných látek a metod, které nespravedlivě ovlivňují výsledky sportu,
-je nepřijatelný. Každý účastník sportovního prostředí je povinen dodržovat antidopingová pravidla
-dle Směrnice pro kontrolu a postih dopingu ve sportu v České republice a podrobit se rozhodnutí
-příslušných orgánů ve věci porušení těchto pravidel, včetně případného uložení příslušné sankce.
+**Trénujeme s respektem**
+Je projekt, jehož cílem je zajistit dětem a mladým sportovcům bezpečné, přátelské, férové a stimulující sportovní prostředí. Doporučujeme tento projekt sledovat a inspirovat se jím pro fungování vašeho frisbee klubu. Například mají výborně zpracovaný Kodex sportovního klubu. Jedině prostředí, kde se všichni vzájemně respektují, umožňuje naplno rozvíjet u dětí a mladistvých zdravý sportovní potenciál, sociální dovednosti, posilovat jejich psychickou odolnost a zdravé sebevědomí.
 
-# Stránky Českého Antidopingu
-
-Na těchto stránkách <https://www.antidoping.cz> najdete všechny důležité informace, které se tohoto
-tématu týkají, včetně výše uvedené směrnice. Také doporučujeme si stáhnout aplikaci Čistý sport, kde
-si každý může ověřit, že např. léky, které bere, jsou čisté pro tvůj sport.
+**Aplikace Čistý sport**
+K životu sportovce patří i různá zranění a onemocnění a s nimi spojené lékařské přípravky. Pro tyto případy doporučujeme stáhnout si aplikaci Čistý sport na stránkách Českého antidopingu, kde si každý může ověřit, že např. léky, které bere, jsou čisté pro sport.
