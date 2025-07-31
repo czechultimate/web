@@ -1,4 +1,4 @@
-Etický kodex sportu České asociace ultimate frisbee je souborem stěžejních principů a hodnot, které tvoří základní pilíře etického chování v rámci našeho frisbee sportovního prostředí. Jeho plné znění najdete v Odkazech.
+[Etický kodex](https://drive.google.com/file/u/2/d/1Z0hdLr8qk4UXmdcQl2KC1Lbw997Jmgxg/view?usp=drive_link) sportu České asociace ultimate frisbee je souborem stěžejních principů a hodnot, které tvoří základní pilíře etického chování v rámci našeho frisbee sportovního prostředí. Jeho plné znění najdete v Odkazech.
 
 Věnuje se následujícím oblastem:
 - dodržování lidských práv, rovné příležitosti a ochrana bezpečí
@@ -22,8 +22,8 @@ Jsou osobami pověřenými přijímáním podnětů a oznámení týkajících s
 
 # Užitečné tipy
 
-**Trénujeme s respektem**
-Je projekt, jehož cílem je zajistit dětem a mladým sportovcům bezpečné, přátelské, férové a stimulující sportovní prostředí. Doporučujeme tento projekt sledovat a inspirovat se jím pro fungování vašeho frisbee klubu. Například mají výborně zpracovaný Kodex sportovního klubu. Jedině prostředí, kde se všichni vzájemně respektují, umožňuje naplno rozvíjet u dětí a mladistvých zdravý sportovní potenciál, sociální dovednosti, posilovat jejich psychickou odolnost a zdravé sebevědomí.
+## Trénujeme s respektem
+Je projekt, jehož cílem je zajistit dětem a mladým sportovcům bezpečné, přátelské, férové a stimulující sportovní prostředí. Doporučujeme tento projekt sledovat a inspirovat se jím pro fungování vašeho frisbee klubu. Například mají výborně zpracovaný [Kodex sportovního klubu](https://www.trenujemesrespektem.cz/kodex/). Jedině prostředí, kde se všichni vzájemně respektují, umožňuje naplno rozvíjet u dětí a mladistvých zdravý sportovní potenciál, sociální dovednosti, posilovat jejich psychickou odolnost a zdravé sebevědomí.
 
-**Aplikace Čistý sport**
-K životu sportovce patří i různá zranění a onemocnění a s nimi spojené lékařské přípravky. Pro tyto případy doporučujeme stáhnout si aplikaci Čistý sport na stránkách Českého antidopingu, kde si každý může ověřit, že např. léky, které bere, jsou čisté pro sport.
+## Aplikace Čistý sport
+K životu sportovce patří i různá zranění a onemocnění a s nimi spojené lékařské přípravky. Pro tyto případy doporučujeme stáhnout si [aplikaci Čistý sport](https://www.antidoping.cz/aplikace-cisty-sport) na stránkách Českého antidopingu, kde si každý může ověřit, že např. léky, které bere, jsou čisté pro sport.
