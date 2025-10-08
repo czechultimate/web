@@ -56,8 +56,8 @@ links:
     - text: Výsledky na frisbee.cz
       link: http://www.frisbee.cz/online-vysledky.html
   vysledky:
-    - text: Detailní výsledky turnajů (frisbee.cz)
-      link: http://www.frisbee.cz/online-vysledky.html
+    - text: Detailní výsledky turnajů
+      link: https://www.vysledky.frisbee.cz
   evidence:
     - text: Evidence členů
       link: http://evidence.frisbee.cz
@@ -83,14 +83,14 @@ links:
     - text: Soupiska na turnaj v docx
       link: https://docs.google.com/document/d/15n8WkkRgGnx4w1QWi4j6VZPUqiC41jR2/
   mistrovstvi-republiky:
-    - text: Výsledky na frisbee.cz
-      link: http://www.frisbee.cz/online-vysledky.html
+    - text: Výsledky na vysledky.frisbee.cz
+      link: https://www.vysledky.frisbee.cz
   halove-souteze:
-    - text: Výsledky na frisbee.cz
-      link: http://www.frisbee.cz/online-vysledky.html
+    - text: Výsledky na vysledky.frisbee.cz
+      link: https://www.vysledky.frisbee.cz
   juniorske-souteze:
-    - text: Výsledky na frisbee.cz
-      link: http://www.frisbee.cz/online-vysledky.html
+    - text: Výsledky na vysledky.frisbee.cz
+      link: https://www.vysledky.frisbee.cz
   eticky-kodex:
     - text: Etický kodex ČAUF
       link: https://drive.google.com/file/d/1Z0hdLr8qk4UXmdcQl2KC1Lbw997Jmgxg/view?usp=drive_link
