@@ -6,6 +6,7 @@ Z každé části postupuje podle daného klíče X týmů na regionální turna
 
 | Rok  | Místo konání   | Tým              | Kategorie | Výsledek     |
 | ---- | -------------- | ---------------- | --------- | ------------ |
+| 2025 | Wroclaw, POL | East Block       | WOMEN     | 8. místo        |
 | 2024 | Oostende, BEL | East Block       | WOMEN     | 5. místo        |
 | 2023 | Wroclaw, POL | East Block       | WOMEN     | 6. místo        |
 | 2022 | Frankfurt, DEU | Left Overs       | MIXED     | bronz        |
