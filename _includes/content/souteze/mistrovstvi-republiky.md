@@ -1,6 +1,4 @@
-Během venkovní sezóny mezi dubnem a říjnem se největší pozornost věnuje kategoriím open a women. Týmy se účastní dvou kvalifikačních turnajů, na kterých mají možnost získat body udělené za konečné pořadí. Na základě součtu získaných bodů jsou pak týmy rozděleny na finálový turnaj do první a&nbsp;druhé ligy.
-
-Ve zbytku venkovní sezóny je možné hrát ještě kategorii mixed. Podmínkou pro účast na mistrovství je úspěšné absolvování kvalifikačního turnaje. Neúspěšné týmy mají možnost hrát druhou, případně třetí ligu.
+Venkovní mistrovství republiky se odehrává každý rok a to ve třech kategoriích - mixed, open a women. Celý systém funguje tak, že se odehraje regionální (východ, západ) turnaj, ze kterého se kvalifikují týmy na finálový turnaj (MČR), který se většinou uskutečňuje dva týdny po kvalifikaci. Turnaj kategorie mixed probíhá jako první a na konci léta se odehrává turnaj kategorií open a women - obojí v rámci jednoho víkendu.
 
 # Mistři republiky
 
