@@ -1,7 +1,7 @@
 [info@frisbee.cz](mailto:info@frisbee.cz)
 
 Výkonná rada: [vr@frisbee.cz](mailto:vr@frisbee.cz)    
-Členové VR: [jmeno.prijmeni@frisbee.cz]
+Členové VR: jmeno.prijmeni@frisbee.cz
 
 Slack: [link](https://join.slack.com/t/caufrisbee/shared_invite/zt-h8hwfy03-yaZ3BrAwwkKQuQp0B0t2dg)
 
