@@ -1,8 +1,7 @@
 [info@frisbee.cz](mailto:info@frisbee.cz)
 
-Výkonná rada: [vr@frisbee.cz](mailto:vr@frisbee.cz)  
-Reprezentace: [reprezentace@frisbee.cz](mailto:reprezentace@frisbee.cz)  
-Členové VR: jmeno.prijmeni{{ site.data.data.email-domena }}
+Výkonná rada: [vr@frisbee.cz](mailto:vr@frisbee.cz)    
+Členové VR: [jmeno.prijmeni@frisbee.cz]
 
 Slack: [link](https://join.slack.com/t/caufrisbee/shared_invite/zt-h8hwfy03-yaZ3BrAwwkKQuQp0B0t2dg)
 
@@ -12,6 +11,13 @@ Petr Kotěšovec
 604 344 735  
 [petr.kotesovec@frisbee.cz](mailto:petr.kotesovec@frisbee.cz)
 
+## Safeguards
+
+Tadeáš Grym
+[tadeas.grym@frisbee.cz](mailto:tadeas.grym@frisbee.cz)
+
+Kateřina Špalová
+[katerina.spalova@frisbee.cz](mailto:katerina.spalova@frisbee.cz)
 
 ## Fakturační i poštovní adresa
 
