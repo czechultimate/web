@@ -27,3 +27,6 @@ Je projekt, jehož cílem je zajistit dětem a mladým sportovcům bezpečné, p
 
 ## Aplikace Čistý sport
 K životu sportovce patří i různá zranění a onemocnění a s nimi spojené lékařské přípravky. Pro tyto případy doporučujeme stáhnout si [aplikaci Čistý sport](https://www.antidoping.cz/aplikace-cisty-sport) na stránkách Českého antidopingu, kde si každý může ověřit, že např. léky, které bere, jsou čisté pro sport.
+
+## WFDF Academy
+Vzdělávací platforma WFDF, která je přístupná členům asociace, kde lze najít a bezplatně absolvovat kurzy, které se týkají například Safeguardingu, Gender equity, Diversity and Inclusion, Anti dopingu, pravidlům ultimate nebo třeba jak sport ovlivňuje klimatickou změnu a opačně. Stačí se zaregistrovat a vytvořit si svůj účet [WFDF Academy](https://academy.wfdf.sport/).
