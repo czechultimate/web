@@ -20,6 +20,7 @@ Označení hvězdičkou značí vítězství v kategorii Spirit of the Game.
 
 | Rok  | Akce | Místo             | OPEN | WOMEN | MIXED |
 | ---- | ---- | ----------------- | ---- | ----- | ----- |
+| 2025 | MS   | Portimão, PRT     |      | 12/18 | 3/27  |
 | 2019 | ME   | Portimão, PRT     |      |       | 8/18  |
 | 2017 | MS   | Royan, FRA        |      | 13/26 | 14/32 |
 | 2015 | MS   | Dubaj, UAE        |      |       | 11/18 |
@@ -30,6 +31,7 @@ Označení hvězdičkou značí vítězství v kategorii Spirit of the Game.
 
 | Rok  | Akce     | Místo                   | OPEN  | WOMEN | MIXED |
 | ---- | -------- | ----------------------- | ----- | ----- | ----- |
+| 2025 | ME       | Lund, SWE            | 11/12   | 7/8   |       |
 | 2023 | ME       | Bologna, ITA            | 6/8   | 6/7   |       |
 | 2019 | ME       | Madrid, ESP             | 8\*/9 |       |       |
 | 2019 | Beach ME | Portimão, PRT           | 4/14  |       |       |
@@ -47,12 +49,14 @@ Označení hvězdičkou značí vítězství v kategorii Spirit of the Game.
 
 | Rok  | Akce | Místo           | OPEN | WOMEN | MIXED |
 | ---- | ---- | --------------- | ---- | ----- | ----- |
+| 2025 | MS   | Logroño, ESP     |      |       | 6/21  |
 | 2019 | MS   | Heidelberg, DEU |      |       | 9/21  |
 
 ## U20
 
 | Rok  | Akce | Místo                | OPEN  | WOMEN | MIXED |
 | ---- | ---- | -------------------- | ----- | ----- | ----- |
+| 2025 | ME   | Trnava, SVK          | 5/14  | 3/7  |       |
 | 2023 | ME   | Padova, ITA          | 7/12  | 3/12  |       |
 | 2022 | MS   | Vratislav, POL       | 12/12 | 5/10  |       |
 | 2019 | ME   | Vratislav, POL       | 7/16  | 5/12  | 5/7   |
