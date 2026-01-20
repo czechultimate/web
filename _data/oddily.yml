@@ -22,6 +22,11 @@ teams:
   web: brno-ultimate.cz
   contact: brno.ultimate.underground@gmail.com
 
+- name: "Budflies"
+  city: "České Budějovice"
+  web: 
+  contact: 
+
 - name: "Dream Team B"
   city: Praha
   fb: DreamTeamUltimateFrisbee
@@ -30,6 +35,11 @@ teams:
   city: Praha
   web: fujultimate.cz
   contact: info@fujultimate.cz
+
+- name: "Hammers Havířov"
+  city: "Havířov"
+  web: 
+  contact: 
 
 - name: Chlupatá žába
   city: "Slatiňany"
@@ -78,6 +88,11 @@ teams:
   web: praguedevils.org
   contact: info@praguedevils.org
 
+- name: "Přístav"
+  city: "Český Těšín"
+  web: 
+  contact: 
+
 - name: "Rainbow Banana"
   city: "Bohumín"
   web: frisbee.cz/rainbow-banana
@@ -100,6 +115,11 @@ teams:
   city: "Praha"
   web: terriblemonkeys.cz
   contact: monkeys@email.cz
+
+- name: "Trinity Třinec"
+  city: "Třinec"
+  web: 
+  contact: 
 
 - name: Trubky
   city: "Náchod"
