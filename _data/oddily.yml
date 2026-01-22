@@ -24,8 +24,7 @@ teams:
 
 - name: "Budflies"
   city: "České Budějovice"
-  web: 
-  contact: 
+  contact: edgebudflies@gmail.com
 
 - name: "Dream Team B"
   city: Praha
@@ -38,8 +37,8 @@ teams:
 
 - name: "Hammers Havířov"
   city: "Havířov"
-  web: 
-  contact: 
+  fb: EDGE Hammers Havířov
+  contact: pavelpham21@gmail.com
 
 - name: Chlupatá žába
   city: "Slatiňany"
@@ -118,8 +117,7 @@ teams:
 
 - name: "Trinity Třinec"
   city: "Třinec"
-  web: 
-  contact: 
+  contact: edgetrinec@gmail.com
 
 - name: Trubky
   city: "Náchod"
