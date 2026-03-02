@@ -9,6 +9,7 @@ Od roku 2014 porádáme také halové mistrovství republiky v juniorské katego
 
 | Rok  | OPEN          | WOMEN         | MIXED             |
 | ---- | ------------- | ------------- | ----------------- |
+| 2026 | Prague Devils | 3SB    | PeaceEgg  |
 | 2025 | F.U.J.        | Terrible Monkeys    | F.U.J.  |
 | 2024 | PeaceEgg      |Terrible Monkeys| Terrible Monkeys  |
 | 2023 | 3SB     | Východní Blok     | Terrible Monkeys    |
