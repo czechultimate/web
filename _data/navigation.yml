@@ -64,6 +64,8 @@ programy:
       link: ssl
     - name: "Školení učitelů"
       link: skoleni-ucitelu
+    - name: EDGE
+      link: edge
     - name: Minigranty
       link: minigranty
 asociace:
