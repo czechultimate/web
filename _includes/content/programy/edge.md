@@ -8,4 +8,5 @@ Týmy jsou otevřené hráčům všech úrovní – zkušeným hráčům i úpln
 EDGE tak ukazuje, že ultimate frisbee může být nejen sportem, ale i prostředím, kde se hráči osobně rozvíjí a získávají v týmu dobré vztahy a komunitu.
 
 Máš dotaz? Napiš nám na: [edge@kam.cz](mailto:edge@kam.cz)
-Pro více informací navštiv webovky: [KAM - EDGE Sports](https://kam.cz/nabizime/edge/)
+
+Pro víc informací navštiv webovky: [KAM - EDGE Sports](https://kam.cz/nabizime/edge/)
