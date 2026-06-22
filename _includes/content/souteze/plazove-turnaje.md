@@ -5,17 +5,13 @@ Vyjímkou mezi oficiálními akcemi jsou reprezentace, které na plážové mist
 Mezi tradiční plážové turnaje patří například:
 
 -   [Paganello](http://www.paganello.com/) (Rimini, ITA)
--   [BBC](https://www.bibione-disc.com/) (Bibione, ITA)
--   Copa Tanga (Barcelona, ESP)
--   Sabe a Mixta (Valencie, ESP)
--   Olgoj chorchoj (Plzeň, CZE)
 
 # Mistři republiky BEACH
 
 | Rok  | OPEN          | WOMEN          | MIXED       |
 | ---- | ------------- | -------------- | ----------- |
-| 2025 |        |   |F.U.J.       |
-| 2024 | *nekonalo se*       | 3SB  |Terrible Monkeys       |
+| 2025 |   *nekonalo se*    | *nekonalo se* |F.U.J.       |
+| 2024 | *nekonalo se*       | 3SB  |Terrible Monkeys |
 | 2023 | Brblava       | *nekonalo se*  | FUJ         |
 | 2022 | *nekonalo se* | *nekonalo se*  | FUJ         |
 | 2021 | *nekonalo se* | *nekonalo se*  | L.D.C.      |
@@ -28,7 +24,16 @@ Mezi tradiční plážové turnaje patří například:
 
 | Rok  | Místo          | OPEN       | WOMEN                                | MIXED              |
 | ---- | -------------- | ---------- | ------------------------------------ | ------------------ |
-| 2022 | Portimão, PRT  | bez účasti | bez účasti                           | L.D.C. (11/23), FUJ (15/23) |
+| 2025 | Gdansk, POL  | Brblava (8/18) | bez účasti                             | F.U.J. (2/21) |
+| 2023 | Royan, FRA  | bez účasti | bez účasti                             | F.U.J. (6/21), Terrible Monkeys (12/21) |
+| 2022 | Portimão, PRT  | bez účasti | bez účasti                           | L.D.C. (11/23), F.U.J. (15/23) |
 | 2018 | Barcelona, ESP | bez účasti | Yellow Fujever (8/16), 3SB\* (15/16) | Chupacabras (9/16) |
+
+# Výsledky českých klubů na WBUCC
+
+| Rok  | Místo          | OPEN       | WOMEN                                | MIXED              |
+| ---- | -------------- | ---------- | ------------------------------------ | ------------------ |
+| 2024 | Portimão, PRT  | Brblava (19/39) | 3SB (17/25)                     | F.U.J. (8/53), Prague Devils (22/53), Terrible Monkeys (36/53) |
+
 
 \* vítěz Spirit of the Game
