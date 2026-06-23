@@ -10,8 +10,8 @@ Z každé části postupuje podle daného klíče X týmů na regionální turna
 | 2024 | Oostende, BEL | East Block       | WOMEN     | 5. místo        |
 | 2023 | Wroclaw, POL | East Block       | WOMEN     | 6. místo        |
 | 2022 | Frankfurt, DEU | Left Overs       | MIXED     | bronz        |
-| 2021 | Bruggy, BEL    | FUJ              | OPEN      | 5. místo     |
-| 2019 | Caorle, ITA    | FUJ              | OPEN      | 6. místo     |
+| 2021 | Bruggy, BEL    | F.U.J.              | OPEN      | 5. místo     |
+| 2019 | Caorle, ITA    | F.U.J.              | OPEN      | 6. místo     |
 | 2017 | Frankfurt, DEU | Left Overs       | MIXED     | SOTG         |
 | 2015 | Wrocław, POL   | Yellow Block     | MIXED     | stříbro      |
 | 2014 | Frankfurt, DEU | Terrible Monkeys | MIXED     | bronz        |
