@@ -12,10 +12,10 @@ Mezi tradiční plážové turnaje patří například:
 | ---- | ------------- | -------------- | ----------- |
 | 2025 |   *nekonalo se*    | *nekonalo se* |F.U.J.       |
 | 2024 | *nekonalo se*       | 3SB  |Terrible Monkeys |
-| 2023 | Brblava       | *nekonalo se*  | FUJ         |
-| 2022 | *nekonalo se* | *nekonalo se*  | FUJ         |
+| 2023 | Brblava       | *nekonalo se*  | F.U.J.         |
+| 2022 | *nekonalo se* | *nekonalo se*  | F.U.J.         |
 | 2021 | *nekonalo se* | *nekonalo se*  | L.D.C.      |
-| 2020 | Left Overs    | Prague Devils  | FUJ         |
+| 2020 | Left Overs    | Prague Devils  | F.U.J.         |
 | 2019 | Left Overs    | Východní blok  | Chupacabras |
 | 2018 | nepořádalo se | Yellow Fujever | Chupacabras |
 | 2017 | nepořádalo se | Yellow Fujever | Chupacabras |
