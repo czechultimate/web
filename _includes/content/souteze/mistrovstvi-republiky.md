@@ -1,4 +1,4 @@
-Venkovní mistrovství republiky se odehrává každý rok a to ve třech kategoriích - mixed, open a women. Celý systém funguje tak, že se odehraje regionální (východ, západ) turnaj, ze kterého se kvalifikují týmy na finálový turnaj (MČR), který se většinou uskutečňuje dva týdny po kvalifikaci. Turnaj kategorie mixed probíhá jako první a na konci léta se odehrává turnaj kategorií open a women - obojí v rámci jednoho víkendu.
+Venkovní mistrovství republiky se odehrává každý rok a to ve třech kategoriích - mixed, open a women. Celý systém funguje tak, že se odehraje celorepublikový turnaj, ze kterého se kvalifikují týmy na finálový turnaj (MČR), který se většinou uskutečňuje dva týdny po kvalifikaci. Turnaj kategorie mixed probíhá jako první a na konci léta se odehrává turnaj kategorií open a women - obojí v rámci jednoho víkendu.
 
 # Mistři republiky
 
@@ -10,10 +10,10 @@ Venkovní mistrovství republiky se odehrává každý rok a to ve třech katego
 | 2023 | Terrible Monkeys | Východní Blok | Terrible Monkeys|
 | 2022 | 3SB              | 3SB           | Terrible Monkeys|
 | 2021 | 3SB              | 3SB           | 3SB             |
-| 2020 | FUJ              | 3SB           | _zrušeno_       |
+| 2020 | F.U.J.              | 3SB           | _zrušeno_       |
 | 2019 | 3SB              | 3SB           | 3SB             |
 | 2018 | Yellow Block     | Velká Morava  | Žlutá Zimnice   |
-| 2017 | FUJ              | 3SB           | Žlutá zimnice   |
+| 2017 | F.U.J.              | 3SB           | Žlutá zimnice   |
 | 2016 | Yellow Block     | 3SB           | Žlutá zimnice   |
 | 2015 | Figurky Slonů    | Yellow Block  | 3SB             |
 | 2014 | Terrible Monkeys | Yellow Block  | Žlutá Zimnice   |
@@ -25,8 +25,8 @@ Venkovní mistrovství republiky se odehrává každý rok a to ve třech katego
 | 2008 | Prague Devils    | Žlutá Zimnice | Prague Devils   |
 | 2007 | Prague Devils    | Prague Devils | Prague Devils   |
 | 2006 | Prague Devils    | Žlutá Zimnice | Žlutá Zimnice   |
-| 2005 | FUJ              | Žlutá Zimnice | Žlutá Zimnice   |
-| 2004 | FUJ              | Prague Devils | Prague Devils   |
+| 2005 | F.U.J.              | Žlutá Zimnice | Žlutá Zimnice   |
+| 2004 | F.U.J.              | Prague Devils | Prague Devils   |
 | 2003 | Prague Devils    |               |                 |
 | 2002 | Terrible Monkeys |               |                 |
 | 2001 | Prague Lions     |               |                 |
