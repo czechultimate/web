@@ -30,11 +30,16 @@ Kdo umí aspoň trochu s gitem, může si jednoduše repozitář stáhnout k sob
 
 ![](tutorial/commit.png)
 
+Když se web po změně nepodaří sestavit (typicky kvůli chybě v hlavičce článku), zůstane na webu předchozí verze a chybu uvidíte v záložce **Actions** (červený křížek). Křížek u commitu, po kterém hned přišel další commit, nevadí. Rozhoduje výsledek toho posledního.
+
 ### Kam nahrávat obrázky/soubory
 
 Všechny obrázky ke článkům se nahrávají do `assets/img/posts/year`. Ve složce `assets/img/posts/uzitecne` jsou obrázky, které se můžou občas hodit k nekterým článkům, pokud nebudeme mít k dispozici lepší foto. Dokumenty se nahrávají do `assets/files`.
 
-**Nahrávejte obrázky s minimální šířkou 550px!**
+**Nahrávejte obrázky s minimální šířkou 550px!** Zároveň ale max. cca 2000 px na šířku a ideálně do 1 MB, ať se web rychle načítá.
+
+- Názvy obrázků pište bez diakritiky a mezer (`ssl-finale-2026.jpg`, ne `SŠL finále.jpg`).
+- Když obrázek měníte, nahrajte ho pod novým názvem a ten dejte do článku. Web drží soubory 10 minut v cache, takže přepsaný obrázek se ještě chvíli může ukazovat ve staré verzi.
 
 ### Jak odkazovat na jiné stránky webu
 
@@ -42,13 +47,15 @@ Vždycky můžete použít celou adresu, kterou zkopírujete z prohlížeče, al
 
 Takhle NE:
 ```
-[Jak začít hrát](https://czechultimate.github.io/web/jak-zacit)
+[Jak začít hrát](https://www.czechultimate.cz/jak-zacit)
 ```
 
 Takhle ANO:
 ```
-[Jak začít hrát](jak-zacit)
+[Jak začít hrát](/jak-zacit)
 ```
+
+Lomítko na začátku je důležité. Bez něj (`jak-zacit`) odkaz funguje jen na hlavních stránkách webu, z článků vede na neexistující adresu.
 
 Linky mimo web samozřejmě musíte uvádět celé, včetně https na začátku.
 
@@ -56,18 +63,24 @@ Linky mimo web samozřejmě musíte uvádět celé, včetně https na začátku.
 
 ### Jak přidat článek
 
-Ve složce `_posts/2020` (analogicky pro jiný rok)  najdete všechny články. Stačí vytvořit nový soubor ve formátu `YYYY-MM-DD-volitelny-popisek.md`. Datum na začátku názvu určuje, kdy se článek na webu zveřejní. Můžete si tak nachystat text na budoucí publikaci. Nezapomeňte, že obsah se píše pomocí markdownu. 
+Ve složce `_posts/2026` (analogicky pro jiný rok)  najdete všechny články. Stačí vytvořit nový soubor ve formátu `YYYY-MM-DD-volitelny-popisek.md`. Datum v názvu je datum článku, zobrazí se u něj a je součástí jeho adresy. Článek s budoucím datem se na webu neobjeví hned, ale až s první další úpravou webu po tomto datu, takže na plánované zveřejnění nespoléhejte. Nezapomeňte, že obsah se píše pomocí markdownu. 
 
-Na začátku souboru se musí objevit speciální struktura, která nastavuje některá metadata článku. Například kategorii nebo tagy. Povinný je layout (vždy `post`) a title. Doporučuju uvést autora a vložit cestu k úvodnímu obrázku (obrázky k článkům nahrávejte do `assests/img/posts/rok`).
+Pár pravidel:
+
+- Název souboru pište bez diakritiky a mezer, ve tvaru `YYYY-MM-DD-nazev.md` (např. `2026-06-23-mcr-mixed.md`).
+- Složku pro nový rok vytvoříte ve webovém rozhraní tak, že ve složce `_posts` napíšete do pole s názvem souboru `2027/2027-01-15-nazev.md`. Lomítko složku založí.
+- Titulek, který obsahuje dvojtečku, musí být v uvozovkách: `title: "Beach MČR: výsledky"`. Jinak se web nesestaví.
+- Tagy pište jako seznam v hranatých závorkách: `tags: [turnaje, ssl]`. Články s tagem `ssl` nebo `reprezentace` se ukážou v boxu Související na stránce Středoškolské ligy, resp. Reprezentace.
+
+Hned na prvním řádku souboru musí začínat speciální struktura, která nastavuje některá metadata článku. Například kategorii nebo tagy. Povinný je layout (vždy `post`) a title. Doporučuju uvést autora a vložit cestu k úvodnímu obrázku (obrázky k článkům nahrávejte do `assets/img/posts/rok`). Úvodní obrázek se použije i jako náhled při sdílení odkazu na sociálních sítích.
 
 ```yml
-
 ---
 layout: post
 category: rozvoj
-tags: ucitele, skoleni
-title: Vzdělávání trenérů v roce 2020
-img: assets/img/post/2020/repre_team.jpg
+tags: [ucitele, skoleni]
+title: Vzdělávání trenérů v roce 2026
+image: assets/img/posts/2026/repre_team.jpg
 author: Jan Novák
 ---
 
@@ -108,23 +121,23 @@ Docs:
 
 ## Prerequisites
 
-Install docker and docker-compose.
+Install Docker (with Docker Compose).
 
 ## How to run
 
-Run `docker-compose up` and open `localhost:4000` in your favourite web browser.
+Run `docker compose up` and open http://localhost:4000 in your favourite web browser.
 
 ## How to build
 
 Only if you need that. It's not necessary to run it.
 
 ```
-docker run --rm -it --volume="$PWD:/srv/jekyll" --env JEKYLL_ENV=production jekyll/jekyll jekyll build
+docker run --rm -it --volume="$PWD:/srv/jekyll" --env JEKYLL_ENV=production jekyll/jekyll:pages jekyll build
 ```
 
 ## How to add dependency
 
-Update Gemfile and run `docker-compose down && docker-compose up`.
+GitHub Pages builds the site with its own fixed set of gems, so only [plugins supported by GitHub Pages](https://pages.github.com/versions/) work. Add the plugin to `plugins` in `_config.yml` and restart `docker compose up`.
 
 ## Semantic UI
 
