@@ -8,30 +8,28 @@ links:
     - text: "Wikipedie (en)"
       link: https://en.wikipedia.org/wiki/Ultimate_(sport)
     - text: "Pravidla na stránkách WFDF (en)"
-      link: http://www.wfdf.org/sports/rules-of-play
+      link: https://rules.wfdf.sport/
     - text: "O ultimate na USA Ultimate (en)"
-      link: https://www.usaultimate.org/about/ultimate/
+      link: https://usaultimate.org/discover-ultimate/
   sotg:
     - text: "O SOTG na stránkách WFDF"
-      link: http://www.wfdf.org/sotg/about-sotg
+      link: https://wfdf.sport/organisation/spirit-of-the-game/
     - text: "O SOTG na USA Ultimate"
-      link: https://www.usaultimate.org/about/ultimate/spirit_of_the_game.aspx
+      link: https://usaultimate.org/spirit-of-the-game/
   historie:
     - text: "Historie na stránkách WFDF"
-      link: http://www.wfdf.org/history-stats/history-of-ultimate
+      link: https://wfdf.sport/organisation/history/history-of-ultimate/
   reprezentace:
-    - text: Vize Czech Ultimate 2020
-      link: https://cald.cz/czech-ultimate-2020
     - text: CZE-CAN na MS 2016 v Londýně (YouTube)
       link: https://youtu.be/OEND0iHLDXo
   reprezentace-vysledky:
     - text: "Archiv výsledků národních týmů"
-      link: http://hartti.com/national_teams/index.php
+      link: https://ultimatestats.org/
   evropska-liga:
     - text: EUCF/WUCC/EBUCC historické umístění českých týmů
       link: https://docs.google.com/spreadsheets/d/1kQ2DhxgmGuzW7UrUpnuLRsIbLNziHvzBXCud_R2rHag
     - text: European ultimate championships series (EUCS) na stránkach EUF
-      link: https://www.ultimatefederation.eu/club-champs.php
+      link: https://eucs.ultimatefederation.eu/
   pravidla:
     - text: Veškeré soubory k pravidlum od WFDF
       link: https://rules.wfdf.sport/
@@ -40,9 +38,6 @@ links:
   jak-zacit:
     - text: "Frisbee e-shop Ultimo"
       link: https://www.ultimo.cz/
-  poradani-turnaje:
-    - text: "Catcher: Android aplikace pro zadávání výsledků a hodnocení SOTG na turnajích"
-      link: https://play.google.com/store/apps/details?id=com.ulti.catcher
   worlds:
     - text: EUCF/WUCC/EBUCC historické umístění českých týmů
       link: https://docs.google.com/spreadsheets/d/1kQ2DhxgmGuzW7UrUpnuLRsIbLNziHvzBXCud_R2rHag
@@ -54,7 +49,7 @@ links:
     - text: Čeští junioři ovládli prestižní turnaj v Rimini (sport.cz, 2011)
       link: https://www.sport.cz/ostatni/frisbee/clanek/185621-cesti-juniori-ovladli-prestizni-turnaj-v-rimini.html
     - text: Výsledky na frisbee.cz
-      link: http://www.frisbee.cz/online-vysledky.html
+      link: https://www.vysledky.frisbee.cz
   vysledky:
     - text: Detailní výsledky turnajů
       link: https://www.vysledky.frisbee.cz

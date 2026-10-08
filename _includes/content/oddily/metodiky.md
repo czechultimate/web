@@ -2,5 +2,5 @@
 - [Videa z Boston Ironside training campu 2017](https://inner-wisdom.thinkific.com/courses/ironside-tc) - základy ultimate od jednoho z kapitánů top amerického týmu, Russella Wallacka
 - [Minimetodiky k propagaci a náboru nováčků](https://docs.google.com/document/d/1kMpAYmzm_GNjVxNBCb6E1dvPcqldrfQX/edit)
 - [UPA Manual of Tournament Formats](https://www.cs.rochester.edu/u/ferguson/ultimate/upa-formats/)
-- [Jak z Evidence členů vytáhnout data pro sportovní rejstřík](https://www.czechultimate.cz/blog/2020/01/29/jak-vygenerovat-data-z-evidence.html)
-- [Markerování v osobní obraně](https://drive.google.com/file/d/1JGUkKAfRoNOJhV7GhV-ciZLu5CfHksa9/view) - detailní rozbor markerování a jeho aspektů od [Ultimate Improvement Academy](https://uia.cz/)
+- [Jak z Evidence členů vytáhnout data pro sportovní rejstřík](/blog/2020/01/29/jak-vygenerovat-data-z-evidence.html)
+- [Markerování v osobní obraně](https://drive.google.com/file/d/1JGUkKAfRoNOJhV7GhV-ciZLu5CfHksa9/view) - detailní rozbor markerování a jeho aspektů od Ultimate Improvement Academy
