@@ -1,3 +1,11 @@
+url: https://www.czechultimate.cz
+baseurl: ""
+title: ČAU Frisbee
+description: Česká asociace ultimate frisbee
+lang: cs_CZ
+timezone: Europe/Prague
+strict_front_matter: true
+
 collections:
   authors:
     output: true
@@ -18,6 +26,14 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - semantic.json
+- package.json
 - package-lock.json
 - node_modules
 - docker-compose.yml
+- tutorial
+- semantic/src
+- semantic/tasks
+- semantic/gulpfile.js
+- semantic/semantic.json
+- semantic/dist/semantic.js
+- semantic/dist/semantic.css
