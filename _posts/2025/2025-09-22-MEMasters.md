@@ -1,9 +1,9 @@
 ---
 layout: post
 category:
-tags: turnaje
+tags: [turnaje, reprezentace]
 title: Na ME Masters jsme vyslali dva české týmy
-img: assets/img/posts/2025/masters25.png
+image: assets/img/posts/2025/masters25.png
 author: Adéla Vejvoda
 ---
 

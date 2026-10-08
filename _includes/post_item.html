@@ -1,6 +1,6 @@
 <div class="item">
     <div class="image">
-        <img src="{{ post.img | relative_url }}">
+        <img src="{{ post.image | default: post.img | relative_url }}" loading="lazy" decoding="async" alt="{{ post.title | replace: '&nbsp;', ' ' | escape }}">
     </div>
     <div class="content">
         <a class="header" href="{{ post.url | relative_url }}">{{ post.title }}</a>

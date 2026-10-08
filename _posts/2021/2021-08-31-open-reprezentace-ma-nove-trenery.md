@@ -1,9 +1,9 @@
 ---
 layout: post
 category:
-tags: reprezentace open
+tags: [reprezentace, open]
 title: Představujeme nové trenéry open reprezentace
-img: assets/img/posts/2021/fila.jpg
+image: assets/img/posts/2021/fila.jpg
 author: Tereza Dvořáková
 ---
 

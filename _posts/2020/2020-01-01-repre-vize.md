@@ -1,9 +1,9 @@
 ---
 layout: post
 category: blog
-tags: reprezentace
+tags: [reprezentace]
 title: Vize a plány reprezentačních trenérů pro&nbsp;rok 2020
-img: assets/img/posts/uzitecne/trenovani_1.jpg
+image: assets/img/posts/uzitecne/trenovani_1.jpg
 author: Kateřina Langová
 ---
 

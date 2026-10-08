@@ -3,7 +3,7 @@ layout: post
 category: 
 tags:
 title: "O postup na mezinárodní klubové soutěže se bude bojovat na MČR "
-img: assets/img/posts/uzitecne/atmosfera_1.jpg
+image: assets/img/posts/uzitecne/atmosfera_1.jpg
 author: Marek Dostál
 ---
 

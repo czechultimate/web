@@ -1,9 +1,9 @@
 ---
 layout: post
 category:
-tags: turnaje
+tags: [turnaje]
 title: Letošním výhercem turnaje Final Four jsou Terrible Monkeys!
-img: assets/img/posts/2025/FF.jpg
+image: assets/img/posts/2025/FF.jpg
 author: Adéla Vejvoda
 photo_author: Klára Lipertová
 ---

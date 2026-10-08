@@ -1,9 +1,9 @@
 ---
 layout: post
 category: 
-tags: cus
+tags: [cus]
 title: Frisbee součástí České unie sportu. Jaké to přináší výhody?
-img: assets/img/posts/uzitecne/logo_cus.png
+image: assets/img/posts/uzitecne/logo_cus.png
 author: Tereza Dvořáková
 ---
 

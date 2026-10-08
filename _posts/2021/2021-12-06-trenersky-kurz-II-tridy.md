@@ -1,9 +1,9 @@
 ---
 layout: post
 category: trénování
-tags: trénování,učitelé,trenéři
+tags: [trénování, učitelé, trenéři]
 title: Staňte se trenérem II. třídy!
-img: assets/img/posts/uzitecne/trenovani_1.jpg
+image: assets/img/posts/uzitecne/trenovani_1.jpg
 author: Tadeáš Grym
 ---
 

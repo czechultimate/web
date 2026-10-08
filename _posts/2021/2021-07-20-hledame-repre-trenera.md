@@ -1,9 +1,9 @@
 ---
 layout: post
 category:
-tags: reprezentace
+tags: [reprezentace]
 title: "Reprezentace hledá trenéry pro ženský a mixový tým"
-img: assets/img/posts/uzitecne/hra_12.jpg
+image: assets/img/posts/uzitecne/hra_12.jpg
 author: Radmila Hadlačová
 ---
 

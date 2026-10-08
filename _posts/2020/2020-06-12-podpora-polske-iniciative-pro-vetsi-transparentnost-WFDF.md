@@ -1,9 +1,9 @@
 ---
 layout: post
 category: reprezentace
-tags: reprezentace, wfdf, wjuc, wugc, dopis, transparentnost
+tags: [reprezentace, wfdf, wjuc, wugc, dopis, transparentnost]
 title: Podpora polské iniciativě pro větší transparentnost WFDF
-img: assets/img/posts/uzitecne/spiritofthegame.png
+image: assets/img/posts/uzitecne/spiritofthegame.png
 author: Tadeáš Grym
 ---
 Připojili jsme se k otevřenému dopisu, který vzešel od polské asociace ultimate. V něm Poláci vyzývají světovou federaci, která nedávno oznámila zrušení WJUC (World Ultimate Junior Championships), a také odložení WUGC (World Ultimate & Guts Championships), k větší transparentnosti ohledně financování a organizace obou mistrovství.  

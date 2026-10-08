@@ -1,9 +1,9 @@
 ---
 layout: post
 category:
-tags: juniori
+tags: [mcr, turnaje]
 title: Mistrovství ČR O/W ovládl tým 3SB
-img: assets/img/posts/2021/mcr_open.jpg
+image: assets/img/posts/2021/mcr_open.jpg
 author: Tereza Dvořáková
 ---
 

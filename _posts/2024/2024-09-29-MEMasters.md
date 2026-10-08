@@ -3,7 +3,7 @@ layout: post
 category: 
 tags:
 title: Češi vybojovali dvě medaile na klubovém mistrovství Evropy 2024 v Masters kategoriích!
-img: assets/img/posts/2024/grandmasters_open.jpg
+image: assets/img/posts/2024/grandmasters_open.jpg
 author: Adéla Novotná
 ---
 

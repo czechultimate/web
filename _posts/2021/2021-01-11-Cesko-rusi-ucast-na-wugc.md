@@ -1,9 +1,9 @@
 ---
 layout: post
 category: reprezentace
-tags: reprezentace, repre, WUGC, 2021
+tags: [reprezentace, repre, WUGC, "2021"]
 title: Česko odvolává účast na WUGC 2021
-img: assets/img/posts/2020/WUGC-2021-logo.png
+image: assets/img/posts/2020/WUGC-2021-logo.png
 author: Tadeáš Grym
 ---
 VR ČAU se po důsledném zvážení situace a dialogu se zástupci reprezentací rozhodla zrušit účast České republiky na letošním mistrovství světa, které bylo posunuto z léta 2020.  

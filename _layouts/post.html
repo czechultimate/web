@@ -23,7 +23,7 @@ layout: homepage
         {% endif %}
     </div>
 
-    <img src="{{ page.img | relative_url }}" style="margin-bottom: 20px; margin-top: 10px;">
+    <img src="{{ page.image | default: page.img | relative_url }}" alt="{{ page.title | replace: '&nbsp;', ' ' | escape }}" decoding="async" style="margin-bottom: 20px; margin-top: 10px;">
 
     {{ content }}
 

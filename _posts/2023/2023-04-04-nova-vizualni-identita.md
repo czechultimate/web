@@ -3,7 +3,7 @@ layout: post
 category:
 tags: 
 title: Nový název asociace a nová vizuální identita
-img: assets/img/posts/2023/cau-frisbee.png
+image: assets/img/posts/2023/cau-frisbee.png
 author: Petr Kotěšovec
 photo_author:
 ---

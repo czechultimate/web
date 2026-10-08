@@ -1,9 +1,9 @@
 ---
 layout: post
 category: pravidla
-tags: STK, pravidla, změna, aktualizace, WFDF, gender, ratio, rule
+tags: [STK, pravidla, změna, aktualizace, WFDF, gender, ratio, rule]
 title: Gender ratio rule A - přijato
-img: assets/img/posts/2020/FrsibeeDobruska_130.jpg
+image: assets/img/posts/2020/FrsibeeDobruska_130.jpg
 author: Tadeáš Grym
 ---
 VR ČAU na schůzi konané 5.3. 2021 přijala zavedení gender ratio rule A s okamžitou účinností na všech českých ligových turnajích. Co to znamená?

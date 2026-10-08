@@ -1,9 +1,9 @@
 ---
 layout: post
 category:
-tags: juniori
+tags: [juniori, reprezentace]
 title: Pozvnánka na juniorské soustředění 9. a 10. října
-img: assets/img/posts/uzitecne/juniori_1.jpg
+image: assets/img/posts/uzitecne/juniori_1.jpg
 author: Kateřina Kilianová
 ---
 
