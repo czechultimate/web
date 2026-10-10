@@ -1,0 +1,46 @@
+name: Optimize images
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - '**.[jJ][pP][gG]'
+      - '**.[jJ][pP][eE][gG]'
+      - '**.[pP][nN][gG]'
+      - '**.[wW][eE][bB][pP]'
+  workflow_dispatch:
+
+concurrency:
+  group: optimize-images
+
+permissions:
+  contents: write
+  pages: write
+
+jobs:
+  optimize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.13'
+
+      - run: pip install pillow==12.3.0
+
+      - run: python .github/scripts/optimize_images.py
+
+      - name: Commit and rebuild the site
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Optimize uploaded images"
+          git pull --rebase origin master
+          git push origin HEAD:master
+          gh api -X POST "repos/$GITHUB_REPOSITORY/pages/builds"
