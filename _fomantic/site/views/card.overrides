@@ -1,0 +1,7 @@
+/* Bottom attached card buttons end on the card edge instead of overlapping it by 1px */
+.ui.cards > .card > .buttons:last-child,
+.ui.card > .buttons:last-child,
+.ui.cards > .card > .button:last-child,
+.ui.card > .button:last-child {
+    margin-bottom: 0;
+}

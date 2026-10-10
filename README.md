@@ -139,25 +139,12 @@ docker run --rm -it --volume="$PWD:/srv/jekyll" --env JEKYLL_ENV=production jeky
 
 GitHub Pages builds the site with its own fixed set of gems, so only [plugins supported by GitHub Pages](https://pages.github.com/versions/) work. Add the plugin to `plugins` in `_config.yml` and restart `docker compose up`.
 
-## Semantic UI
+## Fomantic UI
 
-### How to install
+The site uses [Fomantic UI](https://fomantic-ui.com/) with the default theme and Open Sans hosted locally. Only the build output is committed in `assets/fomantic/`. The theme settings live in `_fomantic/` (`site/globals/site.variables` for fonts, `semantic.json` for the list of components).
 
-```bash
-# install nodejs and gulp
-npm install semantic-ui --save
-cd semantic/
-gulp build
-```
-
-### How to update
+To rebuild after changing the settings or the version in `_fomantic/build.sh`, run (requires Docker):
 
 ```bash
-npm update
-```
-
-or force update
-
-```
-npm install <packagename>@latest
+./_fomantic/build.sh
 ```

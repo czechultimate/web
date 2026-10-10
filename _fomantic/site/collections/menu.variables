@@ -1,0 +1,2 @@
+/* Keep the active item translucent on the custom blue navigation bar */
+@invertedActiveBackground: @strongTransparentWhite;

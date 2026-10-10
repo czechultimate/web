@@ -1,0 +1,4 @@
+/* Keep divided horizontal lists (footer links) flush left, so they stay centered */
+.ui.divided.horizontal.list > .item:first-child {
+    padding-left: 0;
+}
