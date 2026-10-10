@@ -36,7 +36,7 @@ Když se web po změně nepodaří sestavit (typicky kvůli chybě v hlavičce �
 
 Všechny obrázky ke článkům se nahrávají do `assets/img/posts/year`. Ve složce `assets/img/posts/uzitecne` jsou obrázky, které se můžou občas hodit k nekterým článkům, pokud nebudeme mít k dispozici lepší foto. Dokumenty se nahrávají do `assets/files`.
 
-**Nahrávejte obrázky s minimální šířkou 550px!** Zároveň ale max. cca 2000 px na šířku a ideálně do 1 MB, ať se web rychle načítá.
+**Nahrávejte obrázky s minimální šířkou 550px!** Větší fotky není potřeba zmenšovat ručně. Obrázky přes 2000 px nebo 1 MB se do minuty po nahrání zmenší automaticky a zároveň se z nich odstraní metadata včetně GPS polohy. V historii se to objeví jako commit „Optimize uploaded images“ od github-actions.
 
 - Názvy obrázků pište bez diakritiky a mezer (`ssl-finale-2026.jpg`, ne `SŠL finále.jpg`).
 - Když obrázek měníte, nahrajte ho pod novým názvem a ten dejte do článku. Web drží soubory 10 minut v cache, takže přepsaný obrázek se ještě chvíli může ukazovat ve staré verzi.
@@ -63,7 +63,7 @@ Linky mimo web samozřejmě musíte uvádět celé, včetně https na začátku.
 
 ### Jak přidat článek
 
-Ve složce `_posts/2026` (analogicky pro jiný rok)  najdete všechny články. Stačí vytvořit nový soubor ve formátu `YYYY-MM-DD-volitelny-popisek.md`. Datum v názvu je datum článku, zobrazí se u něj a je součástí jeho adresy. Článek s budoucím datem se na webu neobjeví hned, ale až s první další úpravou webu po tomto datu, takže na plánované zveřejnění nespoléhejte. Nezapomeňte, že obsah se píše pomocí markdownu. 
+Ve složce `_posts/2026` (analogicky pro jiný rok)  najdete všechny články. Stačí vytvořit nový soubor ve formátu `YYYY-MM-DD-volitelny-popisek.md`. Datum v názvu je datum článku, zobrazí se u něj a je součástí jeho adresy. Článek s budoucím datem se na webu objeví automaticky brzy ráno v den svého data, protože web se každou noc znovu sestaví. Nezapomeňte, že obsah se píše pomocí markdownu. 
 
 Pár pravidel:
 
