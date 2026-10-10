@@ -1,9 +1,9 @@
 ---
 layout: post
 category: blog
-tags: terminovka
+tags: [terminovka]
 title: Turnaje odsunuty minimálně do druhé poloviny léta
-img: assets/img/posts/2020/turnaje2020_2aktualizace.jpg
+image: assets/img/posts/2020/turnaje2020_2aktualizace.jpg
 author: Míša Čakrtová
 ---
 

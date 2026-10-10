@@ -1,9 +1,9 @@
 ---
 layout: post
 category:
-tags: terminovka
+tags: [terminovka]
 title: Venkovní liga se bude hrát v září a říjnu od příští sezóny
-img: assets/img/posts/uzitecne/hra_15.jpg
+image: assets/img/posts/uzitecne/hra_15.jpg
 author: Marek Dostál a Jaromír Jáchym
 ---
 

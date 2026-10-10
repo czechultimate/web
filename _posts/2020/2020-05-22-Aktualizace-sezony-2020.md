@@ -1,9 +1,9 @@
 ---
 layout: post
 category: terminovka
-tags: terminovka, turnaj, turnaje, 2020, aktualizace
+tags: [terminovka, turnaj, turnaje, "2020", aktualizace]
 title: Aktualizované informace k sezóně 2020
-img: assets/img/posts/uzitecne/hra_9.jpg
+image: assets/img/posts/uzitecne/hra_9.jpg
 author: Tadeáš Grym
 ---
 **Krátký informační update k situaci okolo pandemie Covid-19**

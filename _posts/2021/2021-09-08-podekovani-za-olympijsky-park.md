@@ -3,7 +3,7 @@ layout: post
 category:
 tags:
 title: Děkujeme všem, co se podíleli na organizaci Olympijských parků v Praze a Brně
-img: assets/img/posts/2021/olympijsky_park_2021.jpg
+image: assets/img/posts/2021/olympijsky_park_2021.jpg
 author: Tereza Dvořáková
 ---
 

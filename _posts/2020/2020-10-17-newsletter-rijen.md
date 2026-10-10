@@ -1,9 +1,9 @@
 ---
 layout: post
 category: 
-tags: newsletter
+tags: [newsletter]
 title: "ČAU NEWSLETTER - říjen 2020"
-img: assets/img/posts/uzitecne/media_4.jpg
+image: assets/img/posts/uzitecne/media_4.jpg
 author: Marek Dostál
 ---
 

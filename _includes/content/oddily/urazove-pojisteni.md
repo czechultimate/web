@@ -21,7 +21,7 @@ Pojištění je také možné využít v případě žádosti o odškodnění pr
 
 Žádost pak pojišťovna vyhodnotí a spolu s rozhodnutím o výši odškodnění zašle danou částku na účet, který ve formuláři uvedete.
 
-Detailní informace k úrazovému pojištění, včetně zasmluvněného rozsahu pojištění, finančního plnění, formulářů a kontaktních osob a adres na pojišťovnu najdete [zde](https://www.cuscz.cz/sluzby-servis/vzp-2019.html).
+Detailní informace k úrazovému pojištění, včetně zasmluvněného rozsahu pojištění, finančního plnění, formulářů a kontaktních osob a adres na pojišťovnu najdete [zde](https://www.cuscz.cz/sluzby-servis/urazove-pojisteni-clenu-platne-od-1-2-2019-vzp.html).
 
 # A co dál
 

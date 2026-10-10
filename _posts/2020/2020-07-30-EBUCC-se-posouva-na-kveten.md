@@ -1,9 +1,9 @@
 ---
 layout: post
 category: evropska liga
-tags: beach, beachultimate, ultimate, ebucc, ebuc, euf
+tags: [beach, beachultimate, ultimate, ebucc, ebuc, euf]
 title: Říjnový EBUCC v Portugalsku se kvůli Covidu-19 posouvá na květen
-img: assets/img/posts/uzitecne/beach_2.jpg
+image: assets/img/posts/uzitecne/beach_2.jpg
 author: Alžběta Holcová
 ---
 Na plážové klubové mistrovství Evropy si po dlouhém vyjednávání budeme muset počkat až do příštího května 2021. Původní plán pořádat EBUCC letos v říjnu bohužel narušila aktuální situace v souvislosti s pandemií koronaviru. Mistrovství se týká třech českých týmů: Left Overs za open, Chupacabras za mixed a Východní blok v kategorii women.

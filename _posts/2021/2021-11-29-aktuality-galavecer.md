@@ -1,9 +1,9 @@
 ---
 layout: post
 category: blog
-tags: galavecer
+tags: [galavecer]
 title: Galavečer bude online
-img: assets/img/posts/2021/Galavecer2.jpg
+image: assets/img/posts/2021/Galavecer2.jpg
 author: Tereza Dvořáková
 ---
 

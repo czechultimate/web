@@ -3,7 +3,7 @@ layout: post
 category: 
 tags:
 title: "Máte v pořádku zápis ve spolkovém rejstříku?"
-img: assets/img/posts/2021/administrativa.jpeg
+image: assets/img/posts/2021/administrativa.jpeg
 author: Michaela Čakrtová
 ---
 

@@ -16,7 +16,7 @@ Pokud se budete chtít přihlasit do asociace, vyplňte a podepište Oddílovou 
 
 ## Pravidla
 
-Jak se to vlastně hraje správně? Kompletní oficiální pravidla najdete [zde]({{ 'pravidla' | relative_url }}). Pro začátek vám ale úplně stačí [tahle](http://www.frisbee.cz/strucna-pravidla-frisbee.html) stručnější.
+Jak se to vlastně hraje správně? Kompletní oficiální pravidla najdete [zde]({{ 'pravidla' | relative_url }}). Pro začátek vám ale úplně stačí [tahle](https://www.caufrisbee.cz/frisbee-je-cool) stručnější.
 
 ## Rady a zkušenosti
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 category: 
-tags: terminovka
+tags: [terminovka]
 title: "Termínovka 2021 je venku. Finále mixu v srpnu a open/women v září"
-img: assets/img/posts/uzitecne/hra_10.jpg
+image: assets/img/posts/uzitecne/hra_10.jpg
 author: Marek Dostál
 ---
 

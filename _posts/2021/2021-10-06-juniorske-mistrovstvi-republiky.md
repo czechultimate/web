@@ -1,9 +1,9 @@
 ---
 layout: post
 category:
-tags: juniori
+tags: [juniori]
 title: Juniorskými mistry a mistryněmi se staly 3SB a Chupacabras
-img: assets/img/posts/uzitecne/rozvoj_3.jpg
+image: assets/img/posts/uzitecne/rozvoj_3.jpg
 author: Tereza Dvořáková
 ---
 

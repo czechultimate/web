@@ -1,9 +1,9 @@
 ---
 layout: post
 category: reprezentace
-tags: reprezentace, světové mistrovství, WUGC, WFDF, WMUC, WJUC
+tags: [reprezentace, světové mistrovství, WUGC, WFDF, WMUC, WJUC]
 title: Aktualizace světových turnajů WFDF 2020
-img: assets/img/posts/uzitecne/wfdf_logo_2017.png
+image: assets/img/posts/uzitecne/wfdf_logo_2017.png
 author: Tadeáš Grym
 ---
 

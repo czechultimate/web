@@ -9,9 +9,7 @@
 
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
-    <meta name="author" content="Marek Dostal" />
-    <meta name="description" content="Česká asociace ultimate frisbee" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>ČAU Frisbee | {{ page.title }}</title>
     <link rel="shortcut icon" href="{{ 'favicon.ico' | relative_url }}" type="image/x-icon" />
     <link rel="icon" href="{{ 'favicon.ico' | relative_url }}" type="image/x-icon" />
@@ -31,18 +29,13 @@
         integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ=" crossorigin="anonymous"></script>
     <script src="{{ '/semantic/dist/semantic.min.js' | relative_url }}"></script>
 
-    <!-- Sidebar -->
-    <link rel="stylesheet" href="{{ '/semantic/dist/components/sidebar.css' | relative_url }}" />
-    <script src="{{ '/semantic/dist/components/sidebar.min.js' | relative_url }}"></script>
     <link rel="stylesheet" href="{{ '/assets/css/responsive-semantic-ui.css' | relative_url }}" />
 
     <!-- Custom css -->
     <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}" />
 
     <!-- SEO -->
-    {% seo %}
-
-    <meta property="og:locale" content="cs" />
+    {% seo title=false %}
 </head>
 
 <body>

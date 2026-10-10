@@ -3,7 +3,7 @@ layout: post
 category: blog
 tags:
 title: Jak z Evidence členů vygenerovat data pro&nbsp;sportovní rejstřík
-img: assets/img/posts/2020/agentura_logo.png
+image: assets/img/posts/2020/agentura_logo.png
 author: Míša Čakrtová
 ---
 

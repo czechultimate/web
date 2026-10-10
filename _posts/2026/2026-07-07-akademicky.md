@@ -1,9 +1,9 @@
 ---
 layout: post
 category:
-tags: turnaje
+tags: [turnaje]
 title: Ultimate frisbee bylo opět součástí Českých akademických her!
-img: assets/img/posts/2026/akademicky26.png
+image: assets/img/posts/2026/akademicky26.png
 author: Adéla Vejvoda
 ---
 **Již několik let v kuse bývá ultimate frisbee na programu Českých akademických her a bylo tomu tak i letos, kdy se na finálový turnaj v Brně sjelo 8 škol ze všech koutů republiky.**

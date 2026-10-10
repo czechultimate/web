@@ -31,18 +31,18 @@ Název zní to trochu strašidelně, ale [Místní akční skupiny](https://www.
 Momentálně nevíme o žádném použitelném grantu.
 
 # Minigranty ČAUF
-Grantový program České asociace ultimate určený na podporu projektů zaměřených na rozvoj a propagaci ultimate frisbee v ČR v jednotlivých regionech a městech směrem k širší veřejnosti. Podrobně popsáno [zde](http://czechultimate.cz/minigranty).
+Grantový program České asociace ultimate určený na podporu projektů zaměřených na rozvoj a propagaci ultimate frisbee v ČR v jednotlivých regionech a městech směrem k širší veřejnosti. Podrobně popsáno [zde](/minigranty).
 
 # Další
 Své dotační programy vypisují i další subjekty, nadace nebo velké firmy. Obvykle jsou také zaměřeny lokálně a musíte si je sledovat sami. Zde uvádíme pár příkladů a opět uvítáme vaše zkušenosti a tipy na reálné možnosti grantů.
 
-**Česká unie sportu (ČUS)** vypisuje program "Sportuj s námi" - pro vás je to velmi jednoduchá možnost, jak získat pár tisícovek pro svoji akci. Měla by to být akce alespoň trochu určena pro veřejnost - turnaj pro začátečníky a podobně. Žádost se podává do konce listopadu vyplněním jednoduchého formuláře na webu[http://www.cus-sportujsnami.cz](http://www.cus-sportujsnami.cz/).
+**Česká unie sportu (ČUS)** vypisuje program "Sportuj s námi" - pro vás je to velmi jednoduchá možnost, jak získat pár tisícovek pro svoji akci. Měla by to být akce alespoň trochu určena pro veřejnost - turnaj pro začátečníky a podobně. Žádost se podává do konce listopadu vyplněním jednoduchého formuláře na webu [http://www.cus-sportujsnami.cz](http://www.cus-sportujsnami.cz/).
 
-**Nadace Vodafone** - právě běží další ročník grantového programu Vpohybu, uzávěrka je 31. května.[http://nadacevodafone.cz/](http://nadacevodafone.cz/)
+**Nadace Vodafone** - právě běží další ročník grantového programu Vpohybu, uzávěrka je 31. května. [http://nadacevodafone.cz/](http://nadacevodafone.cz/)
 
 **ČSOB pomáhá regionům** - program zaměřený na podporu veřejně prospěšných projektů nekomerčního charakteru: [http://www.csobpomaharegionum.cz](http://www.csobpomaharegionum.cz/).
 
-**Tesco** -[http://pomahame.itesco.cz](http://pomahame.itesco.cz/) - spíše teoreticky, museli byste vymyslet projekt zaměřený na ohrožené nebo znevýhodněné děti. Tesco dává 30.000 Kč, uzávěrka je začátkem dubna.
+**Tesco** - spíše teoreticky, museli byste vymyslet projekt zaměřený na ohrožené nebo znevýhodněné děti. Tesco dává 30.000 Kč, uzávěrka je začátkem dubna.
 
 # Jednotlivci
 Podpořte své hráče v tom, aby si nechávali alespoň malou část nákladů na sport proplácet: zaměstnavatelem, zdravotní pojišťovnou nebo městem.

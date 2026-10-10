@@ -3,7 +3,7 @@ layout: post
 category: 
 tags:
 title: "Kurz trenérské licence II. třídy je na spadnutí. Registrace je možná pouze do 29. června!"
-img: assets/img/posts/2021/trenerske-licence.jpg
+image: assets/img/posts/2021/trenerske-licence.jpg
 author: Kateřina Langová
 ---
 

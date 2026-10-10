@@ -1,9 +1,9 @@
 ---
 layout: post
 category:
-tags: terminovka
+tags: [rozvoj]
 title: Hledáme rozvojového pracovníka
-img: assets/img/posts/uzitecne/rozvoj_1.jpg
+image: assets/img/posts/uzitecne/rozvoj_1.jpg
 author: Marek Dostál
 ---
 
