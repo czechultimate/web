@@ -1,0 +1,2 @@
+/* List text takes the color of its container, e.g. the lighter card description */
+@contentColor: inherit;

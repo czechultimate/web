@@ -1,7 +1,0 @@
-/*******************************
-     User Global Variables
-*******************************/
-
-@fontName : 'Open Sans';
-@fontFamily: 'sans-serif';
-@importGoogleFonts : true;
