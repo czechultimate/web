@@ -56,6 +56,7 @@ Označení hvězdičkou značí vítězství v kategorii Spirit of the Game.
 
 | Rok  | Akce | Místo                | OPEN  | WOMEN | MIXED |
 | ---- | ---- | -------------------- | ----- | ----- | ----- |
+| 2026 | MS   | Logroño, ESP         | 11/19  | 7/14  |       |
 | 2025 | ME   | Trnava, SVK          | 5/14  | 3/7  |       |
 | 2023 | ME   | Padova, ITA          | 7/12  | 3/12  |       |
 | 2022 | MS   | Vratislav, POL       | 12/12 | 5/10  |       |
