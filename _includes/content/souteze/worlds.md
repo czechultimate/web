@@ -4,7 +4,7 @@ První klubové mistrovství světa se konalo v německém Kolíně nad Rýnem v
 
 ## Worlds v Praze
 
-V roce 2010 měla i Praha tu čest pořádat klubové mistrovství světa. Do&nbsp;Prahy se sjelo na 136 týmů z 37 zemí světa. Akce trvala 7 dní a umožnila rozsáhlou propagaci sportu v České republice. Zápasy se hrály na Strahově a v Edenu.
+V roce 2010 měla i Praha tu čest pořádat klubové mistrovství světa. Do Prahy se sjelo na 136 týmů z 37 zemí světa. Akce trvala 7 dní a umožnila rozsáhlou propagaci sportu v České republice. Zápasy se hrály na Strahově a v Edenu.
 
 Soutěžilo se ve 4 kategoriích - v kategorii open, women, mixed a masters open. České barvy hájily celkem tři týmy, ze kterých největší úspěch slavil ženský tým Hot Beaches, který skončil na&nbsp;12.&nbsp;místě. Mezi evropskými týmy dokonce na druhém místě!
 
@@ -12,6 +12,7 @@ Soutěžilo se ve 4 kategoriích - v kategorii open, women, mixed a masters open
 
 | Rok  | Místo konání    | OPEN                  | WOMEN                 | MIXED                |
 | ---- | --------------- | --------------------- | --------------------- | -------------------- |
+| 2026 | Limerick, IRL    | 3SB (19/48)            | 3SB (22/40)           | bez účasti           |
 | 2018 | Cincinnati, USA | bez účasti            | bez účasti            | bez účasti           |
 | 2014 | Lecco, ITA      | Prague Devils (40/48) | Prague Devils (31/32) | FUJ (33/48)          |
 | 2010 | Praha, CZE      | Silence (26/48)       | Hot Beaches (12/32)   | Velká Morava (34/40) |
