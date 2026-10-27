@@ -4,7 +4,7 @@ Venkovní mistrovství republiky se odehrává každý rok a to ve třech katego
 
 | Rok  | OPEN             | WOMEN         | MIXED           |
 | ---- | ---------------- | ------------- | --------------- |
-| 2026 |                  |               | PeaceEgg        |
+| 2026 | F.U.J.          |  3SB             | PeaceEgg        |
 | 2025 | Terrible Monkeys | 3SB           | Terrible Monkeys|
 | 2024 | Terrible Monkeys | Východní Blok | 3SB             |
 | 2023 | Terrible Monkeys | Východní Blok | Terrible Monkeys|
