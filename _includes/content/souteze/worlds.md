@@ -1,4 +1,4 @@
-Mistrovství světa klubů (Worlds) se v současné době koná jednou za čtyři roky a kvalifikují se na ně nejlepší týmy z jednotlivých členských zemí Světové asociace létajícího disku (WFDF). Největší zastoupení mají tradičně americké, australské, japonské či britské týmy.
+Mistrovství světa klubů (WUCC) se v současné době koná jednou za čtyři roky a kvalifikují se na ně nejlepší týmy z jednotlivých členských zemí Světové asociace létajícího disku (WFDF). Největší zastoupení mají tradičně americké, australské, japonské či britské týmy.
 
 První klubové mistrovství světa se konalo v německém Kolíně nad Rýnem v roce 1989, až do roku 1999 se soutěž konala každé dva roky. Dalšími hostitelskými městy byly v průběhu let kanadské Toronto (1991), Madison ve Wisconsinu USA (1993), britské Milifield (1995), kanadský Vancouver (1997), St. Andrews ve Skotsku (1999), Honolulu, Hawai (2002), Perth v Austrálii (2006), Praha (2010), italské Lecco (2014), a naposledy Cincinnati ve státě Ohio, USA (2018).
 
