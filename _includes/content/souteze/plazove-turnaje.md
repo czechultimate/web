@@ -10,6 +10,7 @@ Mezi tradiční plážové turnaje patří například:
 
 | Rok  | OPEN          | WOMEN          | MIXED       |
 | ---- | ------------- | -------------- | ----------- |
+| 2026 |   *nekonalo se*    | *nekonalo se* |Prague Devils  |
 | 2025 |   *nekonalo se*    | *nekonalo se* |F.U.J.       |
 | 2024 | *nekonalo se*       | 3SB  |Terrible Monkeys |
 | 2023 | Brblava       | *nekonalo se*  | F.U.J.         |
